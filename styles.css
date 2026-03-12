@@ -1,0 +1,105 @@
+/* ==========================================================
+   styles.css — Professional serif aesthetic
+   ========================================================== */
+
+/* --- Global --- */
+body {
+  max-width: 960px;
+  margin: 0 auto;
+  color: #2C3E50;
+}
+
+/* --- Typography --- */
+h1, h2, h3, h4 {
+  font-family: 'Charter', 'Bitstream Charter', 'Noto Serif', Georgia, serif;
+  font-weight: 700;
+  color: #1a1a2e;
+  letter-spacing: -0.01em;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.45rem; margin-top: 2rem; border-bottom: 1px solid #e0e0e0; padding-bottom: 0.3rem; }
+h3 { font-size: 1.15rem; }
+
+p, li, td {
+  font-family: 'Charter', 'Bitstream Charter', 'Noto Serif', Georgia, serif;
+}
+
+a {
+  color: #18699e;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+a:hover {
+  border-bottom-color: #18699e;
+}
+
+/* --- Navbar --- */
+.navbar {
+  border-bottom: 2px solid #18BC9C;
+  font-family: 'Charter', 'Bitstream Charter', Georgia, serif;
+  font-size: 0.95rem;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+/* --- About page (landing) --- */
+.about-entity {
+  margin-top: 1.5rem;
+}
+
+.about-entity .about-link {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.about-entity img {
+  border: 3px solid #e8e8e8;
+}
+
+/* --- Listing cards (research page) --- */
+.quarto-listing .listing-title {
+  font-family: 'Charter', Georgia, serif;
+  font-weight: 600;
+}
+
+.quarto-listing .listing-description {
+  font-size: 0.92rem;
+  color: #555;
+}
+
+/* Category badges */
+.quarto-listing .listing-category .listing-category-item {
+  font-size: 0.78rem;
+  background-color: #f0f4f8;
+  color: #2C3E50;
+  border-radius: 3px;
+  padding: 2px 8px;
+}
+
+/* Table listing for policy briefs */
+.quarto-listing-table th {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #666;
+}
+
+/* --- Buttons (for PDF / DOI links in entries) --- */
+.btn-outline-primary {
+  font-size: 0.85rem;
+  border-radius: 3px;
+}
+
+/* --- Footer --- */
+.nav-footer {
+  font-size: 0.82rem;
+  color: #888;
+  border-top: 1px solid #e0e0e0;
+  margin-top: 3rem;
+  padding-top: 1rem;
+}

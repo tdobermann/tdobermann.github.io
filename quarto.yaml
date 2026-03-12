@@ -1,0 +1,216 @@
+# ============================================================
+# DIRECTORY STRUCTURE
+# ============================================================
+# my-website/
+# ├── _quarto.yml
+# ├── index.qmd
+# ├── research.qmd
+# ├── media.qmd
+# ├── styles.css
+# ├── profile.jpg
+# ├── favicon.png
+# ├── papers/
+# │ ├── paper1.qmd
+# │ └── paper2.qmd
+# └── policy/
+# ├── brief1.qmd
+# └── brief2.qmd
+
+
+# ============================================================
+# FILE: _quarto.yml
+# ============================================================
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Tim Dobermann"
+  description: "Director of Research & Environmental Economist"
+  site-url: https://www.timdobermann.com
+  favicon: favicon.png
+
+  # Open Graph metadata — controls how links render on LinkedIn/Twitter
+  open-graph:
+    locale: en_US
+    site-name: "Tim Dobermann"
+  twitter-card:
+    card-style: summary
+
+  page-footer:
+    center: "© 2026 Tim Dobermann"
+
+  navbar:
+    background: light
+    pinned: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Research & Policy"
+        file: research.qmd
+      - text: "Media"
+        file: media.qmd
+      - text: "CV"
+        href: cv.pdf
+        target: _blank
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tim-dobermann
+        aria-label: LinkedIn
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=YOUR_ID
+        aria-label: Google Scholar
+      - icon: github
+        href: https://github.com/
+        aria-label: GitHub
+
+format:
+  html:
+    theme:
+      light: flatly
+    css: styles.css
+    toc: false # Override per-page as needed
+    mainfont: "Charter, 'Bitstream Charter', 'Noto Serif', Georgia, serif"
+    fontsize: "1.05rem"
+    linestretch: 1.6
+
+
+# ============================================================
+# FILE: index.qmd
+# ============================================================
+# ---
+# title: "Tim Dobermann"
+# image: profile.jpg
+# toc: false
+# about:
+# template: solana
+# image-shape: rounded
+# image-width: 14em
+# links:
+# - icon: linkedin
+# text: LinkedIn
+# href: https://www.linkedin.com/in/tim-dobermann
+# - icon: envelope
+# text: Email
+# href: "mailto:your.email@example.com"
+# - icon: mortarboard-fill
+# text: Google Scholar
+# href: "https://scholar.google.com/citations?user=YOUR_ID"
+# ---
+#
+# I am the Director of Research at the [International Growth Centre](https://www.theigc.org/)
+# and a Research Fellow in Environmental Economics at the
+# [London School of Economics](https://www.lse.ac.uk/).
+#
+# My research sits at the intersection of environmental economics, public finance,
+# and structural transformation in low- and middle-income countries. I advise
+# governments across Asia and Africa on energy sector design and the distributional
+# consequences of climate change.
+#
+# ### Research Themes
+#
+# **Energy transition in emerging markets** — Evaluating power purchase agreements,
+# grid investment, and tariff reform in Pakistan, Myanmar, and East Africa.
+#
+# **Climate change and poverty** — Estimating the localized welfare costs of
+# extreme weather events using high-resolution spatial data.
+#
+# **Structural transformation and land use** — Public finance instruments and
+# land-use optimization for sustainable growth corridors.
+
+
+# ============================================================
+# FILE: research.qmd
+# ============================================================
+# ---
+# title: "Research & Policy"
+# toc: true
+# toc-depth: 2
+# listing:
+# - id: academic-papers
+# contents: papers/*.qmd
+# type: default
+# sort: "date desc"
+# categories: true
+# feed: true # Generates an RSS feed
+# - id: policy-briefs
+# contents: policy/*.qmd
+# type: table
+# sort: "date desc"
+# fields: [date, title]
+# field-display-names:
+# date: "Year"
+# title: "Title"
+# ---
+#
+# ## Academic Publications
+#
+# ::: {#academic-papers}
+# :::
+#
+# ## Policy Briefs & Reports
+#
+# ::: {#policy-briefs}
+# :::
+
+
+# ============================================================
+# FILE: media.qmd
+# ============================================================
+# ---
+# title: "Media & Commentary"
+# toc: false
+# ---
+#
+# Selected media appearances, op-eds, and public commentary.
+#
+# ### Op-Eds & Written Commentary
+#
+# - **Title of piece** — *Publication*, Month Year.
+# [Read →](https://link-to-article.com)
+#
+# ### Podcasts & Interviews
+#
+# - **Episode title** — *Podcast/Outlet*, Month Year.
+# [Listen →](https://link.com)
+#
+# ### Conference Presentations
+#
+# - **Talk title** — Conference Name, Location, Month Year.
+# [Slides (PDF)](link.pdf)
+
+
+# ============================================================
+# FILE: papers/paper1.qmd (SAMPLE ENTRY)
+# ============================================================
+# ---
+# title: "Energy Pricing and Welfare in Pakistan"
+# author: "Tim Dobermann, Coauthor Name"
+# date: "2024-03-15"
+# categories: [energy, public finance, Pakistan]
+# description: >
+# We estimate the welfare effects of electricity tariff reform using
+# household panel data, finding regressive incidence absent targeted
+# subsidies.
+# ---
+#
+# **Abstract.** We estimate the welfare effects of electricity tariff reform...
+#
+# [Working paper (PDF)](link-to-pdf.pdf){.btn .btn-outline-primary .btn-sm}
+# [Published version](https://doi.org/your-doi){.btn .btn-outline-secondary .btn-sm}
+
+
+# ============================================================
+# FILE: policy/brief1.qmd (SAMPLE ENTRY)
+# ============================================================
+# ---
+# title: "Designing Power Purchase Agreements for Myanmar"
+# date: "2023-11-01"
+# description: >
+# Policy brief for the Ministry of Electricity and Energy on
+# competitive procurement frameworks for independent power producers.
+# ---
+#
+# [Download brief (PDF)](link.pdf){.btn .btn-outline-primary .btn-sm}
+
+Tim
