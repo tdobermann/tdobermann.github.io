@@ -27,7 +27,7 @@ project:
 website:
   title: "Tim Dobermann"
   description: "Director of Research & Environmental Economist"
-  site-url: https://www.timdobermann.com
+  site-url: "https://www.timdobermann.com"
   favicon: favicon.png
 
   # Open Graph metadata — controls how links render on LinkedIn/Twitter
@@ -212,5 +212,3 @@ format:
 # ---
 #
 # [Download brief (PDF)](link.pdf){.btn .btn-outline-primary .btn-sm}
-
-Tim
