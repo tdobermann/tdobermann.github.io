@@ -1,0 +1,8 @@
+---
+title: "The Diffusion of Solar in Rural Economies: Markets and Frictions in Ethiopia"
+author: "Tim Dobermann"
+categories: [energy, Ethiopia]
+description: "Working paper."
+---
+
+Working paper.

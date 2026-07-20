@@ -6,7 +6,7 @@ listing:
   - id: academic-papers
     contents: papers/*.qmd
     type: default
-    sort: "date desc"
+    sort: "title asc"
     categories: true
     feed: true
   - id: policy-briefs

@@ -10,6 +10,9 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/timdobermann/
+    - icon: envelope
+      text: Email
+      href: "mailto:tdobermann@gmail.com"
     - icon: mortarboard-fill
       text: Google Scholar
       href: "https://scholar.google.com/citations?user=QSNCu9UAAAAJ"
@@ -18,17 +21,19 @@ about:
       href: "https://github.com/tdobermann"
 ---
 
-I am the Director of Research at the [International Growth Centre](https://www.theigc.org/) and a Research Fellow in Environmental Economics at the [London School of Economics](https://www.lse.ac.uk/). I hold a PhD in Economics from LSE.
+I am the Director of Research and Chief Economist at the [International Growth Centre](https://www.theigc.org/) and a Research Fellow in the Department of Economics at the [London School of Economics](https://www.lse.ac.uk/), within the Economics of Energy & Environment programme. I hold a PhD in Economics from LSE.
 
-My work sits at the intersection of environmental economics, development economics, and political economy. I advise governments across Asia and Africa on energy sector reform and public finance, and I lead IGC's research agenda on growth in low- and middle-income countries. Before joining IGC's research leadership, I worked as a Policy Economist across Bangladesh, Myanmar, Pakistan, and Afghanistan, and as IGC's Country Economist in Myanmar.
+My research spans energy, AI, climate change, and growth in the developing world. I have advised governments across Asia and Africa on energy and public finance issues, including Pakistan, Ethiopia, and Myanmar, and I lead a team of over 20 economists working across IGC's global portfolio.
 
 ### Research Themes
 
-**Energy transition in emerging markets** — Power sector reform, electrification, and the effects of energy access on development outcomes in Asia and Africa.
+**Energy and power sector reform** — Power purchase agreements, smart meters, electricity theft, and solar diffusion, with evidence from Pakistan, Ethiopia, Ghana, and Myanmar.
 
-**Climate change and poverty** — How climate shocks and natural disasters affect the poor, and whether adaptation can keep pace with a changing climate.
+**AI, structural transformation, and growth** — How artificial intelligence reshapes the ladder of development for low- and middle-income economies.
 
-**Political economy of development** — Political accountability, the role of mass media, deforestation and land use, and the institutions that shape growth.
+**Climate change and human capital** — Mobility, migration, and the unequal effects of a changing climate.
+
+**Public finance** — Customs evasion, tariff design, and subsidy reform, with a focus on Pakistan.
 
 <p style="margin-top: 2rem; font-size: 0.9rem; color: #888;">
 Also on <a href="https://bsky.app/profile/timdobermann.bsky.social">Bluesky</a> and <a href="https://x.com/timdobermann">X</a>.

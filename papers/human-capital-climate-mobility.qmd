@@ -1,0 +1,10 @@
+---
+title: "Human Capital, Mobility, and the Unequal Effects of Climate Change"
+author: "Tim Dobermann"
+categories: [climate change]
+description: >
+  Examines how human capital generates mobility across sectors and
+  locations, a key channel for climate adaptation.
+---
+
+**Abstract.** Examines how human capital generates mobility across sectors or locations, a key channel for climate adaptation. Exploits a historical schooling expansion in India to estimate reduced-form effects of human capital on adaptation, and estimates a spatial structural change model with climate change, occupational choice, and human capital investments to examine adaptation in general equilibrium.

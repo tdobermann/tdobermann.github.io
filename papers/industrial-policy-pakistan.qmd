@@ -1,0 +1,8 @@
+---
+title: "The Equilibrium Effects of an Industrial Policy: Evidence from Pakistan"
+author: "Tim Dobermann"
+categories: [growth, industrial policy, Pakistan]
+description: "Working paper."
+---
+
+Working paper.
