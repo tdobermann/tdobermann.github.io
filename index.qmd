@@ -21,7 +21,7 @@ page-layout: full
 
 ::: {.about-section}
 ::: {.about-photo}
-![](images/profile.svg)
+![](images/profile.jpg)
 :::
 
 ::: {.about-text}
