@@ -1,4 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
-  <rect width="64" height="64" rx="10" fill="#1a1a1a"/>
-  <text x="32" y="43" text-anchor="middle" font-family="Charter, Georgia, serif" font-size="28" font-weight="700" fill="#f7f4ee">TD</text>
+  <rect width="64" height="64" rx="10" fill="#f7f2e7"/>
+  <g fill="none" stroke="#8a5a33" stroke-width="2">
+    <rect x="14" y="14" width="36" height="36"/>
+    <rect x="14" y="14" width="36" height="36" transform="rotate(45 32 32)"/>
+  </g>
+  <text x="32" y="40" text-anchor="middle" font-family="'Cormorant Garamond', Charter, Georgia, serif" font-size="21" font-weight="600" fill="#2a241b">TD</text>
 </svg>

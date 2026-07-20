@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Tim Dobermann"
-  description: "Director of Research & Environmental Economist"
+  description: "Director of Research & Chief Economist, International Growth Centre"
   site-url: "https://www.timdobermann.com"
   favicon: images/favicon.svg
 
@@ -47,6 +47,6 @@ format:
       light: flatly
     css: styles.css
     toc: false
-    mainfont: "Charter, 'Bitstream Charter', 'Noto Serif', Georgia, serif"
-    fontsize: "1.05rem"
-    linestretch: 1.6
+    mainfont: "'EB Garamond', Charter, 'Bitstream Charter', 'Noto Serif', Georgia, serif"
+    fontsize: "1.1rem"
+    linestretch: 1.7

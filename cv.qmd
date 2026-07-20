@@ -1,5 +1,6 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
+subtitle: "Research, policy advising, and education"
 toc: true
 toc-depth: 2
 ---

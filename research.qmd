@@ -1,5 +1,6 @@
 ---
 title: "Research & Policy"
+subtitle: "Academic papers, working papers, and policy writing"
 toc: true
 toc-depth: 2
 listing:
