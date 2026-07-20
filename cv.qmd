@@ -1,0 +1,33 @@
+---
+title: "CV"
+toc: false
+---
+
+<!--
+TODO (Tim): This page is a placeholder drafted from public information, since
+I could not access your Wix site or a source PDF directly. Two options:
+1. Drop a real cv.pdf into this repo and change the navbar entry in
+   _quarto.yaml back to `href: cv.pdf`.
+2. Keep this page and fill in the sections below with your full CV.
+-->
+
+## Positions
+
+- **Director of Research**, International Growth Centre — present
+- **Research Fellow in Environmental Economics**, London School of Economics — present
+- **Consultant**, World Bank — 2024
+- **Policy Economist**, International Growth Centre (Bangladesh, Myanmar, Pakistan, Afghanistan) — 2017–2018
+- **Country Economist**, International Growth Centre, Myanmar
+
+## Education
+
+- **PhD, Economics** — London School of Economics
+
+## Research Interests
+
+Environmental economics, development economics, and political economy —
+including energy access and electrification, climate change and poverty,
+natural disasters, political accountability, mass media, deforestation,
+land use, and industrial policy.
+
+[Full CV (PDF) — coming soon](#){.btn .btn-outline-primary .btn-sm}

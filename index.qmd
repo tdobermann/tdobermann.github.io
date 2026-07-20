@@ -1,0 +1,35 @@
+---
+title: "Tim Dobermann"
+image: images/profile.svg
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/timdobermann/
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=QSNCu9UAAAAJ"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/tdobermann"
+---
+
+I am the Director of Research at the [International Growth Centre](https://www.theigc.org/) and a Research Fellow in Environmental Economics at the [London School of Economics](https://www.lse.ac.uk/). I hold a PhD in Economics from LSE.
+
+My work sits at the intersection of environmental economics, development economics, and political economy. I advise governments across Asia and Africa on energy sector reform and public finance, and I lead IGC's research agenda on growth in low- and middle-income countries. Before joining IGC's research leadership, I worked as a Policy Economist across Bangladesh, Myanmar, Pakistan, and Afghanistan, and as IGC's Country Economist in Myanmar.
+
+### Research Themes
+
+**Energy transition in emerging markets** — Power sector reform, electrification, and the effects of energy access on development outcomes in Asia and Africa.
+
+**Climate change and poverty** — How climate shocks and natural disasters affect the poor, and whether adaptation can keep pace with a changing climate.
+
+**Political economy of development** — Political accountability, the role of mass media, deforestation and land use, and the institutions that shape growth.
+
+<p style="margin-top: 2rem; font-size: 0.9rem; color: #888;">
+Also on <a href="https://bsky.app/profile/timdobermann.bsky.social">Bluesky</a> and <a href="https://x.com/timdobermann">X</a>.
+</p>

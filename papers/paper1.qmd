@@ -1,0 +1,22 @@
+---
+title: "Innovation, Growth, and the Environment"
+author: "Robin Burgess, Stefano Caria, Tim Dobermann, Edoardo Saggese"
+date: "2023-01-01"
+categories: [environment, growth, innovation]
+description: >
+  An IGC white paper examining how innovation policy can be directed toward
+  environmental goals without sacrificing growth in low- and middle-income
+  countries.
+---
+
+**Summary.** This paper sets out how green innovation and growth-enhancing
+industrial policy can be combined in developing-country contexts, drawing on
+IGC research on energy, environment, and structural transformation.
+
+[Read on the IGC website →](https://www.theigc.org/news/innovation-growth-and-environment){.btn .btn-outline-primary .btn-sm}
+
+<!--
+TODO (Tim): Replace this entry with the exact title, author order, abstract,
+and links from your CV / the Wix site — I could not confirm every detail
+against the primary source and drafted this from public search results.
+-->

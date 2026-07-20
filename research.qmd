@@ -1,0 +1,32 @@
+---
+title: "Research & Policy"
+toc: true
+toc-depth: 2
+listing:
+  - id: academic-papers
+    contents: papers/*.qmd
+    type: default
+    sort: "date desc"
+    categories: true
+    feed: true
+  - id: policy-briefs
+    contents: policy/*.qmd
+    type: table
+    sort: "date desc"
+    fields: [date, title]
+    field-display-names:
+      date: "Year"
+      title: "Title"
+---
+
+My research covers environmental economics, development economics, and political economy, with a focus on energy, climate adaptation, and the political economy of growth in low- and middle-income countries.
+
+## Academic Publications
+
+::: {#academic-papers}
+:::
+
+## Policy Briefs & Reports
+
+::: {#policy-briefs}
+:::

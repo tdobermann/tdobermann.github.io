@@ -1,0 +1,10 @@
+---
+title: "Add your next policy brief here"
+date: "2024-01-01"
+description: >
+  Placeholder entry — replace title, date, and description, then add a link
+  to the brief below.
+draft: true
+---
+
+[Download brief (PDF)](#){.btn .btn-outline-primary .btn-sm}

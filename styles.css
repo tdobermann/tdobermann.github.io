@@ -1,12 +1,16 @@
 /* ==========================================================
-   styles.css — Professional serif aesthetic
+   styles.css — Minimal, whitespace-forward academic aesthetic
    ========================================================== */
 
 /* --- Global --- */
 body {
-  max-width: 960px;
+  max-width: 860px;
   margin: 0 auto;
   color: #2C3E50;
+}
+
+main.content {
+  padding-top: 1.5rem;
 }
 
 /* --- Typography --- */
@@ -17,9 +21,9 @@ h1, h2, h3, h4 {
   letter-spacing: -0.01em;
 }
 
-h1 { font-size: 2rem; }
-h2 { font-size: 1.45rem; margin-top: 2rem; border-bottom: 1px solid #e0e0e0; padding-bottom: 0.3rem; }
-h3 { font-size: 1.15rem; }
+h1 { font-size: 2.25rem; font-weight: 400; letter-spacing: -0.02em; }
+h2 { font-size: 1.35rem; margin-top: 3rem; border-bottom: none; padding-bottom: 0; }
+h3 { font-size: 1.1rem; margin-top: 1.75rem; }
 
 p, li, td {
   font-family: 'Charter', 'Bitstream Charter', 'Noto Serif', Georgia, serif;
@@ -37,28 +41,38 @@ a:hover {
 
 /* --- Navbar --- */
 .navbar {
-  border-bottom: 2px solid #18BC9C;
+  border-bottom: 1px solid #e5e9ec;
   font-family: 'Charter', 'Bitstream Charter', Georgia, serif;
-  font-size: 0.95rem;
+  font-size: 0.92rem;
+  box-shadow: none;
 }
 
 .navbar-brand {
-  font-weight: 700;
-  letter-spacing: 0.02em;
+  font-weight: 600;
+  letter-spacing: 0.01em;
 }
 
 /* --- About page (landing) --- */
 .about-entity {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
+}
+
+.about-entity .about-image {
+  box-shadow: none;
 }
 
 .about-entity .about-link {
-  font-weight: 600;
-  font-size: 0.9rem;
+  font-weight: 500;
+  font-size: 0.88rem;
+  color: #2C3E50;
+}
+
+.about-entity .about-link:hover {
+  color: #18699e;
 }
 
 .about-entity img {
-  border: 3px solid #e8e8e8;
+  border: none;
 }
 
 /* --- Listing cards (research page) --- */
