@@ -8,6 +8,10 @@ page-layout: full
 ::: {.hero-inner}
 <span class="eyebrow">International Growth Centre &nbsp;·&nbsp; London School of Economics</span>
 
+::: {.hero-photo}
+![](images/profile.jpg)
+:::
+
 # Tim Dobermann
 
 <p class="tagline">Director of Research &amp; Chief Economist</p>
@@ -22,22 +26,6 @@ page-layout: full
 <a href="https://github.com/tdobermann" aria-label="GitHub"><i class="bi bi-github"></i></a>
 <a href="mailto:tdobermann@gmail.com" aria-label="Email"><i class="bi bi-envelope"></i></a>
 </div>
-:::
-:::
-
-::: {.about-section}
-::: {.about-photo}
-![](images/profile.jpg)
-:::
-
-::: {.about-text}
-## About
-
-I am the Director of Research and Chief Economist at the [International Growth Centre](https://www.theigc.org/) and a Research Fellow in the Department of Economics at the [London School of Economics](https://www.lse.ac.uk/), within the Economics of Energy &amp; Environment programme. I hold a PhD in Economics from LSE.
-
-My research spans energy, AI, climate change, and growth in the developing world. I have advised governments across Asia and Africa on energy and public finance — including Pakistan, Ethiopia, and Myanmar — and I lead a team of over twenty economists working across the IGC's global portfolio.
-
-<p class="aside-note">Also writing and thinking aloud on <a href="https://bsky.app/profile/timdobermann.bsky.social">Bluesky</a> and <a href="https://x.com/timdobermann">X</a>.</p>
 :::
 :::
 
@@ -102,7 +90,7 @@ Customs evasion, tariff design, and subsidy reform, with a focus on Pakistan's f
 </li>
 </ul>
 
-<p class="band-more">Full list of papers and policy writing on the [Research &amp; Policy](research.qmd) page →</p>
+<p class="band-more">Full list of papers on the [Research](research.qmd) page, and briefs and reports on the [Policy](policy.qmd) page →</p>
 :::
 :::
 
@@ -111,5 +99,5 @@ Customs evasion, tariff design, and subsidy reform, with a focus on Pakistan's f
 
 ## In the Policy Room
 
-<p>Recent engagements include advising Pakistan's Prime Minister and Ministers of Energy and Finance on tariff and tax reform, and Ethiopia's Ministry of Planning on national energy policy. Details on the [CV](cv.qmd) page.</p>
+<p>Recent engagements include advising Pakistan's Prime Minister and Ministers of Energy and Finance on tariff and tax reform, and Ethiopia's Ministry of Planning on national energy policy. More on the [Policy](policy.qmd) and [CV](cv.qmd) pages.</p>
 :::

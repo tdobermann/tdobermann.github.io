@@ -24,8 +24,12 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - text: "Research & Policy"
+      - text: "About"
+        file: about.qmd
+      - text: "Research"
         file: research.qmd
+      - text: "Policy"
+        file: policy.qmd
       - text: "Media"
         file: media.qmd
       - text: "CV"
