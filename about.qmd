@@ -1,0 +1,17 @@
+---
+title: "About"
+subtitle: "Background and research"
+toc: false
+---
+
+I am the Director of Research and Chief Economist at the [International Growth Centre](https://www.theigc.org/) and a Research Fellow in the Department of Economics at the [London School of Economics](https://www.lse.ac.uk/), within the Economics of Energy &amp; Environment programme. I hold a PhD in Economics from LSE.
+
+My research spans energy, AI, climate change, and growth in the developing world. I have advised governments across Asia and Africa on energy and public finance — including Pakistan, Ethiopia, and Myanmar — and I lead a team of over twenty economists working across the IGC's global portfolio.
+
+Much of my work sits at the seam between frontier research and the rooms where economic policy is actually decided. I care about questions that are analytically hard and immediately consequential: how to price and reform a power sector, how economies climb the ladder of development, and who bears the cost of a changing climate.
+
+::: {.placeholder-note}
+Placeholder — a natural spot for a more personal paragraph: what drew you to development economics, your approach to combining research with advising governments, or interests outside work. Replace or delete this note.
+:::
+
+Also writing and thinking aloud on [Bluesky](https://bsky.app/profile/timdobermann.bsky.social) and [X](https://x.com/timdobermann).

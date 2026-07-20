@@ -1,172 +1,471 @@
-/* ==========================================================
-   styles.css — Warm minimal academic aesthetic
-   ========================================================== */
+/* ============================================================
+   styles.css — Tim Dobermann
+   Elegant serif · light cream & warm wood · navy standout ·
+   Japanese-minimalist spacing, Islamic-geometry ornament
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap');
 
 :root {
-  --cream: #f7f4ee;
-  --ink: #1a1a1a;
-  --ink-soft: #55524c;
-  --accent: #18699e;
-  --pill-bg: #efece3;
+  --paper: #faf6ee;          /* light warm cream */
+  --paper-deep: #f2ecdd;     /* softly deeper cream for bands */
+  --ink: #2a241b;            /* warm near-black */
+  --ink-soft: #6e6353;       /* muted umber-grey */
+  --line: #e2d9c6;           /* hairline */
+  --line-faint: #ece5d6;
+
+  --navy: #1e3a5f;           /* standout: links, lines, tabs */
+  --navy-bright: #2d5788;    /* link hover */
+
+  --wood: #8a5a33;           /* walnut — warm signature band */
+  --wood-deep: #5f3f24;      /* dark walnut */
+
+  --serif-display: 'Cormorant Garamond', 'Charter', Georgia, serif;
+  --serif-text: 'EB Garamond', 'Charter', Georgia, serif;
 }
 
-/* --- Global --- */
+/* ------------------------------------------------------------
+   Global
+   ------------------------------------------------------------ */
 body {
-  background-color: var(--cream);
+  background-color: var(--paper);
   color: var(--ink);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: var(--serif-text);
+  font-size: 1.14rem;
+  line-height: 1.7;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'onum' 1, 'liga' 1; /* old-style figures */
 }
 
-.page-columns, main.content {
-  max-width: 860px;
+/* slim walnut band across the very top of every page */
+body::before {
+  content: "";
+  display: block;
+  height: 4px;
+  width: 100%;
+  background: linear-gradient(90deg,
+    var(--wood-deep) 0%, var(--wood) 22%, #a5754a 50%,
+    var(--wood) 78%, var(--wood-deep) 100%);
+}
+
+main.content {
+  max-width: 47rem;
   margin: 0 auto;
   padding-top: 1.5rem;
 }
 
-/* --- Typography --- */
-h1, h2, h3, h4 {
-  font-family: 'Charter', 'Bitstream Charter', 'Noto Serif', Georgia, serif;
-  font-weight: 700;
-  color: var(--ink);
-  letter-spacing: -0.01em;
+::selection {
+  background: rgba(30, 58, 95, 0.15);
 }
 
-h1 { font-size: 2.1rem; }
-h2 { font-size: 1.35rem; margin-top: 3rem; border-bottom: none; padding-bottom: 0; }
-h3 { font-size: 1.1rem; margin-top: 1.75rem; }
+/* ------------------------------------------------------------
+   Typography
+   ------------------------------------------------------------ */
+h1, h2, h3, h4 {
+  font-family: var(--serif-display);
+  font-weight: 500;
+  color: var(--ink);
+  letter-spacing: 0.005em;
+}
+
+h1, .title {
+  font-size: 2.5rem;
+  line-height: 1.15;
+}
+
+h2 {
+  font-size: 1.7rem;
+  margin-top: 3.25rem;
+  margin-bottom: 1.1rem;
+  padding-bottom: 0.55rem;
+  border-bottom: none;
+  position: relative;
+}
+/* short hairline with a navy tick — quiet section punctuation */
+h2::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 2.75rem;
+  border-bottom: 2px solid var(--navy);
+}
+
+h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-top: 2rem;
+}
 
 p, li, td {
-  line-height: 1.65;
+  line-height: 1.7;
 }
+
+strong { font-weight: 600; }
 
 a {
-  color: var(--accent);
+  color: var(--navy);
   text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color 0.2s;
+  border-bottom: 1px solid rgba(30, 58, 95, 0.28);
+  transition: color 0.2s ease, border-color 0.2s ease;
 }
 a:hover {
-  border-bottom-color: var(--accent);
+  color: var(--navy-bright);
+  border-bottom-color: var(--navy-bright);
 }
 
-/* --- Navbar --- */
+blockquote {
+  border-left: 2px solid var(--navy);
+  color: var(--ink-soft);
+  font-style: italic;
+  padding-left: 1.25rem;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--line);
+  margin: 3rem auto;
+  max-width: 12rem;
+  opacity: 1;
+}
+
+/* Quarto page title block */
+#title-block-header {
+  margin-bottom: 2rem;
+}
+#title-block-header .title {
+  font-family: var(--serif-display);
+  font-weight: 500;
+  font-size: 2.6rem;
+  margin-bottom: 0.25rem;
+}
+#title-block-header .subtitle,
+#title-block-header .description {
+  font-family: var(--serif-text);
+  font-style: italic;
+  color: var(--ink-soft);
+  font-size: 1.15rem;
+}
+
+/* small-caps label utility (eyebrows, meta lines) */
+.smallcaps-label,
+.eyebrow {
+  font-family: var(--serif-text);
+  font-size: 0.82rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--navy);
+}
+
+/* aside / social note */
+.aside-note {
+  margin-top: 1.5rem;
+  font-size: 0.98rem;
+  font-style: italic;
+  color: var(--ink-soft);
+}
+
+/* ------------------------------------------------------------
+   Ornament — an eight-pointed star drawn in CSS
+   usage: <span class="ornament" aria-hidden="true"></span>
+   ------------------------------------------------------------ */
+.ornament {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.1rem;
+  margin: 1.9rem auto;
+}
+.ornament::before,
+.ornament::after {
+  content: "";
+  flex: 0 0 4.5rem;
+  border-top: 1px solid var(--line);
+}
+.ornament span {
+  position: relative;
+  width: 0.62rem;
+  height: 0.62rem;
+  border: 1px solid var(--navy);
+  transform: rotate(0deg);
+}
+.ornament span::after {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border: 1px solid var(--navy);
+  transform: rotate(45deg);
+}
+
+/* ------------------------------------------------------------
+   Navbar
+   ------------------------------------------------------------ */
 .navbar {
-  background-color: var(--cream) !important;
-  border-bottom: 1px solid #e5e1d6;
-  font-size: 0.92rem;
+  background-color: var(--paper) !important;
+  border-bottom: 1px solid var(--navy);
   box-shadow: none;
+  padding-top: 0.9rem;
+  padding-bottom: 0.9rem;
 }
 
-.navbar-brand {
-  font-family: 'Charter', Georgia, serif;
-  font-weight: 700;
-  letter-spacing: 0.01em;
+.navbar-brand,
+.navbar-title {
+  font-family: var(--serif-display);
+  font-weight: 600;
+  font-size: 1.32rem;
+  letter-spacing: 0.02em;
+  color: var(--ink) !important;
+  border-bottom: none;
 }
 
-/* ==========================================================
-   Landing page hero (index.qmd)
-   ========================================================== */
+.navbar .nav-link {
+  font-family: var(--serif-text);
+  font-size: 0.84rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-soft) !important;
+  border-bottom: none;
+  padding-left: 0.9rem;
+  padding-right: 0.9rem;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link.active,
+.navbar .nav-item.active .nav-link {
+  color: var(--navy) !important;
+}
+
+.navbar .nav-link i.bi {
+  font-size: 1.02rem;
+  color: var(--ink-soft);
+}
+.navbar .nav-link:hover i.bi {
+  color: var(--navy);
+}
+
+/* ------------------------------------------------------------
+   Landing page — hero
+   ------------------------------------------------------------ */
 .hero {
   position: relative;
   width: 100vw;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
-  padding: 4.5rem 1.5rem 4rem;
+  padding: 4.5rem 1.5rem 4.5rem;
   text-align: center;
-  overflow: hidden;
-  background-color: var(--cream);
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140' viewBox='0 0 140 140'%3E%3Cg fill='none' stroke-linecap='round' stroke-width='4'%3E%3Cpath stroke='%23a6c6bd' d='M14 34l6 7 11-14'/%3E%3Cpath stroke='%23c9a577' d='M118 20l5 6 9-11'/%3E%3Cpath stroke='%238ba0bf' d='M60 12l5 6 9-11'/%3E%3Cpath stroke='%23b7b19f' d='M92 70l5 6 9-11'/%3E%3Cpath stroke='%23a6c6bd' d='M24 90l5 6 9-11'/%3E%3Cpath stroke='%23c9a577' d='M130 100l5 6 9-11'/%3E%3Cpath stroke='%238ba0bf' d='M50 118l5 6 9-11'/%3E%3Cpath stroke='%23b7b19f' d='M4 120l5 6 9-11'/%3E%3C/g%3E%3C/svg%3E");
-  background-size: 140px 140px;
-  background-repeat: repeat;
+  background-color: var(--paper);
+  border-bottom: 1px solid var(--line);
 }
 
 .hero-inner {
   position: relative;
   z-index: 1;
-  max-width: 860px;
+  max-width: 54rem;
   margin: 0 auto;
 }
 
+.hero .eyebrow {
+  display: block;
+  margin-bottom: 1.5rem;
+}
+
+/* circular portrait sitting on top of the name */
+.hero-photo {
+  margin: 0 auto 1.5rem;
+  line-height: 0;
+}
+.hero-photo p { margin: 0; }
+.hero-photo img {
+  width: 9rem;
+  height: 9rem;
+  margin: 0 auto;
+  display: block;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 22%;
+  outline: 1px solid rgba(30, 58, 95, 0.5);
+  outline-offset: 4px;
+  filter: sepia(0.05);
+}
+
 .hero h1 {
-  font-family: 'Charter', 'Bitstream Charter', 'Noto Serif', Georgia, serif;
-  font-weight: 700;
-  font-size: 4rem;
-  line-height: 1.05;
-  letter-spacing: -0.02em;
+  font-family: var(--serif-display);
+  font-weight: 500;
+  font-size: 4.4rem;
+  line-height: 1.02;
+  letter-spacing: 0.01em;
   margin: 0;
-  color: var(--ink);
 }
 
 .hero .tagline {
-  font-family: 'Charter', 'Bitstream Charter', Georgia, serif;
+  font-family: var(--serif-text);
   font-style: italic;
-  font-size: 1.25rem;
+  font-size: 1.32rem;
   color: var(--ink-soft);
-  margin-top: 0.75rem;
+  margin-top: 0.9rem;
+  margin-bottom: 0;
+}
+
+.hero .ornament {
+  margin: 1.6rem auto 1.5rem;
+}
+
+.hero .hero-lede {
+  font-size: 1.13rem;
+  color: var(--ink-soft);
+  max-width: 34rem;
+  margin: 0 auto;
 }
 
 .hero-icons {
   display: flex;
   justify-content: center;
-  gap: 0.75rem;
-  margin-top: 1.75rem;
+  gap: 0.9rem;
+  margin-top: 1.9rem;
 }
-
 .hero-icons a {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2.6rem;
-  height: 2.6rem;
-  border-radius: 0.55rem;
-  background: var(--ink);
-  color: var(--cream);
-  border-bottom: none;
-  font-size: 1.1rem;
-  transition: transform 0.15s, background 0.15s;
+  width: 2.7rem;
+  height: 2.7rem;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  background: transparent;
+  color: var(--ink-soft);
+  font-size: 1.05rem;
+  transition: color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
 }
-
 .hero-icons a:hover {
-  background: var(--accent);
+  color: var(--navy);
+  border-color: var(--navy);
   transform: translateY(-2px);
 }
 
-/* --- About section below hero --- */
-.about-section {
-  display: flex;
-  gap: 3rem;
-  align-items: flex-start;
-  max-width: 860px;
-  margin: 3.5rem auto 3rem;
+/* ------------------------------------------------------------
+   About page — prose (photo now lives in the hero)
+   ------------------------------------------------------------ */
+/* uses default content styling; nothing bespoke required */
+
+/* ------------------------------------------------------------
+   Landing page — research themes
+   ------------------------------------------------------------ */
+.themes-section {
+  max-width: 54rem;
+  margin: 4.5rem auto 0;
   padding: 0 1.5rem;
 }
 
-.about-photo img {
-  width: 13rem;
-  border-radius: 0.9rem;
-  border: none;
-  display: block;
+.themes-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.2rem 3rem;
+  margin-top: 2rem;
 }
 
-.about-text {
-  flex: 1;
-  min-width: 0;
+.theme {
+  border-top: 1px solid var(--line);
+  padding-top: 1.1rem;
+}
+.theme .theme-index {
+  font-family: var(--serif-display);
+  font-style: italic;
+  font-size: 0.95rem;
+  color: var(--navy);
+  letter-spacing: 0.08em;
+}
+.theme h3 {
+  font-size: 1.28rem;
+  margin: 0.3rem 0 0.5rem;
+}
+.theme p {
+  font-size: 1.02rem;
+  color: var(--ink-soft);
+  margin-bottom: 0;
 }
 
-.about-text h2 {
+/* ------------------------------------------------------------
+   Landing page — selected work band
+   ------------------------------------------------------------ */
+.selected-band {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  margin-top: 4.5rem;
+  padding: 3.75rem 1.5rem 4rem;
+  background-color: var(--paper-deep);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.selected-band .band-inner {
+  max-width: 54rem;
+  margin: 0 auto;
+}
+.selected-band h2 {
   margin-top: 0;
 }
 
-@media (max-width: 700px) {
-  .hero h1 { font-size: 2.6rem; }
-  .hero .tagline { font-size: 1.05rem; }
-  .about-section { flex-direction: column; gap: 1.5rem; }
-  .about-photo img { width: 8rem; }
+.selected-list {
+  list-style: none;
+  margin: 1.75rem 0 0;
+  padding: 0;
+}
+.selected-list li {
+  padding: 1.05rem 0;
+  border-bottom: 1px solid var(--line);
+}
+.selected-list li:first-child {
+  border-top: 1px solid var(--line);
+}
+.selected-list .work-title {
+  font-family: var(--serif-display);
+  font-weight: 600;
+  font-size: 1.22rem;
+  display: block;
+  width: fit-content;
+  border-bottom: 1px solid transparent;
+}
+.selected-list .work-title:hover {
+  border-bottom-color: var(--navy);
+}
+.selected-list .work-note {
+  display: block;
+  font-size: 0.98rem;
+  color: var(--ink-soft);
+  margin-top: 0.15rem;
 }
 
-/* ==========================================================
-   Research listing — pill-style category filters & link chips
-   ========================================================== */
+.band-more {
+  margin-top: 1.6rem;
+  font-style: italic;
+}
+
+/* ------------------------------------------------------------
+   Landing page — closing / contact line
+   ------------------------------------------------------------ */
+.closing-section {
+  max-width: 54rem;
+  margin: 4rem auto 4.5rem;
+  padding: 0 1.5rem;
+  text-align: center;
+}
+.closing-section h2::after {
+  left: 50%;
+  transform: translateX(-50%);
+}
+.closing-section p {
+  max-width: 34rem;
+  margin: 0.5rem auto 0;
+  color: var(--ink-soft);
+}
+
+/* ------------------------------------------------------------
+   Research / Policy listing pages
+   ------------------------------------------------------------ */
+.quarto-listing {
+  margin-top: 1.5rem;
+}
+
+/* category filter pills */
 .quarto-listing-category,
 .quarto-listing-category-sidebar {
   display: flex;
@@ -174,87 +473,172 @@ a:hover {
   gap: 0.5rem;
   margin-bottom: 2rem;
 }
-
-.quarto-listing-category-title {
-  display: none;
-}
+.quarto-listing-category-title { display: none; }
 
 .quarto-listing-category .category,
-.quarto-listing-category-sidebar .category,
-.quarto-listing-category div[class*="category-item"] {
+.quarto-listing-category-sidebar .category {
   display: inline-flex;
   align-items: center;
-  gap: 0.35rem;
-  background: #fff;
-  border: 1px solid #e5e1d6;
-  border-radius: 999px;
-  padding: 0.4rem 0.9rem;
-  font-size: 0.85rem;
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: 0;
+  padding: 0.32rem 0.85rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
   color: var(--ink-soft);
   cursor: pointer;
+  transition: color 0.2s ease, border-color 0.2s ease;
 }
-
+.quarto-listing-category .category:hover {
+  border-color: var(--navy);
+  color: var(--navy);
+}
 .quarto-listing-category .category.active,
-.quarto-listing-category-sidebar .category.active,
 .quarto-listing-category .quarto-category-active {
-  background: var(--ink);
-  border-color: var(--ink);
-  color: #fff;
+  background: transparent;
+  border-color: var(--navy);
+  color: var(--navy);
 }
 
-/* Category badges on individual listing items */
+/* listing entries */
+div.quarto-post {
+  border-top: 1px solid var(--line);
+  border-bottom: none;
+  padding: 1.4rem 0;
+  gap: 0;
+}
+div.quarto-post:last-of-type {
+  border-bottom: 1px solid var(--line);
+}
+div.quarto-post .body h3.listing-title,
 .quarto-listing .listing-title {
-  font-family: 'Charter', Georgia, serif;
-  font-weight: 700;
+  font-family: var(--serif-display);
+  font-weight: 600;
+  font-size: 1.3rem;
+  margin-top: 0;
 }
-
+div.quarto-post .listing-description,
 .quarto-listing .listing-description {
-  font-size: 0.92rem;
+  font-size: 1rem;
   color: var(--ink-soft);
 }
-
+div.quarto-post .listing-categories .listing-category,
 .quarto-listing .listing-category .listing-category-item {
-  font-size: 0.72rem;
+  font-size: 0.7rem;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
-  background-color: var(--pill-bg);
+  letter-spacing: 0.1em;
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: 0;
   color: var(--ink-soft);
-  border-radius: 999px;
-  padding: 3px 10px;
+  padding: 2px 9px;
 }
 
-/* Table listing for policy briefs */
+/* table listings (policy briefs) */
+.quarto-listing-table {
+  font-size: 1.02rem;
+}
 .quarto-listing-table th {
-  font-size: 0.85rem;
+  font-family: var(--serif-text);
+  font-size: 0.8rem;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
-  color: #666;
+  letter-spacing: 0.14em;
+  font-weight: 500;
+  color: var(--ink-soft);
+  border-bottom: 2px solid var(--navy) !important;
+}
+.quarto-listing-table td {
+  border-color: var(--line-faint) !important;
+}
+.quarto-listing-table a {
+  border-bottom-color: transparent;
+}
+.quarto-listing-table a:hover {
+  border-bottom-color: var(--navy);
 }
 
-/* --- Buttons (for PDF / DOI / read-more links) --- */
+/* buttons (PDF / DOI links) */
 .btn-outline-primary,
 .btn-outline-secondary {
-  font-size: 0.8rem;
-  border-radius: 999px;
+  font-family: var(--serif-text);
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
-  border-color: #d8d3c4;
+  border-radius: 0;
+  border-color: var(--line);
   color: var(--ink-soft);
+  background: transparent;
 }
-
 .btn-outline-primary:hover,
 .btn-outline-secondary:hover {
-  background: var(--ink);
-  border-color: var(--ink);
-  color: #fff;
+  background: transparent;
+  border-color: var(--navy);
+  color: var(--navy);
 }
 
-/* --- Footer --- */
+/* placeholder / to-be-added content */
+.placeholder-note {
+  border: 1px dashed var(--navy);
+  padding: 0.9rem 1.2rem;
+  font-size: 0.98rem;
+  font-style: italic;
+  color: var(--ink-soft);
+  background: var(--paper-deep);
+}
+
+/* ------------------------------------------------------------
+   TOC (CV & listing pages)
+   ------------------------------------------------------------ */
+#TOC, nav[role="doc-toc"] {
+  font-family: var(--serif-text);
+  font-size: 0.9rem;
+}
+nav[role="doc-toc"] > h2 {
+  font-size: 0.8rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-family: var(--serif-text);
+  color: var(--ink-soft);
+}
+nav[role="doc-toc"] > h2::after { display: none; }
+nav[role="doc-toc"] a {
+  color: var(--ink-soft);
+  border-bottom: none;
+  border-left: 1px solid transparent;
+}
+nav[role="doc-toc"] a.active {
+  color: var(--navy);
+  border-left: 1px solid var(--navy);
+}
+
+/* ------------------------------------------------------------
+   Footer
+   ------------------------------------------------------------ */
 .nav-footer {
-  font-size: 0.82rem;
-  color: #888;
-  border-top: 1px solid #e5e1d6;
-  margin-top: 3rem;
-  padding-top: 1rem;
-  background-color: var(--cream);
+  font-family: var(--serif-text);
+  font-size: 0.88rem;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+  border-top: 1px solid var(--line);
+  margin-top: 4rem;
+  padding: 1.6rem 0 2rem;
+  background-color: var(--paper);
+}
+
+/* ------------------------------------------------------------
+   Responsive
+   ------------------------------------------------------------ */
+@media (max-width: 760px) {
+  .hero { padding: 3rem 1.25rem 3rem; }
+  .hero h1 { font-size: 2.9rem; }
+  .hero .tagline { font-size: 1.12rem; }
+  .hero-photo img { width: 7.5rem; height: 7.5rem; }
+
+  .themes-grid {
+    grid-template-columns: 1fr;
+    gap: 1.8rem;
+  }
+
+  .themes-section, .selected-band { margin-top: 3rem; }
 }

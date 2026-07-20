@@ -1,0 +1,19 @@
+---
+title: "Policy"
+subtitle: "Briefs, reports, and government engagements"
+toc: false
+listing:
+  - id: policy-briefs
+    contents: policy/*.qmd
+    type: table
+    sort: "date desc"
+    fields: [date, title]
+    field-display-names:
+      date: "Year"
+      title: "Title"
+---
+
+Alongside academic work, I write policy briefs and advise governments directly. Selected briefs and reports are listed below; recent government engagements appear on my [CV](cv.qmd).
+
+::: {#policy-briefs}
+:::

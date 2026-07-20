@@ -6,43 +6,98 @@ page-layout: full
 
 ::: {.hero}
 ::: {.hero-inner}
+<span class="eyebrow">International Growth Centre &nbsp;·&nbsp; London School of Economics</span>
+
+::: {.hero-photo}
+![](images/profile.jpg)
+:::
+
 # Tim Dobermann
 
-<p class="tagline">Director of Research &amp; Chief Economist at the IGC</p>
+<p class="tagline">Director of Research &amp; Chief Economist</p>
+
+<div class="ornament" aria-hidden="true"><span></span></div>
+
+<p class="hero-lede">Economist working on energy, climate, and growth in the developing world — bridging frontier research and the policy rooms where decisions are made.</p>
 
 <div class="hero-icons">
 <a href="https://www.linkedin.com/in/timdobermann/" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
 <a href="https://scholar.google.com/citations?user=QSNCu9UAAAAJ" aria-label="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
 <a href="https://github.com/tdobermann" aria-label="GitHub"><i class="bi bi-github"></i></a>
-<a href="mailto:tdobermann@gmail.com" aria-label="Email"><i class="bi bi-envelope-fill"></i></a>
+<a href="mailto:tdobermann@gmail.com" aria-label="Email"><i class="bi bi-envelope"></i></a>
 </div>
 :::
 :::
 
-::: {.about-section}
-::: {.about-photo}
-![](images/profile.jpg)
+::: {.themes-section}
+## Research Themes
+
+::: {.themes-grid}
+::: {.theme}
+<span class="theme-index">I</span>
+
+### Energy &amp; Power Sector Reform
+
+Power purchase agreements, smart meters, electricity theft, and solar diffusion — with evidence from Pakistan, Ethiopia, Ghana, and Myanmar.
 :::
 
-::: {.about-text}
-## About
+::: {.theme}
+<span class="theme-index">II</span>
 
-I am the Director of Research and Chief Economist at the [International Growth Centre](https://www.theigc.org/) and a Research Fellow in the Department of Economics at the [London School of Economics](https://www.lse.ac.uk/), within the Economics of Energy & Environment programme. I hold a PhD in Economics from LSE.
+### AI &amp; the Ladder of Development
 
-My research spans energy, AI, climate change, and growth in the developing world. I have advised governments across Asia and Africa on energy and public finance issues, including Pakistan, Ethiopia, and Myanmar, and I lead a team of over 20 economists working across IGC's global portfolio.
-
-### Research Themes
-
-**Energy and power sector reform** — Power purchase agreements, smart meters, electricity theft, and solar diffusion, with evidence from Pakistan, Ethiopia, Ghana, and Myanmar.
-
-**AI, structural transformation, and growth** — How artificial intelligence reshapes the ladder of development for low- and middle-income economies.
-
-**Climate change and human capital** — Mobility, migration, and the unequal effects of a changing climate.
-
-**Public finance** — Customs evasion, tariff design, and subsidy reform, with a focus on Pakistan.
-
-<p style="margin-top: 1.5rem; font-size: 0.9rem; color: var(--ink-soft);">
-Also on <a href="https://bsky.app/profile/timdobermann.bsky.social">Bluesky</a> and <a href="https://x.com/timdobermann">X</a>.
-</p>
+How artificial intelligence reshapes structural transformation and the path to prosperity for low- and middle-income economies.
 :::
+
+::: {.theme}
+<span class="theme-index">III</span>
+
+### Climate Change &amp; Human Capital
+
+Mobility, migration, and the unequal effects of a changing climate — and how education shapes who can adapt.
+:::
+
+::: {.theme}
+<span class="theme-index">IV</span>
+
+### Public Finance
+
+Customs evasion, tariff design, and subsidy reform, with a focus on Pakistan's fiscal and energy crises.
+:::
+:::
+:::
+
+::: {.selected-band}
+::: {.band-inner}
+## Selected Work
+
+<ul class="selected-list">
+<li>
+<a class="work-title" href="research.qmd">AI and the Ladder of Development</a>
+<span class="work-note">A small open-economy model of AI, structural transformation, and development — and a potential development trap.</span>
+</li>
+<li>
+<a class="work-title" href="research.qmd">The Economic Costs of Lopsided Contracts</a>
+<span class="work-note">Evidence from power purchase agreements in Pakistan, with F. Hayat &amp; S. Srivastav.</span>
+</li>
+<li>
+<a class="work-title" href="research.qmd">Human Capital, Mobility, and the Unequal Effects of Climate Change</a>
+<span class="work-note">How education generates mobility across sectors and locations as a channel for climate adaptation.</span>
+</li>
+<li>
+<a class="work-title" href="research.qmd">Deciphering the Miracle on the Han</a>
+<span class="work-note">How South Korea escaped poverty and transformed its economy, with O. Bandiera, R. Burgess &amp; co-authors.</span>
+</li>
+</ul>
+
+<p class="band-more">Full list of papers on the [Research](research.qmd) page, and briefs and reports on the [Policy](policy.qmd) page →</p>
+:::
+:::
+
+::: {.closing-section}
+<div class="ornament" aria-hidden="true"><span></span></div>
+
+## In the Policy Room
+
+<p>Recent engagements include advising Pakistan's Prime Minister and Ministers of Energy and Finance on tariff and tax reform, and Ethiopia's Ministry of Planning on national energy policy. More on the [Policy](policy.qmd) and [CV](cv.qmd) pages.</p>
 :::
