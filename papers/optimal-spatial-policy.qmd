@@ -1,0 +1,8 @@
+---
+title: "Optimal Spatial Policy with Local Demand Effects"
+author: "Tim Dobermann"
+categories: [growth, spatial economics]
+description: "Working paper."
+---
+
+Working paper.

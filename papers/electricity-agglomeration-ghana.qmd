@@ -1,0 +1,10 @@
+---
+title: "Electricity, Agglomeration, and Industrialisation in Ghana"
+author: "Tim Dobermann, I. Bañares Sanchez, N. Moneke"
+categories: [energy, Ghana]
+description: >
+  Estimating how electricity outages influence the spatial distribution of
+  industrial activity over time.
+---
+
+**Abstract.** Estimating how electricity outages influence the spatial distribution of industrial activity over time in Ghana.

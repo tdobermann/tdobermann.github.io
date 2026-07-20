@@ -1,0 +1,33 @@
+---
+title: "Media & Commentary"
+toc: false
+---
+
+Selected media appearances, interviews, and public commentary.
+
+### Podcasts & Interviews
+
+- **Interview: Tim Dobermann, Research Director, IGC** — Recorded around a joint
+  IGC / World Bank workshop on agenda-setting for climate change.
+  [Watch on YouTube →](https://www.youtube.com/watch?v=3J-CGiaAeIw)
+
+- **VoxDev** — Contributor profile and commentary on growth policy.
+  [View on VoxDev →](https://voxdev.org/tim-dobermann)
+
+### Op-Eds & Written Commentary
+
+<!--
+TODO (Tim): Add your op-eds and other written commentary here — I could not
+access the Wix site directly to pull the existing list, so this section is
+a placeholder.
+
+- **Title of piece** — *Publication*, Month Year.
+  [Read →](https://link-to-article.com)
+-->
+
+### Conference Presentations
+
+<!--
+- **Talk title** — Conference Name, Location, Month Year.
+  [Slides (PDF)](link.pdf)
+-->

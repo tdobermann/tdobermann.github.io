@@ -1,0 +1,9 @@
+---
+title: "Innovation, Growth, and the Environment"
+date: "2023-01-01"
+description: "IGC Synthesis Paper, with R. Burgess, S. Caria & A. Saggese."
+---
+
+*With R. Burgess, S. Caria, A. Saggese.* IGC Synthesis Paper, 2023.
+
+[Read on the IGC website →](https://www.theigc.org/news/innovation-growth-and-environment){.btn .btn-outline-primary .btn-sm}

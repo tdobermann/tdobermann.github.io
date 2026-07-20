@@ -1,0 +1,10 @@
+---
+title: "Deciphering the Miracle on the Han: How South Korea Escaped Poverty and Transformed its Economy"
+author: "Tim Dobermann, O. Bandiera, I. Bañares Sanchez, R. Burgess, J. Lee, H. Yang"
+categories: [growth]
+description: >
+  Studying Korea's growth miracle using an unprecedented historical micro
+  dataset.
+---
+
+**Abstract.** Studying Korea's growth miracle using an unprecedented historical micro dataset.

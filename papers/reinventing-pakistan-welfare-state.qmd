@@ -1,0 +1,10 @@
+---
+title: "Reinventing Pakistan's Welfare State: Replacing Energy Subsidies with Targeted Transfers"
+author: "Tim Dobermann, R. Burgess, M. Greenstone, F. Hayat, U. Naeem"
+categories: [energy, public finance, Pakistan]
+description: >
+  Reforming energy pricing to deliver energy subsidies through targeted
+  transfers instead.
+---
+
+**Abstract.** Reforming energy pricing in Pakistan to deliver energy subsidies through targeted transfers rather than blanket price distortions.

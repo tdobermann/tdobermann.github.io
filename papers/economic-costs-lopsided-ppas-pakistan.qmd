@@ -1,0 +1,11 @@
+---
+title: "The Economic Costs of Lopsided Contracts: Evidence from Power Purchase Agreements in Pakistan"
+author: "Tim Dobermann, F. Hayat, S. Srivastav"
+categories: [energy, Pakistan]
+description: >
+  Assembles a database on all power purchase agreements to measure how
+  asymmetric information and regulatory capture distort power tariffs and
+  create misallocation.
+---
+
+**Abstract.** Assembles a database on all power purchase agreements (PPAs) in Pakistan to measure how asymmetric information and regulatory capture distort power tariffs and create misallocation.

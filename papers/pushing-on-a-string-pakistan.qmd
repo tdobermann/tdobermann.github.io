@@ -1,0 +1,11 @@
+---
+title: "Pushing on a String? Price and Enforcement Interventions in Pakistan's Power Sector"
+author: "Tim Dobermann, R. Burgess, M. Greenstone, F. Hayat, U. Naeem"
+categories: [energy, public finance, Pakistan]
+description: >
+  Two RCTs with government on using religious messaging to change social
+  norms on electricity payments, and using subsidies to estimate elasticities
+  of theft.
+---
+
+**Abstract.** Two randomised controlled trials run with government on (i) using religious messaging to change social norms on electricity payments and (ii) using subsidies to estimate elasticities of theft.

@@ -1,0 +1,8 @@
+---
+title: "The Impact of Smart Meters on Firm Performance: Experimental Evidence from Ethiopia"
+author: "Tim Dobermann"
+categories: [energy, Ethiopia]
+description: "Working paper."
+---
+
+Working paper.

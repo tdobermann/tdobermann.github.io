@@ -1,84 +1,226 @@
 /* ==========================================================
-   styles.css — Professional serif aesthetic
+   styles.css — Warm minimal academic aesthetic
    ========================================================== */
+
+:root {
+  --cream: #f7f4ee;
+  --ink: #1a1a1a;
+  --ink-soft: #55524c;
+  --accent: #18699e;
+  --pill-bg: #efece3;
+}
 
 /* --- Global --- */
 body {
-  max-width: 960px;
+  background-color: var(--cream);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.page-columns, main.content {
+  max-width: 860px;
   margin: 0 auto;
-  color: #2C3E50;
+  padding-top: 1.5rem;
 }
 
 /* --- Typography --- */
 h1, h2, h3, h4 {
   font-family: 'Charter', 'Bitstream Charter', 'Noto Serif', Georgia, serif;
   font-weight: 700;
-  color: #1a1a2e;
+  color: var(--ink);
   letter-spacing: -0.01em;
 }
 
-h1 { font-size: 2rem; }
-h2 { font-size: 1.45rem; margin-top: 2rem; border-bottom: 1px solid #e0e0e0; padding-bottom: 0.3rem; }
-h3 { font-size: 1.15rem; }
+h1 { font-size: 2.1rem; }
+h2 { font-size: 1.35rem; margin-top: 3rem; border-bottom: none; padding-bottom: 0; }
+h3 { font-size: 1.1rem; margin-top: 1.75rem; }
 
 p, li, td {
-  font-family: 'Charter', 'Bitstream Charter', 'Noto Serif', Georgia, serif;
+  line-height: 1.65;
 }
 
 a {
-  color: #18699e;
+  color: var(--accent);
   text-decoration: none;
   border-bottom: 1px solid transparent;
   transition: border-color 0.2s;
 }
 a:hover {
-  border-bottom-color: #18699e;
+  border-bottom-color: var(--accent);
 }
 
 /* --- Navbar --- */
 .navbar {
-  border-bottom: 2px solid #18BC9C;
-  font-family: 'Charter', 'Bitstream Charter', Georgia, serif;
-  font-size: 0.95rem;
+  background-color: var(--cream) !important;
+  border-bottom: 1px solid #e5e1d6;
+  font-size: 0.92rem;
+  box-shadow: none;
 }
 
 .navbar-brand {
+  font-family: 'Charter', Georgia, serif;
   font-weight: 700;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.01em;
 }
 
-/* --- About page (landing) --- */
-.about-entity {
-  margin-top: 1.5rem;
+/* ==========================================================
+   Landing page hero (index.qmd)
+   ========================================================== */
+.hero {
+  position: relative;
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  padding: 4.5rem 1.5rem 4rem;
+  text-align: center;
+  overflow: hidden;
+  background-color: var(--cream);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140' viewBox='0 0 140 140'%3E%3Cg fill='none' stroke-linecap='round' stroke-width='4'%3E%3Cpath stroke='%23a6c6bd' d='M14 34l6 7 11-14'/%3E%3Cpath stroke='%23c9a577' d='M118 20l5 6 9-11'/%3E%3Cpath stroke='%238ba0bf' d='M60 12l5 6 9-11'/%3E%3Cpath stroke='%23b7b19f' d='M92 70l5 6 9-11'/%3E%3Cpath stroke='%23a6c6bd' d='M24 90l5 6 9-11'/%3E%3Cpath stroke='%23c9a577' d='M130 100l5 6 9-11'/%3E%3Cpath stroke='%238ba0bf' d='M50 118l5 6 9-11'/%3E%3Cpath stroke='%23b7b19f' d='M4 120l5 6 9-11'/%3E%3C/g%3E%3C/svg%3E");
+  background-size: 140px 140px;
+  background-repeat: repeat;
 }
 
-.about-entity .about-link {
-  font-weight: 600;
-  font-size: 0.9rem;
+.hero-inner {
+  position: relative;
+  z-index: 1;
+  max-width: 860px;
+  margin: 0 auto;
 }
 
-.about-entity img {
-  border: 3px solid #e8e8e8;
+.hero h1 {
+  font-family: 'Charter', 'Bitstream Charter', 'Noto Serif', Georgia, serif;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  margin: 0;
+  color: var(--ink);
 }
 
-/* --- Listing cards (research page) --- */
+.hero .tagline {
+  font-family: 'Charter', 'Bitstream Charter', Georgia, serif;
+  font-style: italic;
+  font-size: 1.25rem;
+  color: var(--ink-soft);
+  margin-top: 0.75rem;
+}
+
+.hero-icons {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 1.75rem;
+}
+
+.hero-icons a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  border-radius: 0.55rem;
+  background: var(--ink);
+  color: var(--cream);
+  border-bottom: none;
+  font-size: 1.1rem;
+  transition: transform 0.15s, background 0.15s;
+}
+
+.hero-icons a:hover {
+  background: var(--accent);
+  transform: translateY(-2px);
+}
+
+/* --- About section below hero --- */
+.about-section {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+  max-width: 860px;
+  margin: 3.5rem auto 3rem;
+  padding: 0 1.5rem;
+}
+
+.about-photo img {
+  width: 13rem;
+  border-radius: 0.9rem;
+  border: none;
+  display: block;
+}
+
+.about-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.about-text h2 {
+  margin-top: 0;
+}
+
+@media (max-width: 700px) {
+  .hero h1 { font-size: 2.6rem; }
+  .hero .tagline { font-size: 1.05rem; }
+  .about-section { flex-direction: column; gap: 1.5rem; }
+  .about-photo img { width: 8rem; }
+}
+
+/* ==========================================================
+   Research listing — pill-style category filters & link chips
+   ========================================================== */
+.quarto-listing-category,
+.quarto-listing-category-sidebar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+.quarto-listing-category-title {
+  display: none;
+}
+
+.quarto-listing-category .category,
+.quarto-listing-category-sidebar .category,
+.quarto-listing-category div[class*="category-item"] {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: #fff;
+  border: 1px solid #e5e1d6;
+  border-radius: 999px;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+
+.quarto-listing-category .category.active,
+.quarto-listing-category-sidebar .category.active,
+.quarto-listing-category .quarto-category-active {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: #fff;
+}
+
+/* Category badges on individual listing items */
 .quarto-listing .listing-title {
   font-family: 'Charter', Georgia, serif;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .quarto-listing .listing-description {
   font-size: 0.92rem;
-  color: #555;
+  color: var(--ink-soft);
 }
 
-/* Category badges */
 .quarto-listing .listing-category .listing-category-item {
-  font-size: 0.78rem;
-  background-color: #f0f4f8;
-  color: #2C3E50;
-  border-radius: 3px;
-  padding: 2px 8px;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  background-color: var(--pill-bg);
+  color: var(--ink-soft);
+  border-radius: 999px;
+  padding: 3px 10px;
 }
 
 /* Table listing for policy briefs */
@@ -89,17 +231,30 @@ a:hover {
   color: #666;
 }
 
-/* --- Buttons (for PDF / DOI links in entries) --- */
-.btn-outline-primary {
-  font-size: 0.85rem;
-  border-radius: 3px;
+/* --- Buttons (for PDF / DOI / read-more links) --- */
+.btn-outline-primary,
+.btn-outline-secondary {
+  font-size: 0.8rem;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-color: #d8d3c4;
+  color: var(--ink-soft);
+}
+
+.btn-outline-primary:hover,
+.btn-outline-secondary:hover {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: #fff;
 }
 
 /* --- Footer --- */
 .nav-footer {
   font-size: 0.82rem;
   color: #888;
-  border-top: 1px solid #e0e0e0;
+  border-top: 1px solid #e5e1d6;
   margin-top: 3rem;
   padding-top: 1rem;
+  background-color: var(--cream);
 }
