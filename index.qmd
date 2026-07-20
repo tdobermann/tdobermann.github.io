@@ -1,25 +1,31 @@
 ---
 title: "Tim Dobermann"
-image: images/profile.svg
 toc: false
-about:
-  template: trestles
-  image-shape: round
-  image-width: 14em
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/timdobermann/
-    - icon: envelope
-      text: Email
-      href: "mailto:tdobermann@gmail.com"
-    - icon: mortarboard-fill
-      text: Google Scholar
-      href: "https://scholar.google.com/citations?user=QSNCu9UAAAAJ"
-    - icon: github
-      text: GitHub
-      href: "https://github.com/tdobermann"
+page-layout: full
 ---
+
+::: {.hero}
+::: {.hero-inner}
+# Tim Dobermann
+
+<p class="tagline">Director of Research &amp; Chief Economist at the IGC</p>
+
+<div class="hero-icons">
+<a href="https://www.linkedin.com/in/timdobermann/" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+<a href="https://scholar.google.com/citations?user=QSNCu9UAAAAJ" aria-label="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
+<a href="https://github.com/tdobermann" aria-label="GitHub"><i class="bi bi-github"></i></a>
+<a href="mailto:tdobermann@gmail.com" aria-label="Email"><i class="bi bi-envelope-fill"></i></a>
+</div>
+:::
+:::
+
+::: {.about-section}
+::: {.about-photo}
+![](images/profile.svg)
+:::
+
+::: {.about-text}
+## About
 
 I am the Director of Research and Chief Economist at the [International Growth Centre](https://www.theigc.org/) and a Research Fellow in the Department of Economics at the [London School of Economics](https://www.lse.ac.uk/), within the Economics of Energy & Environment programme. I hold a PhD in Economics from LSE.
 
@@ -35,6 +41,8 @@ My research spans energy, AI, climate change, and growth in the developing world
 
 **Public finance** — Customs evasion, tariff design, and subsidy reform, with a focus on Pakistan.
 
-<p style="margin-top: 2rem; font-size: 0.9rem; color: #888;">
+<p style="margin-top: 1.5rem; font-size: 0.9rem; color: var(--ink-soft);">
 Also on <a href="https://bsky.app/profile/timdobermann.bsky.social">Bluesky</a> and <a href="https://x.com/timdobermann">X</a>.
 </p>
+:::
+:::
