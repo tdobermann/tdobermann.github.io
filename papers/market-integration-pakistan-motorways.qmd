@@ -1,10 +1,16 @@
 ---
-title: "The Heterogenous Impacts of Market Integration: Evidence from Pakistan's Motorways"
-author: "Tim Dobermann, Faraz Hayat, Usman Naeem"
-categories: [growth, Pakistan]
-description: >
-  Measuring heterogeneous impacts of transportation infrastructure using
-  large-scale administrative data.
+title: "The Heterogeneous Impacts of Market Integration: Evidence from Pakistan's Motorways"
+author:
+  - name: "Tim Dobermann"
+  - name: "Faraz Hayat"
+  - name: "Usman Naeem"
+categories: [growth, infrastructure, spatial economics, Pakistan]
+description: "How motorway access changes local economic activity across places with different initial conditions."
+toc: false
 ---
 
-**Abstract.** Measuring the heterogeneous impacts of transportation infrastructure using large-scale administrative data from Pakistan's motorway network.
+<p class="detail-status">Work in progress · Pakistan · Market integration</p>
+
+## Project
+
+Using large-scale administrative and spatial data, this project measures how new motorway connections affect firms, employment, and local economic activity. It asks why access to the same transport network can generate sharply different outcomes across places, with a focus on market access and initial productive capabilities.

@@ -1,8 +1,20 @@
 ---
 title: "The Diffusion of Solar in Rural Economies: Markets and Frictions in Ethiopia"
-author: "Tim Dobermann"
-categories: [energy, Ethiopia]
-description: "Working paper."
+author:
+  - name: "Tim Dobermann"
+  - name: "Sugandha Srivastav"
+  - name: "Tewodros Assefa Tesemma"
+categories: [energy access, solar, Ethiopia]
+description: "How market structure, intermediaries, and spatial frictions shape off-grid solar adoption in rural Ethiopia."
+toc: false
 ---
 
-Working paper.
+<p class="detail-status">Active research project · Ethiopia</p>
+
+## Project
+
+Off-grid solar can expand energy access where grid extension is slow or expensive, but diffusion depends on the markets that connect global manufacturers to rural households. This project maps Ethiopia's solar supply chain from importers and distributors to retailers and consumers.
+
+Using surveys, price data, and geospatial analysis, we study market coverage, mark-ups, product quality, and spatial patterns of adoption. The aim is to identify where intermediation supports diffusion and where market frictions leave viable demand unserved.
+
+[International Growth Centre project page](https://www.theigc.org/collections/diffusion-solar-rural-economies-market-structure-intermediation-and-spatial-frictions){.btn .btn-outline-primary .btn-sm}

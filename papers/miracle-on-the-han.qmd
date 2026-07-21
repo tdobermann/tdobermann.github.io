@@ -1,10 +1,26 @@
 ---
 title: "Deciphering the Miracle on the Han: How South Korea Escaped Poverty and Transformed its Economy"
-author: "Tim Dobermann, O. Bandiera, I. Bañares Sanchez, R. Burgess, J. Lee, H. Yang"
-categories: [growth]
-description: >
-  Studying Korea's growth miracle using an unprecedented historical micro
-  dataset.
+author:
+  - name: "Oriana Bandiera"
+  - name: "Ignacio Bañares Sanchez"
+  - name: "Robin Burgess"
+  - name: "Tim Dobermann"
+  - name: "Jay Euijung Lee"
+  - name: "Jeongkyung Won"
+  - name: "Hyunjoo Yang"
+categories: [growth, industrial policy, South Korea]
+description: "Historical microdata on industrial policy, infrastructure, and South Korea's rapid structural transformation."
+toc: false
 ---
 
-**Abstract.** Studying Korea's growth miracle using an unprecedented historical micro dataset.
+<p class="detail-status">Research project · Historical microdata · South Korea</p>
+
+## Abstract
+
+South Korea moved from poverty to industrial prosperity within two generations. We are building an historical micro-database that tracks firms, output, employment, migration, urbanisation, and infrastructure through this transformation.
+
+The project studies how place-based industrial policy, rural development, and public infrastructure changed the location and composition of economic activity. Its broader aim is to identify which micro-level mechanisms can produce—and sustain—rapid economy-wide structural transformation.
+
+## Project
+
+[International Growth Centre project page](https://www.theigc.org/collections/deciphering-miracle-han-how-south-korea-escaped-poverty-and-transformed-its-economy){.btn .btn-outline-primary .btn-sm}

@@ -6,4 +6,4 @@ description: "In The London Consensus: Economic Principles for the 21st Century,
 
 *With R. Burgess.* In *The London Consensus: Economic Principles for the 21st Century.* London: LSE Press, 2025.
 
-[Read online →](https://doi.org/10.31389/lsepress.tlc){.btn .btn-outline-primary .btn-sm}
+[Read the chapter →](https://doi.org/10.31389/lsepress.tlc.n){.btn .btn-outline-primary .btn-sm}

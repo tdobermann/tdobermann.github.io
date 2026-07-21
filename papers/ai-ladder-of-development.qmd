@@ -1,10 +1,20 @@
 ---
 title: "AI and the Ladder of Development"
-author: "Tim Dobermann"
-categories: [AI, growth]
-description: >
-  A small open economy model of AI, structural transformation, and
-  development.
+author:
+  - name: "Tim Dobermann"
+categories: [artificial intelligence, structural transformation, growth]
+description: "A model of artificial intelligence, capability accumulation, and structural transformation in developing economies."
+toc: false
 ---
 
-**Abstract.** Develops a small open economy model of AI, structural transformation, and development. Decomposes AI's effect on capability growth to demonstrate a potential development trap: AI can raise average tradable productivity yet reduce long-run capability growth if a wage-driven Baumol reallocation effect pushes labour toward weak-learning local services.
+<p class="detail-status">Working paper · Theory · AI and development</p>
+
+## Abstract
+
+Will artificial intelligence help developing countries ascend the development ladder, or remove some of its rungs? I develop a small open-economy model that allocates labour across manufacturing, progressive tradable services, and local non-tradable services. Productive capability governs both absorptive capacity and long-run learning.
+
+Frontier AI raises domestic productivity in tradable sectors but also intensifies foreign competition. Its effect on capability growth decomposes into a positive covariance term—whether AI strengthens sectors with the greatest learning spillovers—and a negative reallocation term generated as higher wages move labour toward weak-learning local services. AI can therefore raise average productivity while lowering long-run capability growth, producing a potential development trap.
+
+## Research themes
+
+Artificial intelligence · Structural transformation · Learning spillovers · Open-economy growth

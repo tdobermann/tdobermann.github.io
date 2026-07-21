@@ -1,35 +1,87 @@
 ---
 title: "Media & Commentary"
-subtitle: "Interviews, public writing, and talks"
+subtitle: "Public writing, interviews, and talks"
+description: "Selected public commentary and media appearances by economist Tim Dobermann."
 toc: false
 ---
 
-## Podcasts & Interviews
+<p class="page-intro">Selected writing and conversations on economic development, energy, climate, and the changing global economy.</p>
 
-- **Interview: Tim Dobermann, Research Director, IGC** — Recorded around a joint
-  IGC / World Bank workshop on agenda-setting for climate change.
-  [Watch on YouTube →](https://www.youtube.com/watch?v=3J-CGiaAeIw)
+## Selected commentary
 
-- **VoxDev** — Contributor profile and commentary on growth policy.
-  [View on VoxDev →](https://voxdev.org/tim-dobermann)
+::: {.commentary-list}
+::: {.commentary-item}
+<p class="commentary-date">2026 · VoxDev</p>
 
-## Op-Eds & Written Commentary
+### [How can countries develop their economies in a changed world?](https://voxdev.org/topic/macroeconomics-growth/how-can-countries-develop-their-economies-changed-world)
 
-::: {.placeholder-note}
-Placeholder — the entries below are illustrative filler. Replace with real op-eds
-and commentary (titles, outlets, dates, links).
+With Francesco Caselli, revisiting how protectionism, automation, climate change, and state capacity alter the development strategies available to lower-income economies.
 :::
 
-- **[Filler] Why Pakistan's power sector needs contracts, not bailouts** — *Financial Times*, 2025.
-- **[Filler] The developing world's AI dilemma** — *Project Syndicate*, 2025.
-- **[Filler] Climate adaptation starts in the classroom** — *VoxDev column*, 2024.
+::: {.commentary-item}
+<p class="commentary-date">2024 · International Growth Centre</p>
 
-## Talks & Conference Presentations
+### [India's Opportunity for Sustainable Growth](https://www.theigc.org/blogs/climate-priorities-developing-countries/indias-opportunity-sustainable-growth)
 
-::: {.placeholder-note}
-Placeholder — the entries below are illustrative filler. Replace with real talks
-(title, venue, location, date, and slides where available).
+With Nikita Sharma, on how clean-energy and conservation innovations can loosen the historical trade-off between growth and environmental protection.
 :::
 
-- **[Filler] Energy pricing and the political economy of reform** — Keynote, IGC Growth Week, London, 2025.
-- **[Filler] AI and structural transformation** — Seminar, World Bank DEC, Washington DC, 2025.
+::: {.commentary-item}
+<p class="commentary-date">2023 · International Growth Centre / LSE Business Review</p>
+
+### [How Investing in Human Capital Can Help Adapt to Climate Change](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-investing-human-capital-can-help-adapt-climate)
+
+Why education can make workers more mobile across sectors and locations—and therefore more resilient to climate damage.
+:::
+
+::: {.commentary-item}
+<p class="commentary-date">2023 · International Growth Centre</p>
+
+### [Eight Questions for Sustainable Growth](https://www.theigc.org/blogs/climate-priorities-developing-countries/eight-questions-sustainable-growth)
+
+With Allegra Saggese, Robin Burgess, and Stefano Caria, on energy, firms, cities, social protection, climate finance, and the next research agenda.
+:::
+
+::: {.commentary-item}
+<p class="commentary-date">2016 · International Growth Centre</p>
+
+### [Transforming Myanmar's Energy Sector](https://eprints.lse.ac.uk/81709/1/Transforming%20Myanmar%E2%80%99s%20energy%20sector%20-%20IGC.pdf)
+
+On electricity access, generation choices, and the pricing reforms needed to finance a reliable power system.
+:::
+:::
+
+## Interviews and conversations
+
+::: {.media-feature-grid}
+::: {.media-feature}
+<span class="media-icon"><i class="bi bi-play-circle" aria-hidden="true"></i></span>
+
+### [Interview: Tim Dobermann, IGC](https://www.youtube.com/watch?v=3J-CGiaAeIw)
+
+A conversation recorded around an IGC–World Bank workshop on research priorities for climate change.
+
+<span class="media-source">Video · YouTube</span>
+:::
+
+::: {.media-feature}
+<span class="media-icon"><i class="bi bi-journal-text" aria-hidden="true"></i></span>
+
+### [Tim Dobermann on VoxDev](https://voxdev.org/tim-dobermann)
+
+Contributor profile and public-facing commentary on growth and development policy.
+
+<span class="media-source">Contributor profile · VoxDev</span>
+:::
+:::
+
+::: {.media-contact}
+::: {}
+<p class="section-kicker">Media enquiries</p>
+
+## Interviews, panels, and speaking invitations
+
+For enquiries related to current research, development policy, energy, or climate economics, please contact me by email.
+:::
+[Get in touch](mailto:tdobermann@gmail.com){.button .button-primary}
+:::

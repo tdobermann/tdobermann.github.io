@@ -1,10 +1,22 @@
 ---
 title: "Electricity, Agglomeration, and Industrialisation in Ghana"
-author: "Tim Dobermann, I. Bañares Sanchez, N. Moneke"
-categories: [energy, Ghana]
-description: >
-  Estimating how electricity outages influence the spatial distribution of
-  industrial activity over time.
+author:
+  - name: "Ignacio Bañares Sanchez"
+  - name: "Tim Dobermann"
+  - name: "Niclas Moneke"
+categories: [energy, firms, spatial economics, Ghana]
+description: "How the spatial allocation of electricity outages affects firm performance and industrial agglomeration in Ghana."
+toc: false
 ---
 
-**Abstract.** Estimating how electricity outages influence the spatial distribution of industrial activity over time in Ghana.
+<p class="detail-status">Research project · Spatial economics · Ghana</p>
+
+## Abstract
+
+Electricity reliability varies substantially across space, and utilities may allocate scarce supply in response to local economic activity. We combine administrative electricity data, engineering records on outages, and a firm census to study how this allocation shapes firm performance and agglomeration in Ghana.
+
+We use predicted outage exposure following supply shocks to estimate how firms respond to reliability, then embed the estimates in a dynamic spatial framework. Counterfactuals compare the observed allocation with reforms that eliminate outages or allocate them to reduce their economy-wide cost.
+
+## Project
+
+[International Growth Centre project page](https://www.theigc.org/collections/electricity-supply-and-firm-agglomeration-ghana){.btn .btn-outline-primary .btn-sm}

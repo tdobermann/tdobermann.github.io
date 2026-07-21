@@ -1,8 +1,14 @@
 ---
 title: "Migration and the Climate Adaptation Gender Gap"
-author: "Tim Dobermann"
-categories: [climate change]
-description: "Working paper."
+author:
+  - name: "Tim Dobermann"
+categories: [climate adaptation, gender, migration]
+description: "How gender differences in migration constraints shape the capacity to adapt to climate change."
+toc: false
 ---
 
-Working paper.
+<p class="detail-status">Work in progress · Climate adaptation</p>
+
+## Project
+
+Migration can reduce exposure to climate damage, but access to this adaptation margin is unequal. This project studies how gender-specific constraints on mobility affect occupational adjustment, migration, and welfare as climate risks intensify.

@@ -1,10 +1,22 @@
 ---
 title: "Human Capital, Mobility, and the Unequal Effects of Climate Change"
-author: "Tim Dobermann"
-categories: [climate change]
-description: >
-  Examines how human capital generates mobility across sectors and
-  locations, a key channel for climate adaptation.
+author:
+  - name: "Tim Dobermann"
+categories: [climate adaptation, human capital, structural transformation]
+description: "How education enables mobility across sectors and locations as a channel for climate adaptation."
+toc: false
 ---
 
-**Abstract.** Examines how human capital generates mobility across sectors or locations, a key channel for climate adaptation. Exploits a historical schooling expansion in India to estimate reduced-form effects of human capital on adaptation, and estimates a spatial structural change model with climate change, occupational choice, and human capital investments to examine adaptation in general equilibrium.
+<p class="detail-status">Working paper · India · Climate adaptation</p>
+
+## Abstract
+
+Climate change erodes agricultural productivity most severely in places where households have the fewest alternatives. This paper studies whether human capital enables people to adapt by changing occupations or moving to less-exposed locations.
+
+I use a large schooling expansion in India to estimate how education changes occupational and migration responses to worsening crop-growing conditions. I then develop a spatial model with climate change, occupational choice, migration, and human-capital investment to study these mechanisms in general equilibrium. The results highlight a persistent inequality: remote rural areas face larger climate damages while also investing less in the skills that make adaptation possible.
+
+## Related output
+
+[IGC research project](https://www.theigc.org/collections/structural-transformation-race-against-climate-change){.btn .btn-outline-primary .btn-sm}
+[Policy brief](https://www.theigc.org/publications/human-capital-mobility-and-climate-change-adaptation){.btn .btn-outline-primary .btn-sm}
+[Public commentary](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-investing-human-capital-can-help-adapt-climate){.btn .btn-outline-primary .btn-sm}

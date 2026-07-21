@@ -1,8 +1,20 @@
 ---
-title: "Individual and Organisational Determinants of Evasion in Customs: Evidence from Pakistan"
-author: "Tim Dobermann"
-categories: [public finance, Pakistan]
-description: "Working paper."
+title: "Introducing Anonymity and Third-Party Information to Combat Customs Tax Evasion in Pakistan"
+author:
+  - name: "Michael Best"
+  - name: "Tim Dobermann"
+  - name: "Faraz Hayat"
+categories: [public finance, state capacity, Pakistan]
+description: "Evaluating faceless assessment and risk-management reforms in Pakistan's customs administration."
+toc: false
 ---
 
-Working paper.
+<p class="detail-status">Active research project · Pakistan · State capacity</p>
+
+## Project
+
+Under-invoicing at customs reduces revenue and can distort competition between firms. Working with Pakistan's Federal Board of Revenue, this project evaluates two reforms: faceless customs assessment, which separates assessors from traders, and upgrades to the risk-management system using additional third-party information.
+
+The analysis studies processing efficiency, revenue recovery, and the detection of evasion, while measuring whether institutional redesign changes the discretion and performance of customs assessment.
+
+[International Growth Centre project page](https://www.theigc.org/collections/introducing-anonymity-and-third-party-information-combat-customs-tax-evasion-pakistan){.btn .btn-outline-primary .btn-sm}

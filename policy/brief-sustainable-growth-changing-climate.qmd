@@ -5,3 +5,5 @@ description: "IGC Growth Brief, with R. Burgess & N. Sharma."
 ---
 
 *With R. Burgess, N. Sharma.* IGC Growth Brief, 2022.
+
+[Read the growth brief →](https://www.theigc.org/publications/sustainable-growth-changing-climate-0){.btn .btn-outline-primary .btn-sm}

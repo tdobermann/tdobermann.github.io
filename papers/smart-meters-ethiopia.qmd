@@ -1,8 +1,25 @@
 ---
 title: "The Impact of Smart Meters on Firm Performance: Experimental Evidence from Ethiopia"
-author: "Tim Dobermann"
-categories: [energy, Ethiopia]
-description: "Working paper."
+author:
+  - name: "Eyoual Tamrat Demeke"
+  - name: "Tim Dobermann"
+  - name: "Aregawi Gebremariam"
+  - name: "Niclas Moneke"
+  - name: "Sugandha Srivastav"
+  - name: "Ephrem Andargie Tadesse"
+  - name: "Tewodros Assefa Tesemma"
+categories: [energy, firms, field experiments, Ethiopia]
+description: "A randomised evaluation of smart meters, electricity reliability, utility revenue, and SME performance in Ethiopia."
+toc: false
 ---
 
-Working paper.
+<p class="detail-status">Ongoing randomised experiment · Ethiopia</p>
+
+## Project
+
+Reliable electricity is a major constraint on firm performance in Ethiopia. In collaboration with the Ethiopian Electricity Utility, this project evaluates smart-meter installation among 1,583 firms in Addis Ababa and Sheger City.
+
+The experiment measures effects on billing accuracy, payment, theft, outages, utility revenue, generator use, and firm performance. It will provide some of the first causal evidence on smart meters for businesses in a low-income economy while informing a large planned rollout by the utility.
+
+[IGC project page](https://www.theigc.org/collections/impact-smart-meters-firm-performance-reliability-and-utility-revenue-experimental){.btn .btn-outline-primary .btn-sm}
+[Policy brief](https://www.theigc.org/publications/smart-meters-firms-ethiopia-evidence-randomised-experiment){.btn .btn-outline-primary .btn-sm}

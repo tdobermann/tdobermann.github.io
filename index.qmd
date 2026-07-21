@@ -1,103 +1,168 @@
 ---
-title: "Tim Dobermann"
-toc: false
+pagetitle: "Tim Dobermann | Economist"
+description: "Research on energy, climate, structural transformation, and growth in developing economies."
 page-layout: full
 ---
 
-::: {.hero}
-::: {.hero-inner}
-<span class="eyebrow">International Growth Centre &nbsp;·&nbsp; London School of Economics</span>
-
-::: {.hero-photo}
-![](images/profile.jpg)
-:::
+::: {.home-hero}
+::: {.home-hero-inner}
+::: {.hero-copy}
+<p class="eyebrow">Development economics · Energy · Climate</p>
 
 # Tim Dobermann
 
-<p class="tagline">Director of Research &amp; Chief Economist</p>
+<p class="hero-role">Director of Research &amp; Chief Economist</p>
 
-<div class="ornament" aria-hidden="true"><span></span></div>
+<p class="hero-affiliation">International Growth Centre · London School of Economics</p>
 
-<p class="hero-lede">Economist working on energy, climate, and growth in the developing world — bridging frontier research and the policy rooms where decisions are made.</p>
+<p class="hero-lede">I study how energy systems, climate change, and new technologies shape growth in developing economies—and how research can improve the policy choices that follow.</p>
 
-<div class="hero-icons">
-<a href="https://www.linkedin.com/in/timdobermann/" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
-<a href="https://scholar.google.com/citations?user=QSNCu9UAAAAJ" aria-label="Google Scholar"><i class="bi bi-mortarboard-fill"></i></a>
-<a href="https://github.com/tdobermann" aria-label="GitHub"><i class="bi bi-github"></i></a>
-<a href="mailto:tdobermann@gmail.com" aria-label="Email"><i class="bi bi-envelope"></i></a>
+<div class="button-row">
+[Explore research](research.qmd){.button .button-primary}
+[View CV](cv.qmd){.button .button-secondary}
+</div>
+
+<div class="profile-links" aria-label="Academic and professional profiles">
+<a href="https://scholar.google.com/citations?user=QSNCu9UAAAAJ"><i class="bi bi-mortarboard-fill" aria-hidden="true"></i> Google Scholar</a>
+<a href="https://www.theigc.org/people/tim-dobermann"><i class="bi bi-building" aria-hidden="true"></i> IGC profile</a>
+<a href="mailto:tdobermann@gmail.com"><i class="bi bi-envelope" aria-hidden="true"></i> Email</a>
 </div>
 :::
-:::
 
-::: {.themes-section}
-## Research Themes
-
-::: {.themes-grid}
-::: {.theme}
-<span class="theme-index">I</span>
-
-### Energy &amp; Power Sector Reform
-
-Power purchase agreements, smart meters, electricity theft, and solar diffusion — with evidence from Pakistan, Ethiopia, Ghana, and Myanmar.
-:::
-
-::: {.theme}
-<span class="theme-index">II</span>
-
-### AI &amp; the Ladder of Development
-
-How artificial intelligence reshapes structural transformation and the path to prosperity for low- and middle-income economies.
-:::
-
-::: {.theme}
-<span class="theme-index">III</span>
-
-### Climate Change &amp; Human Capital
-
-Mobility, migration, and the unequal effects of a changing climate — and how education shapes who can adapt.
-:::
-
-::: {.theme}
-<span class="theme-index">IV</span>
-
-### Public Finance
-
-Customs evasion, tariff design, and subsidy reform, with a focus on Pakistan's fiscal and energy crises.
+::: {.hero-portrait}
+<img src="images/profile.jpg" alt="Portrait of Tim Dobermann" loading="eager" decoding="async">
+<p>Tim Dobermann</p>
 :::
 :::
 :::
 
-::: {.selected-band}
-::: {.band-inner}
-## Selected Work
-
-<ul class="selected-list">
-<li>
-<a class="work-title" href="research.qmd">AI and the Ladder of Development</a>
-<span class="work-note">A small open-economy model of AI, structural transformation, and development — and a potential development trap.</span>
-</li>
-<li>
-<a class="work-title" href="research.qmd">The Economic Costs of Lopsided Contracts</a>
-<span class="work-note">Evidence from power purchase agreements in Pakistan, with F. Hayat &amp; S. Srivastav.</span>
-</li>
-<li>
-<a class="work-title" href="research.qmd">Human Capital, Mobility, and the Unequal Effects of Climate Change</a>
-<span class="work-note">How education generates mobility across sectors and locations as a channel for climate adaptation.</span>
-</li>
-<li>
-<a class="work-title" href="research.qmd">Deciphering the Miracle on the Han</a>
-<span class="work-note">How South Korea escaped poverty and transformed its economy, with O. Bandiera, R. Burgess &amp; co-authors.</span>
-</li>
-</ul>
-
-<p class="band-more">Full list of papers on the [Research](research.qmd) page, and briefs and reports on the [Policy](policy.qmd) page →</p>
+::: {.affiliation-strip}
+::: {.affiliation-strip-inner}
+::: {.affiliation-item}
+<span class="affiliation-label">Current role</span>
+<strong>Research leadership</strong>
+<span>Director of Research &amp; Chief Economist, IGC</span>
+:::
+::: {.affiliation-item}
+<span class="affiliation-label">Academic affiliation</span>
+<strong>Research Fellow</strong>
+<span>Department of Economics, LSE</span>
+:::
+::: {.affiliation-item}
+<span class="affiliation-label">Research focus</span>
+<strong>Growth in developing economies</strong>
+<span>Energy, climate, and structural change</span>
+:::
 :::
 :::
 
-::: {.closing-section}
-<div class="ornament" aria-hidden="true"><span></span></div>
+::: {.home-section .research-agenda}
+<p class="section-kicker">Research agenda</p>
 
-## In the Policy Room
+## Economics for consequential transitions
 
-<p>Recent engagements include advising Pakistan's Prime Minister and Ministers of Energy and Finance on tariff and tax reform, and Ethiopia's Ministry of Planning on national energy policy. More on the [Policy](policy.qmd) and [CV](cv.qmd) pages.</p>
+<p class="section-intro">My research combines applied microeconomics, structural models, field experiments, and administrative data to understand the forces reshaping low- and middle-income economies.</p>
+
+::: {.agenda-grid}
+::: {.agenda-item}
+<span class="agenda-number">01</span>
+
+### Climate adaptation and human capital
+
+How education and mobility determine who can adapt to a changing climate—and why climate damages are distributed so unequally.
+:::
+
+::: {.agenda-item}
+<span class="agenda-number">02</span>
+
+### Energy markets and state capacity
+
+How contracts, prices, metering, and enforcement shape the reliability and affordability of electricity systems.
+:::
+
+::: {.agenda-item}
+<span class="agenda-number">03</span>
+
+### Structural transformation and technology
+
+How industrial policy, artificial intelligence, and changing sectoral capabilities alter the path from poverty to prosperity.
+:::
+:::
+:::
+
+::: {.home-section .selected-research-section}
+::: {.section-heading-row}
+::: {}
+<p class="section-kicker">Selected research</p>
+
+## Current work
+:::
+<p class="section-link">[All research →](research.qmd)</p>
+:::
+
+::: {.featured-paper-grid}
+::: {.featured-paper}
+<p class="paper-meta">Working paper · Climate &amp; human capital</p>
+
+### [Human Capital, Mobility, and the Unequal Effects of Climate Change](papers/human-capital-climate-mobility.qmd)
+
+How education enables people to change sectors and locations in response to climate damage.
+:::
+
+::: {.featured-paper}
+<p class="paper-meta">Working paper · Energy markets</p>
+
+### [The Economic Costs of Lopsided Contracts](papers/economic-costs-lopsided-ppas-pakistan.qmd)
+
+Measuring how asymmetric information and regulatory capture distort power tariffs in Pakistan.
+:::
+
+::: {.featured-paper}
+<p class="paper-meta">Theory · AI &amp; development</p>
+
+### [AI and the Ladder of Development](papers/ai-ladder-of-development.qmd)
+
+When frontier AI can raise productivity while weakening long-run capability growth.
+:::
+
+::: {.featured-paper}
+<p class="paper-meta">Research project · Political economy</p>
+
+### [Pushing on a String?](papers/pushing-on-a-string-pakistan.qmd)
+
+Two field experiments on prices, enforcement, and electricity theft in Pakistan.
+:::
+:::
+:::
+
+::: {.policy-band}
+::: {.policy-band-inner}
+::: {.policy-band-copy}
+<p class="section-kicker">From evidence to policy</p>
+
+## Research that travels into the policy room
+
+I advise governments and public institutions on energy reform, public finance, and growth strategy. Recent work has supported senior decision-makers in Pakistan and Ethiopia, while my role at the IGC connects research teams with policy partners across Africa, Asia, and the Middle East.
+
+[Explore policy work →](policy.qmd){.text-link-arrow}
+:::
+::: {.policy-band-stat}
+<span class="stat-number">20+</span>
+<span class="stat-label">economists led across the IGC research portfolio</span>
+:::
+::: {.policy-band-stat}
+<span class="stat-number">11</span>
+<span class="stat-label">country programmes supported across three regions</span>
+:::
+:::
+:::
+
+::: {.home-section .contact-section}
+<p class="section-kicker">Contact</p>
+
+## Research, seminars, and policy conversations
+
+For academic correspondence, seminar invitations, or policy discussions, please get in touch by email.
+
+[tdobermann@gmail.com](mailto:tdobermann@gmail.com){.button .button-primary}
 :::

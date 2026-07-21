@@ -1,0 +1,71 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "papers/*.qmd"
+    - "policy/*.qmd"
+
+lang: en-GB
+canonical-url: true
+
+website:
+  title: "Tim Dobermann"
+  description: "Economist working on energy, climate, structural transformation, and growth in developing economies."
+  site-url: "https://www.timdobermann.com"
+  favicon: images/favicon.svg
+  image: images/profile.jpg
+  image-alt: "Tim Dobermann"
+  search: false
+  back-to-top-navigation: true
+
+  open-graph:
+    locale: en_GB
+    site-name: "Tim Dobermann"
+  twitter-card:
+    card-style: summary
+
+  navbar:
+    background: light
+    pinned: true
+    collapse-below: lg
+    right:
+      - text: "Research"
+        file: research.qmd
+      - text: "Policy"
+        file: policy.qmd
+      - text: "Media"
+        file: media.qmd
+      - text: "Profile"
+        file: about.qmd
+      - text: "CV"
+        file: cv.qmd
+      - text: "Scholar"
+        icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=QSNCu9UAAAAJ
+        aria-label: "Google Scholar"
+
+  page-footer:
+    left: "© 2026 Tim Dobermann"
+    right:
+      - text: "Email"
+        href: mailto:tdobermann@gmail.com
+      - text: "Google Scholar"
+        href: https://scholar.google.com/citations?user=QSNCu9UAAAAJ
+      - text: "LinkedIn"
+        href: https://www.linkedin.com/in/timdobermann/
+    border: true
+
+format:
+  html:
+    theme:
+      light: flatly
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    mainfont: "'Source Serif 4', Charter, 'Bitstream Charter', Georgia, serif"
+    fontsize: "1.05rem"
+    linestretch: 1.65
+    link-external-icon: false
+    link-external-newwindow: false

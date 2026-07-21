@@ -1,8 +1,14 @@
 ---
 title: "Price Relief under Nonlinear Electricity Tariffs: Experimental Evidence from Pakistan"
-author: "Tim Dobermann"
+author:
+  - name: "Tim Dobermann"
 categories: [public finance, energy, Pakistan]
-description: "Working paper."
+description: "Experimental evidence on consumption and payment responses to price relief under nonlinear electricity tariffs."
+toc: false
 ---
 
-Working paper.
+<p class="detail-status">Work in progress · Pakistan · Energy pricing</p>
+
+## Project
+
+Electricity tariffs often combine nonlinear prices with targeted relief, making behavioural and fiscal effects difficult to separate. This project uses experimental variation in subsidies to estimate how households adjust consumption, payment, and theft across the tariff schedule.

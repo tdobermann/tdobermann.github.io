@@ -1,8 +1,14 @@
 ---
 title: "The Equilibrium Effects of an Industrial Policy: Evidence from Pakistan"
-author: "Tim Dobermann"
+author:
+  - name: "Tim Dobermann"
 categories: [growth, industrial policy, Pakistan]
-description: "Working paper."
+description: "The direct and equilibrium effects of industrial policy on firms, workers, and local markets in Pakistan."
+toc: false
 ---
 
-Working paper.
+<p class="detail-status">Work in progress · Pakistan · Industrial policy</p>
+
+## Project
+
+This project studies how an industrial-policy intervention affects firms and workers beyond its direct recipients. The analysis focuses on input, labour, and local-demand linkages to distinguish private programme effects from the wider equilibrium consequences relevant to policy design.

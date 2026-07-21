@@ -5,3 +5,5 @@ description: "IGC Policy Brief."
 ---
 
 IGC Policy Brief, 2016.
+
+[Read on the IGC website →](https://www.theigc.org/publication/energy-in-myanmar/){.btn .btn-outline-primary .btn-sm}

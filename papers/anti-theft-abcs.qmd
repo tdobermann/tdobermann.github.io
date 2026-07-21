@@ -1,8 +1,14 @@
 ---
-title: "Randomising Anti-Theft Technologies: Experimental Evidence on Aerial Bundled Cables (ABCs)"
-author: "Tim Dobermann"
-categories: [energy]
-description: "Working paper."
+title: "Randomising Anti-Theft Technologies: Experimental Evidence on Aerial Bundled Cables"
+author:
+  - name: "Tim Dobermann"
+categories: [energy, state capacity]
+description: "Experimental evidence on physical network upgrades designed to reduce electricity theft."
+toc: false
 ---
 
-Working paper.
+<p class="detail-status">Work in progress · Energy and state capacity</p>
+
+## Project
+
+This project studies aerial bundled cables as a physical enforcement technology in electricity distribution networks. It examines whether making illegal connections more difficult reduces theft, improves payment, and strengthens utility finances—and whether those gains persist once households and local intermediaries adapt.

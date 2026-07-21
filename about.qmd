@@ -1,17 +1,71 @@
 ---
-title: "About"
-subtitle: "Background and research"
+title: "Profile"
+subtitle: "Economist, research leader, and policy adviser"
+description: "Professional profile of Tim Dobermann, Director of Research and Chief Economist at the International Growth Centre."
 toc: false
 ---
 
-I am the Director of Research and Chief Economist at the [International Growth Centre](https://www.theigc.org/) and a Research Fellow in the Department of Economics at the [London School of Economics](https://www.lse.ac.uk/), within the Economics of Energy &amp; Environment programme. I hold a PhD in Economics from LSE.
+::: {.profile-layout}
+::: {.profile-main}
+I am the Director of Research and Chief Economist at the [International Growth Centre](https://www.theigc.org/) and a Research Fellow in the Department of Economics at the [London School of Economics](https://www.lse.ac.uk/). I hold a PhD in Economics from LSE.
 
-My research spans energy, AI, climate change, and growth in the developing world. I have advised governments across Asia and Africa on energy and public finance — including Pakistan, Ethiopia, and Myanmar — and I lead a team of over twenty economists working across the IGC's global portfolio.
+My research sits at the intersection of development, environmental, and political economy. I study how energy systems, climate change, and new technologies shape structural transformation—and how institutions can manage those transitions more effectively. My work uses field experiments, administrative data, and quantitative models, with projects across South Asia and sub-Saharan Africa.
 
-Much of my work sits at the seam between frontier research and the rooms where economic policy is actually decided. I care about questions that are analytically hard and immediately consequential: how to price and reform a power sector, how economies climb the ladder of development, and who bears the cost of a changing climate.
+Alongside my academic work, I lead the IGC's global research portfolio and a team of more than twenty economists. I have advised governments across Asia and Africa on energy and public finance, including senior decision-makers in Pakistan, Ethiopia, and Myanmar.
 
-::: {.placeholder-note}
-Placeholder — a natural spot for a more personal paragraph: what drew you to development economics, your approach to combining research with advising governments, or interests outside work. Replace or delete this note.
+The questions that motivate my work are analytically difficult and immediately consequential: how to design a power market that firms and households can rely on; how economies build new productive capabilities; and how people with the fewest resources can adapt to a changing climate.
 :::
 
-Also writing and thinking aloud on [Bluesky](https://bsky.app/profile/timdobermann.bsky.social) and [X](https://x.com/timdobermann).
+::: {.profile-sidebar}
+<p class="sidebar-label">Current positions</p>
+
+**Director of Research & Chief Economist**<br>
+International Growth Centre
+
+**Research Fellow**<br>
+Department of Economics, LSE
+
+<p class="sidebar-label">Fields</p>
+
+Development economics<br>
+Environmental and energy economics<br>
+Political economy
+
+<p class="sidebar-label">Profiles</p>
+
+[Google Scholar](https://scholar.google.com/citations?user=QSNCu9UAAAAJ)<br>
+[International Growth Centre](https://www.theigc.org/people/tim-dobermann)<br>
+[LinkedIn](https://www.linkedin.com/in/timdobermann/)<br>
+[GitHub](https://github.com/tdobermann)
+:::
+:::
+
+## Research leadership
+
+At the IGC, I help set research priorities and connect academic work to the questions facing policymakers in low- and middle-income countries. The portfolio spans sustainable growth, firms, cities, and state effectiveness across eleven country programmes in Africa, Asia, and the Middle East.
+
+My own policy engagement has concentrated on electricity pricing and market design, fiscal reform, and the political economy of implementation. This work complements—not substitutes for—the academic research: each informs the questions, data, and institutional constraints of the other.
+
+::: {.profile-cta}
+::: {}
+### Academic work
+
+Working papers and active research projects across climate, energy, and growth.
+
+[View research →](research.qmd)
+:::
+::: {}
+### Policy work
+
+Selected briefs, reports, and evidence-to-policy engagements.
+
+[View policy work →](policy.qmd)
+:::
+::: {}
+### Full record
+
+Appointments, education, research, and recent policy engagements.
+
+[View curriculum vitae →](cv.qmd)
+:::
+:::

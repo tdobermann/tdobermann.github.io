@@ -1,11 +1,24 @@
 ---
 title: "Pushing on a String? Price and Enforcement Interventions in Pakistan's Power Sector"
-author: "Tim Dobermann, R. Burgess, M. Greenstone, F. Hayat, U. Naeem"
-categories: [energy, public finance, Pakistan]
-description: >
-  Two RCTs with government on using religious messaging to change social
-  norms on electricity payments, and using subsidies to estimate elasticities
-  of theft.
+author:
+  - name: "Tim Dobermann"
+  - name: "Robin Burgess"
+  - name: "Michael Greenstone"
+  - name: "Faraz Hayat"
+  - name: "Usman Naeem"
+categories: [energy, public finance, field experiments, Pakistan]
+description: "Two randomised experiments on price incentives, social norms, and electricity theft in Pakistan."
+toc: false
 ---
 
-**Abstract.** Two randomised controlled trials run with government on (i) using religious messaging to change social norms on electricity payments and (ii) using subsidies to estimate elasticities of theft.
+<p class="detail-status">Research project · Randomised experiments · Pakistan</p>
+
+## Abstract
+
+Weak payment enforcement can undermine electricity access by reducing utility revenue and investment. We conduct two randomised experiments with government in Khyber Pakhtunkhwa, Pakistan, where non-payment and theft are widespread.
+
+The first intervention uses trusted religious institutions to communicate messages about electricity payment and theft, testing whether local messengers can shift social norms where formal enforcement is limited. The second varies financial incentives to estimate demand for billed and unbilled electricity. Together, the experiments quantify the fiscal value and distributional consequences of price- and enforcement-based reforms.
+
+## Project
+
+[International Growth Centre project page](https://www.theigc.org/collections/pushing-string-price-and-enforcement-interventions-reduce-theft-pakistans-power-sector){.btn .btn-outline-primary .btn-sm}

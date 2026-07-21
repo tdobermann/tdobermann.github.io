@@ -1,10 +1,22 @@
 ---
 title: "Reinventing Pakistan's Welfare State: Replacing Energy Subsidies with Targeted Transfers"
-author: "Tim Dobermann, R. Burgess, M. Greenstone, F. Hayat, U. Naeem"
-categories: [energy, public finance, Pakistan]
-description: >
-  Reforming energy pricing to deliver energy subsidies through targeted
-  transfers instead.
+author:
+  - name: "Robin Burgess"
+  - name: "Tim Dobermann"
+  - name: "Michael Greenstone"
+  - name: "Faraz Hayat"
+  - name: "Usman Naeem"
+categories: [energy, public finance, social protection, Pakistan]
+description: "Using linked administrative data to redesign electricity subsidies around household need."
+toc: false
 ---
 
-**Abstract.** Reforming energy pricing in Pakistan to deliver energy subsidies through targeted transfers rather than blanket price distortions.
+<p class="detail-status">Research project · Pakistan · Social protection</p>
+
+## Project
+
+Broad electricity subsidies are costly and often deliver the largest absolute benefits to richer households. This project links administrative data on income and electricity use to study how Pakistan could replace price-based subsidies with transfers targeted to household need.
+
+The research compares targeting rules and delivery mechanisms, quantifies distributional and fiscal effects, and examines how a redesigned system could protect vulnerable households without weakening utility finances or distorting electricity prices.
+
+[International Growth Centre project page](https://www.theigc.org/collections/reinventing-pakistans-welfare-state-replacing-energy-subsidies-targeted-transfers){.btn .btn-outline-primary .btn-sm}
