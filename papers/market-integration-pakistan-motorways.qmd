@@ -4,13 +4,16 @@ author:
   - name: "Tim Dobermann"
   - name: "Faraz Hayat"
   - name: "Usman Naeem"
-categories: [growth, infrastructure, spatial economics, Pakistan]
 description: "How motorway access changes local economic activity across places with different initial conditions."
 toc: false
 ---
+
+<a class="back-link" href="../research.html">← All research</a>
 
 <p class="detail-status">Work in progress · Pakistan · Market integration</p>
 
 ## Project
 
 Using large-scale administrative and spatial data, this project measures how new motorway connections affect firms, employment, and local economic activity. It asks why access to the same transport network can generate sharply different outcomes across places, with a focus on market access and initial productive capabilities.
+
+<p class="draft-note">Results are not yet available. For updates on this project, <a href="mailto:t.dobermann@lse.ac.uk">get in touch</a>.</p>

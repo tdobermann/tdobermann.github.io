@@ -5,7 +5,9 @@ description: "The requested page could not be found."
 toc: false
 ---
 
-The page you were looking for may have moved as part of the site's redesign.
+That page does not exist, or it has moved.
 
+<div class="button-row">
 [Return to the homepage](index.qmd){.button .button-primary}
 [Browse research](research.qmd){.button .button-secondary}
+</div>

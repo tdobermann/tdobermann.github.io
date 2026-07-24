@@ -1,168 +1,187 @@
 ---
 pagetitle: "Tim Dobermann | Economist"
 description: "Research on energy, climate, structural transformation, and growth in developing economies."
-page-layout: full
 ---
 
 ::: {.home-hero}
 ::: {.home-hero-inner}
 ::: {.hero-copy}
-<p class="eyebrow">Development economics · Energy · Climate</p>
+<p class="eyebrow">Development · Energy &amp; environment · Political economy</p>
 
 # Tim Dobermann
 
-<p class="hero-role">Director of Research &amp; Chief Economist</p>
+<p class="hero-role">Economist</p>
 
-<p class="hero-affiliation">International Growth Centre · London School of Economics</p>
+<p class="hero-affiliation">Director of Research &amp; Chief Economist, International Growth Centre · Research Fellow, London School of Economics</p>
 
-<p class="hero-lede">I study how energy systems, climate change, and new technologies shape growth in developing economies—and how research can improve the policy choices that follow.</p>
+<p class="hero-lede">I study how energy systems, climate change, and new technologies reshape growth in developing economies, using field experiments, administrative data, and quantitative spatial models.</p>
 
 <div class="button-row">
-[Explore research](research.qmd){.button .button-primary}
-[View CV](cv.qmd){.button .button-secondary}
+[Read the research](research.qmd){.button .button-primary}
+[Curriculum vitae](cv.qmd){.button .button-secondary}
 </div>
 
 <div class="profile-links" aria-label="Academic and professional profiles">
 <a href="https://scholar.google.com/citations?user=QSNCu9UAAAAJ"><i class="bi bi-mortarboard-fill" aria-hidden="true"></i> Google Scholar</a>
 <a href="https://www.theigc.org/people/tim-dobermann"><i class="bi bi-building" aria-hidden="true"></i> IGC profile</a>
-<a href="mailto:tdobermann@gmail.com"><i class="bi bi-envelope" aria-hidden="true"></i> Email</a>
+<a href="https://www.linkedin.com/in/timdobermann/"><i class="bi bi-linkedin" aria-hidden="true"></i> LinkedIn</a>
+<a href="mailto:t.dobermann@lse.ac.uk"><i class="bi bi-envelope" aria-hidden="true"></i> Email</a>
 </div>
 :::
 
 ::: {.hero-portrait}
-<img src="images/profile.jpg" alt="Portrait of Tim Dobermann" loading="eager" decoding="async">
-<p>Tim Dobermann</p>
+<picture>
+<source srcset="images/profile.webp" type="image/webp">
+<img src="images/profile.jpg" width="704" height="880" alt="Tim Dobermann" loading="eager" decoding="async" fetchpriority="high">
+</picture>
 :::
 :::
 :::
 
 ::: {.affiliation-strip}
-::: {.affiliation-strip-inner}
-::: {.affiliation-item}
-<span class="affiliation-label">Current role</span>
-<strong>Research leadership</strong>
-<span>Director of Research &amp; Chief Economist, IGC</span>
-:::
-::: {.affiliation-item}
-<span class="affiliation-label">Academic affiliation</span>
-<strong>Research Fellow</strong>
-<span>Department of Economics, LSE</span>
-:::
-::: {.affiliation-item}
-<span class="affiliation-label">Research focus</span>
-<strong>Growth in developing economies</strong>
-<span>Energy, climate, and structural change</span>
-:::
-:::
+<div class="affiliation-strip-inner">
+<div class="affiliation-item">
+<span class="affiliation-label">Fields</span>
+<strong>Development, energy, and environmental economics</strong>
+<span class="affiliation-detail">With political economy and spatial economics</span>
+</div>
+<div class="affiliation-item">
+<span class="affiliation-label">Methods</span>
+<strong>Field experiments, administrative data, quantitative models</strong>
+<span class="affiliation-detail">Randomised trials run with governments and utilities</span>
+</div>
+<div class="affiliation-item">
+<span class="affiliation-label">Fieldwork</span>
+<strong>South Asia and sub-Saharan Africa</strong>
+<span class="affiliation-detail">Pakistan, Ethiopia, Ghana, India, Myanmar</span>
+</div>
+</div>
 :::
 
 ::: {.home-section .research-agenda}
 <p class="section-kicker">Research agenda</p>
 
-## Economics for consequential transitions
+## Three questions
 
-<p class="section-intro">My research combines applied microeconomics, structural models, field experiments, and administrative data to understand the forces reshaping low- and middle-income economies.</p>
+<p class="section-intro">My work asks how economies build productive capabilities, how the systems that supply energy actually function, and who is able to adapt when the climate changes.</p>
 
-::: {.agenda-grid}
-::: {.agenda-item}
+<div class="agenda-grid">
+<div class="agenda-item">
 <span class="agenda-number">01</span>
-
-### Climate adaptation and human capital
-
-How education and mobility determine who can adapt to a changing climate—and why climate damages are distributed so unequally.
-:::
-
-::: {.agenda-item}
+<h3>Climate adaptation and human capital</h3>
+<p>How education and mobility determine who can adapt to a changing climate, and why climate damages fall so unequally across places.</p>
+</div>
+<div class="agenda-item">
 <span class="agenda-number">02</span>
-
-### Energy markets and state capacity
-
-How contracts, prices, metering, and enforcement shape the reliability and affordability of electricity systems.
-:::
-
-::: {.agenda-item}
+<h3>Energy markets and state capacity</h3>
+<p>How contracts, prices, metering, and enforcement shape the reliability and affordability of electricity, and what that costs firms.</p>
+</div>
+<div class="agenda-item">
 <span class="agenda-number">03</span>
-
-### Structural transformation and technology
-
-How industrial policy, artificial intelligence, and changing sectoral capabilities alter the path from poverty to prosperity.
-:::
-:::
+<h3>Structural transformation and technology</h3>
+<p>How industrial policy, artificial intelligence, and changing sectoral capabilities alter the path from poverty to prosperity.</p>
+</div>
+</div>
 :::
 
 ::: {.home-section .selected-research-section}
-::: {.section-heading-row}
-::: {}
+<div class="section-heading-row">
+<div>
 <p class="section-kicker">Selected research</p>
+<h2>Current work</h2>
+</div>
+<p class="section-link"><a href="research.html">All research →</a></p>
+</div>
 
-## Current work
-:::
-<p class="section-link">[All research →](research.qmd)</p>
-:::
-
-::: {.featured-paper-grid}
-::: {.featured-paper}
-<p class="paper-meta">Working paper · Climate &amp; human capital</p>
-
-### [Human Capital, Mobility, and the Unequal Effects of Climate Change](papers/human-capital-climate-mobility.qmd)
-
-How education enables people to change sectors and locations in response to climate damage.
-:::
-
-::: {.featured-paper}
+<div class="featured-paper-grid">
+<div class="featured-paper">
+<p class="paper-meta">Working paper · Climate adaptation</p>
+<h3><a href="papers/human-capital-climate-mobility.html">Human Capital, Mobility, and the Unequal Effects of Climate Change</a></h3>
+<p class="paper-authors">Tim Dobermann</p>
+<p>Education lets people change sector and location when crop conditions worsen — but the places facing the largest damages invest least in it.</p>
+</div>
+<div class="featured-paper">
 <p class="paper-meta">Working paper · Energy markets</p>
-
-### [The Economic Costs of Lopsided Contracts](papers/economic-costs-lopsided-ppas-pakistan.qmd)
-
-Measuring how asymmetric information and regulatory capture distort power tariffs in Pakistan.
-:::
-
-::: {.featured-paper}
-<p class="paper-meta">Theory · AI &amp; development</p>
-
-### [AI and the Ladder of Development](papers/ai-ladder-of-development.qmd)
-
-When frontier AI can raise productivity while weakening long-run capability growth.
-:::
-
-::: {.featured-paper}
-<p class="paper-meta">Research project · Political economy</p>
-
-### [Pushing on a String?](papers/pushing-on-a-string-pakistan.qmd)
-
-Two field experiments on prices, enforcement, and electricity theft in Pakistan.
-:::
-:::
+<h3><a href="papers/economic-costs-lopsided-ppas-pakistan.html">The Economic Costs of Lopsided Contracts</a></h3>
+<p class="paper-authors">With Faraz Hayat and Sugandha Srivastav</p>
+<p>A new database on Pakistan's power purchase agreements, and what asymmetric information and regulatory capture cost the wider economy.</p>
+</div>
+<div class="featured-paper">
+<p class="paper-meta">Working paper · AI &amp; development</p>
+<h3><a href="papers/ai-ladder-of-development.html">AI and the Ladder of Development</a></h3>
+<p class="paper-authors">Tim Dobermann</p>
+<p>Frontier AI can raise measured productivity while pulling labour toward weak-learning sectors — raising income now, capability growth later.</p>
+</div>
+<div class="featured-paper">
+<p class="paper-meta">Field experiments · Pakistan</p>
+<h3><a href="papers/pushing-on-a-string-pakistan.html">Pushing on a String?</a></h3>
+<p class="paper-authors">With Robin Burgess, Michael Greenstone, Faraz Hayat, and Usman Naeem</p>
+<p>Two randomised experiments run with government on how prices and norm-based enforcement change electricity payment and theft.</p>
+</div>
+</div>
 :::
 
 ::: {.policy-band}
-::: {.policy-band-inner}
-::: {.policy-band-copy}
+<div class="policy-band-inner">
+<div class="policy-band-copy">
 <p class="section-kicker">From evidence to policy</p>
 
-## Research that travels into the policy room
+## Research that reaches the room where decisions are made
 
-I advise governments and public institutions on energy reform, public finance, and growth strategy. Recent work has supported senior decision-makers in Pakistan and Ethiopia, while my role at the IGC connects research teams with policy partners across Africa, Asia, and the Middle East.
+<p>The same questions arrive twice: once as an identification problem, once as a live policy choice. I work directly with finance and energy ministries on tariff design, subsidy reform, and growth strategy — which is also where the data, the institutional constraints, and the next research question come from.</p>
 
-[Explore policy work →](policy.qmd){.text-link-arrow}
+<p><a href="policy.html" class="text-link-arrow">Explore policy work →</a></p>
+</div>
+<dl class="engagement-rail">
+<div class="engagement-rail-item">
+<dt>Pakistan</dt>
+<dd>Electricity tariffs, power purchase agreements, and tax reform, with the Ministries of Energy and Finance.</dd>
+</div>
+<div class="engagement-rail-item">
+<dt>Ethiopia</dt>
+<dd>National energy policy and evidence on metering, reliability, and firm performance.</dd>
+</div>
+<div class="engagement-rail-item">
+<dt>Myanmar</dt>
+<dd>The technical update of the National Electrification Plan and Yangon's urban growth.</dd>
+</div>
+</dl>
+</div>
 :::
-::: {.policy-band-stat}
-<span class="stat-number">20+</span>
-<span class="stat-label">economists led across the IGC research portfolio</span>
-:::
-::: {.policy-band-stat}
-<span class="stat-number">11</span>
-<span class="stat-label">country programmes supported across three regions</span>
-:::
-:::
+
+::: {.home-section}
+<div class="section-heading-row">
+<div>
+<p class="section-kicker">Recent writing</p>
+<h2>In public</h2>
+</div>
+<p class="section-link"><a href="media.html">All writing →</a></p>
+</div>
+
+<div class="writing-teaser">
+<div class="writing-teaser-item">
+<span class="commentary-date">2026 · VoxDev</span>
+<h3><a href="https://voxdev.org/topic/macroeconomics-growth/how-can-countries-develop-their-economies-changed-world">How can countries develop their economies in a changed world?</a></h3>
+</div>
+<div class="writing-teaser-item">
+<span class="commentary-date">2025 · LSE Press</span>
+<h3><a href="https://doi.org/10.31389/lsepress.tlc.n">Climate and Environment: What We Know and What We Need to Know</a></h3>
+</div>
+<div class="writing-teaser-item">
+<span class="commentary-date">2024 · IGC</span>
+<h3><a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/indias-opportunity-sustainable-growth">India's Opportunity for Sustainable Growth</a></h3>
+</div>
+</div>
 :::
 
 ::: {.home-section .contact-section}
 <p class="section-kicker">Contact</p>
 
-## Research, seminars, and policy conversations
+## Seminars, referee requests, and policy conversations
 
-For academic correspondence, seminar invitations, or policy discussions, please get in touch by email.
+For academic correspondence, seminar invitations, or policy discussions, email is best.
 
-[tdobermann@gmail.com](mailto:tdobermann@gmail.com){.button .button-primary}
+<div class="button-row">
+[t.dobermann@lse.ac.uk](mailto:t.dobermann@lse.ac.uk){.button .button-primary}
+</div>
 :::

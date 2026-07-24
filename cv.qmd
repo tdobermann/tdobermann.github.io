@@ -2,162 +2,185 @@
 title: "Curriculum Vitae"
 subtitle: "Research, leadership, and policy experience"
 description: "Curriculum vitae of Tim Dobermann, economist and Director of Research and Chief Economist at the International Growth Centre."
-toc: true
-toc-depth: 2
+toc: false
 ---
+
+<!-- The downloadable PDF is generated from cv-pdf.qmd. Keep the two in step. -->
 
 ::: {.cv-intro}
 Economist working across development, environmental, and political economy, combining academic research with research leadership and direct government engagement.
 
 <div class="button-row">
-[Email](mailto:tdobermann@gmail.com){.button .button-primary}
-[Google Scholar](https://scholar.google.com/citations?user=QSNCu9UAAAAJ){.button .button-secondary}
+[Download CV (PDF)](tim-dobermann-cv.pdf){.button .button-primary}
+[t.dobermann@lse.ac.uk](mailto:t.dobermann@lse.ac.uk){.button .button-secondary}
 </div>
 :::
 
+<nav class="cv-jump" aria-label="Sections of this CV">
+<a href="#appointments">Appointments</a>
+<a href="#education">Education</a>
+<a href="#working-papers">Working papers</a>
+<a href="#policy-publications">Policy publications</a>
+<a href="#consulting">Consulting</a>
+<a href="#recent-policy-engagement">Policy engagement</a>
+<a href="#skills-and-languages">Skills</a>
+</nav>
+
 ## Appointments
 
-::: {.cv-entry}
-::: {.cv-entry-heading}
-**Director of Research & Chief Economist**<br>
-International Growth Centre, London
-:::
+<div class="cv-entry">
+<div class="cv-entry-heading">
+<strong>Director of Research &amp; Chief Economist</strong>
+<span>International Growth Centre, London</span>
+</div>
 <span class="cv-date">June 2024–present</span>
-:::
+</div>
 
 - Member of the senior management team, responsible for the development and expansion of the IGC's global research portfolio.
 - Lead a team of more than twenty economists and support research and policy engagement across eleven country programmes.
 - Advise senior officials across Africa, Asia, and the Middle East.
 
-::: {.cv-entry}
-::: {.cv-entry-heading}
-**Postdoctoral Research Fellow**<br>
-Department of Economics, London School of Economics
-:::
+<div class="cv-entry">
+<div class="cv-entry-heading">
+<strong>Research Fellow</strong>
+<span>Department of Economics, London School of Economics</span>
+</div>
 <span class="cv-date">June 2024–present</span>
-:::
+</div>
 
-- Research Fellow in the Economics of Energy & Environment programme.
+- Postdoctoral fellow in the Economics of Energy &amp; Environment programme.
 
-::: {.cv-entry}
-::: {.cv-entry-heading}
-**External Adviser**<br>
-Ministry of Energy and Ministry of Finance, Pakistan (unremunerated)
-:::
+<div class="cv-entry">
+<div class="cv-entry-heading">
+<strong>External Adviser</strong>
+<span>Ministry of Energy and Ministry of Finance, Pakistan (unremunerated)</span>
+</div>
 <span class="cv-date">2019–2024; 2026–present</span>
-:::
+</div>
 
 - Presented confidential analysis to the federal Cabinet and senior decision-makers on electricity tariffs, tax reform, and macroeconomic crisis response.
 
-::: {.cv-entry}
-::: {.cv-entry-heading}
-**Policy Economist**<br>
-International Growth Centre, London
-:::
+<div class="cv-entry">
+<div class="cv-entry-heading">
+<strong>Policy Economist</strong>
+<span>International Growth Centre, London</span>
+</div>
 <span class="cv-date">January 2017–August 2018</span>
-:::
+</div>
 
 - Managed research portfolios in Myanmar, Bangladesh, Pakistan, Jordan, Lebanon, and Afghanistan.
-- Led the technical update of Myanmar's National Electrification Plan with the Ministry of Electricity & Energy.
+- Led the technical update of Myanmar's National Electrification Plan with the Ministry of Electricity &amp; Energy.
 
-::: {.cv-entry}
-::: {.cv-entry-heading}
-**Country Economist**<br>
-International Growth Centre, Yangon
-:::
+<div class="cv-entry">
+<div class="cv-entry-heading">
+<strong>Country Economist</strong>
+<span>International Growth Centre, Yangon</span>
+</div>
 <span class="cv-date">June 2015–January 2017</span>
-:::
+</div>
 
 - Established energy and cities research portfolios with the government of Myanmar.
 
 ## Education
 
-::: {.credential-list}
-::: {.credential-row}
-**PhD, Economics**<br>
-London School of Economics and Political Science
-<span>2020–2024</span>
-:::
-::: {.credential-row}
-**MRes, Economics** *(Distinction)*<br>
-London School of Economics and Political Science
-<span>2018–2020</span>
-:::
-::: {.credential-row}
-**MSc, Economics** *(Distinction)*<br>
-London School of Economics and Political Science
-<span>2014–2015</span>
-:::
-::: {.credential-row}
-**BSc, Economics** *(First Class Honours)*<br>
-University of Warwick
-<span>2011–2014</span>
-:::
-:::
+<div class="credential-list">
+<div class="credential-row">
+<div>
+<strong>PhD, Economics</strong>
+<span>London School of Economics and Political Science</span>
+</div>
+<span class="cv-date">2020–2024</span>
+</div>
+<div class="credential-row">
+<div>
+<strong>MRes, Economics <em>(Distinction)</em></strong>
+<span>London School of Economics and Political Science</span>
+</div>
+<span class="cv-date">2018–2020</span>
+</div>
+<div class="credential-row">
+<div>
+<strong>MSc, Economics <em>(Distinction)</em></strong>
+<span>London School of Economics and Political Science</span>
+</div>
+<span class="cv-date">2014–2015</span>
+</div>
+<div class="credential-row">
+<div>
+<strong>BSc, Economics <em>(First Class Honours)</em></strong>
+<span>University of Warwick</span>
+</div>
+<span class="cv-date">2011–2014</span>
+</div>
+</div>
 
-## Selected Research
+## Working papers
 
-1. **Human Capital, Mobility, and the Unequal Effects of Climate Change.** Working paper.
-2. **AI and the Ladder of Development.** Working paper.
+::: {.cv-reference-list}
+1. **Human Capital, Mobility, and the Unequal Effects of Climate Change.**
+2. **AI and the Ladder of Development.**
 3. **The Economic Costs of Lopsided Contracts: Evidence from Power Purchase Agreements in Pakistan.** With Faraz Hayat and Sugandha Srivastav.
 4. **Pushing on a String? Price and Enforcement Interventions in Pakistan's Power Sector.** With Robin Burgess, Michael Greenstone, Faraz Hayat, and Usman Naeem.
 5. **Reinventing Pakistan's Welfare State: Replacing Energy Subsidies with Targeted Transfers.** With Robin Burgess, Michael Greenstone, Faraz Hayat, and Usman Naeem.
 6. **Deciphering the Miracle on the Han: How South Korea Escaped Poverty and Transformed its Economy.** With Oriana Bandiera, Ignacio Bañares Sanchez, Robin Burgess, Jay Euijung Lee, Jeongkyung Won, and Hyunjoo Yang.
 7. **Electricity, Agglomeration, and Industrialisation in Ghana.** With Ignacio Bañares Sanchez and Niclas Moneke.
 8. **The Heterogeneous Impacts of Market Integration: Evidence from Pakistan's Motorways.** With Faraz Hayat and Usman Naeem.
+:::
 
 [Abstracts, active projects, and external links →](research.qmd)
 
-## Selected Policy Publications
+## Policy publications
 
+::: {.cv-reference-list}
 - **Climate and Environment: What We Know and What We Need to Know.** With Robin Burgess. In *The London Consensus: Economic Principles for the 21st Century*, LSE Press, 2025.
-- **Innovation, Growth, and the Environment.** With Robin Burgess, Stefano Caria, and Allegra Saggese. IGC white paper, 2023.
-- **Energy and Environment for Economic Growth.** With Robin Burgess, Michael Greenstone, Mar Reguant, and Nicholas Ryan. IGC evidence paper, 2021.
 - **Making Cities Work for Business.** With Victoria Delbridge, Muskan Jain, and Juliana Oliveira-Cunha. IGC policy toolkit, 2026.
 - **Transition-Critical Minerals.** With Shahrukh Wani and Jonathan Leape. IGC policy note, 2025.
+- **Innovation, Growth, and the Environment.** With Robin Burgess, Stefano Caria, and Allegra Saggese. IGC white paper, 2023.
+- **Energy and Environment for Economic Growth.** With Robin Burgess, Michael Greenstone, Mar Reguant, and Nicholas Ryan. IGC evidence paper, 2021.
+:::
 
 [Selected briefs, reports, and engagement →](policy.qmd)
 
 ## Consulting
 
-::: {.cv-entry}
-::: {.cv-entry-heading}
-**Climate Change, Education, and Skills in South Asia**<br>
-World Bank
-:::
+<div class="cv-entry">
+<div class="cv-entry-heading">
+<strong>Climate Change, Education, and Skills in South Asia</strong>
+<span>World Bank</span>
+</div>
 <span class="cv-date">2023–2024</span>
-:::
+</div>
 
 Provided an evidence overview and framework linking human capital and climate adaptation in South Asia.
 
-::: {.cv-entry}
-::: {.cv-entry-heading}
-**Economic and Environmental Impacts of a Carbon Tax in Maryland**<br>
-McKinsey & Company
-:::
+<div class="cv-entry">
+<div class="cv-entry-heading">
+<strong>Economic and Environmental Impacts of a Carbon Tax in Maryland</strong>
+<span>McKinsey &amp; Company</span>
+</div>
 <span class="cv-date">2021</span>
-:::
+</div>
 
 Modelled the macroeconomic effects of proposed carbon taxes and potential emissions reductions.
 
-::: {.cv-entry}
-::: {.cv-entry-heading}
-**Myanmar's Infrastructure Gap**<br>
-Adam Smith International
-:::
+<div class="cv-entry">
+<div class="cv-entry-heading">
+<strong>Myanmar's Infrastructure Gap</strong>
+<span>Adam Smith International</span>
+</div>
 <span class="cv-date">2016</span>
-:::
+</div>
 
 Report on critical gaps in transport, energy, and digital infrastructure.
 
-## Recent Policy Engagement
+## Recent policy engagement
 
 - **2026** — Advice to Pakistan's Minister of Energy on electricity tariff reform for industry.
 - **2026** — Analysis for Pakistan's Prime Minister and Minister of Finance on tax proposals considered during IMF negotiations.
 - **2025** — Expert review for Ethiopia's Ministry of Planning and Development on national energy policy.
 - **2025** — Technical advice to Pakistan's Special Investment Facilitation Council on power-purchase-agreement reform and renewable investment.
 
-## Skills and Languages
+## Skills and languages
 
 **Methods and software:** Python, Stata, R, GIS, LaTeX<br>
 **Languages:** English, German

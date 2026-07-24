@@ -1,9 +1,0 @@
----
-title: "Climate and Environment: What we know and what we need to know"
-date: "2025-01-01"
-description: "In The London Consensus: Economic Principles for the 21st Century, LSE Press, with R. Burgess."
----
-
-*With R. Burgess.* In *The London Consensus: Economic Principles for the 21st Century.* London: LSE Press, 2025.
-
-[Read the chapter →](https://doi.org/10.31389/lsepress.tlc.n){.btn .btn-outline-primary .btn-sm}

@@ -4,4 +4,6 @@ date: "2018-01-01"
 description: "IGC Brief."
 ---
 
+<a class="back-link" href="../policy.html">← All policy work</a>
+
 IGC Brief, 2018.

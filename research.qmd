@@ -14,142 +14,120 @@ toc: false
 <strong>Political economy</strong>
 :::
 
-## Selected papers
+## Working papers
 
-::: {.paper-list}
-::: {.paper-row}
-::: {.paper-row-main}
-<p class="paper-meta">Working paper · Climate adaptation</p>
+<div class="paper-list">
+<div class="paper-row">
+<div class="paper-row-main">
+<p class="paper-meta">Climate adaptation · India</p>
+<h3><a href="papers/human-capital-climate-mobility.html">Human Capital, Mobility, and the Unequal Effects of Climate Change</a></h3>
+<p class="paper-authors">Tim Dobermann</p>
+<p>Examines how human capital creates mobility across sectors and locations as a channel for climate adaptation, combining a historical schooling expansion in India with a spatial model of structural change.</p>
+</div>
+<div class="paper-row-side">
+<span class="paper-status">Working paper</span>
+<a href="https://www.theigc.org/collections/structural-transformation-race-against-climate-change">IGC project page</a>
+<a href="https://www.theigc.org/publications/human-capital-mobility-and-climate-change-adaptation">Policy brief</a>
+</div>
+</div>
 
-### [Human Capital, Mobility, and the Unequal Effects of Climate Change](papers/human-capital-climate-mobility.qmd)
+<div class="paper-row">
+<div class="paper-row-main">
+<p class="paper-meta">Energy markets · Pakistan</p>
+<h3><a href="papers/economic-costs-lopsided-ppas-pakistan.html">The Economic Costs of Lopsided Contracts: Evidence from Power Purchase Agreements in Pakistan</a></h3>
+<p class="paper-authors">With Faraz Hayat and Sugandha Srivastav</p>
+<p>Builds a new database on power purchase agreements to study how asymmetric information and regulatory capture shape electricity prices and productive misallocation.</p>
+</div>
+<div class="paper-row-side">
+<span class="paper-status">Working paper</span>
+</div>
+</div>
 
-Examines how human capital creates mobility across sectors and locations as a channel for climate adaptation, combining a historical schooling expansion in India with a spatial model of structural change.
-:::
-::: {.paper-row-side}
-**Tim Dobermann**
+<div class="paper-row">
+<div class="paper-row-main">
+<p class="paper-meta">Theory · AI and development</p>
+<h3><a href="papers/ai-ladder-of-development.html">AI and the Ladder of Development</a></h3>
+<p class="paper-authors">Tim Dobermann</p>
+<p>Develops a small open-economy model in which frontier AI can raise current productivity yet slow capability accumulation by reallocating labour toward weak-learning local services.</p>
+</div>
+<div class="paper-row-side">
+<span class="paper-status">Working paper</span>
+</div>
+</div>
 
-[Project page](https://www.theigc.org/collections/structural-transformation-race-against-climate-change)<br>
-[Policy brief](https://www.theigc.org/publications/human-capital-mobility-and-climate-change-adaptation)
-:::
-:::
-
-::: {.paper-row}
-::: {.paper-row-main}
-<p class="paper-meta">Working paper · Energy markets · Pakistan</p>
-
-### [The Economic Costs of Lopsided Contracts: Evidence from Power Purchase Agreements in Pakistan](papers/economic-costs-lopsided-ppas-pakistan.qmd)
-
-Builds a new database on power purchase agreements to study how asymmetric information and regulatory capture shape electricity prices and productive misallocation.
-:::
-::: {.paper-row-side}
-**With Faraz Hayat and Sugandha Srivastav**
-:::
-:::
-
-::: {.paper-row}
-::: {.paper-row-main}
-<p class="paper-meta">Theory · AI &amp; development</p>
-
-### [AI and the Ladder of Development](papers/ai-ladder-of-development.qmd)
-
-Develops a small open-economy model in which frontier AI can raise current productivity yet slow capability accumulation by reallocating labour toward weak-learning local services.
-:::
-::: {.paper-row-side}
-**Tim Dobermann**
-:::
-:::
-
-::: {.paper-row}
-::: {.paper-row-main}
+<div class="paper-row">
+<div class="paper-row-main">
 <p class="paper-meta">Field experiments · Energy · Pakistan</p>
+<h3><a href="papers/pushing-on-a-string-pakistan.html">Pushing on a String? Price and Enforcement Interventions in Pakistan's Power Sector</a></h3>
+<p class="paper-authors">With Robin Burgess, Michael Greenstone, Faraz Hayat, and Usman Naeem</p>
+<p>Uses two randomised experiments with government to estimate how electricity payments and theft respond to price incentives and norm-based enforcement.</p>
+</div>
+<div class="paper-row-side">
+<span class="paper-status">Working paper</span>
+<a href="https://www.theigc.org/collections/pushing-string-price-and-enforcement-interventions-reduce-theft-pakistans-power-sector">IGC project page</a>
+</div>
+</div>
 
-### [Pushing on a String? Price and Enforcement Interventions in Pakistan's Power Sector](papers/pushing-on-a-string-pakistan.qmd)
-
-Uses two randomised experiments with government to estimate how electricity payments and theft respond to price incentives and norm-based enforcement.
-:::
-::: {.paper-row-side}
-**With Robin Burgess, Michael Greenstone, Faraz Hayat, and Usman Naeem**
-
-[Project page](https://www.theigc.org/collections/pushing-string-price-and-enforcement-interventions-reduce-theft-pakistans-power-sector)
-:::
-:::
-
-::: {.paper-row}
-::: {.paper-row-main}
+<div class="paper-row">
+<div class="paper-row-main">
 <p class="paper-meta">Structural transformation · South Korea</p>
+<h3><a href="papers/miracle-on-the-han.html">Deciphering the Miracle on the Han: How South Korea Escaped Poverty and Transformed its Economy</a></h3>
+<p class="paper-authors">With Oriana Bandiera, Ignacio Bañares Sanchez, Robin Burgess, Jay Euijung Lee, Jeongkyung Won, and Hyunjoo Yang</p>
+<p>Uses newly digitised historical microdata to study the roles of industrial policy, rural development, and infrastructure in South Korea's rapid transformation.</p>
+</div>
+<div class="paper-row-side">
+<span class="paper-status">In progress</span>
+<a href="https://www.theigc.org/collections/deciphering-miracle-han-how-south-korea-escaped-poverty-and-transformed-its-economy">IGC project page</a>
+</div>
+</div>
 
-### [Deciphering the Miracle on the Han: How South Korea Escaped Poverty and Transformed its Economy](papers/miracle-on-the-han.qmd)
-
-Uses newly digitised historical microdata to study the roles of industrial policy, rural development, and infrastructure in South Korea's rapid transformation.
-:::
-::: {.paper-row-side}
-**With Oriana Bandiera, Ignacio Bañares Sanchez, Robin Burgess, Jay Euijung Lee, Jeongkyung Won, and Hyunjoo Yang**
-
-[Project page](https://www.theigc.org/collections/deciphering-miracle-han-how-south-korea-escaped-poverty-and-transformed-its-economy)
-:::
-:::
-
-::: {.paper-row}
-::: {.paper-row-main}
+<div class="paper-row">
+<div class="paper-row-main">
 <p class="paper-meta">Spatial economics · Energy · Ghana</p>
-
-### [Electricity, Agglomeration, and Industrialisation in Ghana](papers/electricity-agglomeration-ghana.qmd)
-
-Estimates how the allocation of electricity outages affects firm productivity, entry, and industrial agglomeration across space.
-:::
-::: {.paper-row-side}
-**With Ignacio Bañares Sanchez and Niclas Moneke**
-
-[Project page](https://www.theigc.org/collections/electricity-supply-and-firm-agglomeration-ghana)
-:::
-:::
-:::
+<h3><a href="papers/electricity-agglomeration-ghana.html">Electricity, Agglomeration, and Industrialisation in Ghana</a></h3>
+<p class="paper-authors">With Ignacio Bañares Sanchez and Niclas Moneke</p>
+<p>Estimates how the allocation of electricity outages affects firm productivity, entry, and industrial agglomeration across space.</p>
+</div>
+<div class="paper-row-side">
+<span class="paper-status">In progress</span>
+<a href="https://www.theigc.org/collections/electricity-supply-and-firm-agglomeration-ghana">IGC project page</a>
+</div>
+</div>
+</div>
 
 ## Active projects
 
-::: {.project-grid}
-::: {.project-card}
+<div class="project-grid">
+<div class="project-card">
 <p class="paper-meta">Ethiopia · Field experiment</p>
+<h3><a href="papers/smart-meters-ethiopia.html">Smart meters and firm performance</a></h3>
+<p>A randomised evaluation of how smart meters affect reliability, utility revenue, electricity theft, and SME performance.</p>
+<p><a href="https://www.theigc.org/collections/impact-smart-meters-firm-performance-reliability-and-utility-revenue-experimental">IGC project →</a></p>
+</div>
 
-### [Smart meters and firm performance](papers/smart-meters-ethiopia.qmd)
-
-A randomised evaluation of how smart meters affect reliability, utility revenue, electricity theft, and SME performance.
-
-[IGC project →](https://www.theigc.org/collections/impact-smart-meters-firm-performance-reliability-and-utility-revenue-experimental)
-:::
-
-::: {.project-card}
+<div class="project-card">
 <p class="paper-meta">Ethiopia · Energy access</p>
+<h3><a href="papers/solar-diffusion-ethiopia.html">The diffusion of solar in rural economies</a></h3>
+<p>Mapping how market structure, intermediaries, and spatial frictions shape off-grid solar coverage, prices, and adoption.</p>
+<p><a href="https://www.theigc.org/collections/diffusion-solar-rural-economies-market-structure-intermediation-and-spatial-frictions">IGC project →</a></p>
+</div>
 
-### [The diffusion of solar in rural economies](papers/solar-diffusion-ethiopia.qmd)
-
-Mapping how market structure, intermediaries, and spatial frictions shape off-grid solar coverage, prices, and adoption.
-
-[IGC project →](https://www.theigc.org/collections/diffusion-solar-rural-economies-market-structure-intermediation-and-spatial-frictions)
-:::
-
-::: {.project-card}
+<div class="project-card">
 <p class="paper-meta">Pakistan · Public finance</p>
+<h3><a href="papers/customs-evasion-pakistan.html">Customs evasion and state capacity</a></h3>
+<p>Evaluating faceless assessment and risk-management reforms intended to improve customs efficiency and detect under-invoicing.</p>
+<p><a href="https://www.theigc.org/collections/introducing-anonymity-and-third-party-information-combat-customs-tax-evasion-pakistan">IGC project →</a></p>
+</div>
 
-### [Customs evasion and state capacity](papers/customs-evasion-pakistan.qmd)
-
-Evaluating faceless assessment and risk-management reforms intended to improve customs efficiency and detect under-invoicing.
-
-[IGC project →](https://www.theigc.org/collections/introducing-anonymity-and-third-party-information-combat-customs-tax-evasion-pakistan)
-:::
-
-::: {.project-card}
+<div class="project-card">
 <p class="paper-meta">Pakistan · Social protection</p>
+<h3><a href="papers/reinventing-pakistan-welfare-state.html">Replacing energy subsidies with targeted transfers</a></h3>
+<p>Using linked administrative data to study better targeting and delivery of household energy support.</p>
+<p><a href="https://www.theigc.org/collections/reinventing-pakistans-welfare-state-replacing-energy-subsidies-targeted-transfers">IGC project →</a></p>
+</div>
+</div>
 
-### [Replacing energy subsidies with targeted transfers](papers/reinventing-pakistan-welfare-state.qmd)
-
-Using linked administrative data to study better targeting and delivery of household energy support.
-
-[IGC project →](https://www.theigc.org/collections/reinventing-pakistans-welfare-state-replacing-energy-subsidies-targeted-transfers)
-:::
-:::
-
-## Additional work in progress
+## Work in progress
 
 ::: {.compact-paper-list}
 - [Randomising Anti-Theft Technologies: Experimental Evidence on Aerial Bundled Cables](papers/anti-theft-abcs.qmd) — energy and state capacity
@@ -161,5 +139,5 @@ Using linked administrative data to study better targeting and delivery of house
 :::
 
 ::: {.page-end-cta}
-For the most current citation record, visit [Google Scholar](https://scholar.google.com/citations?user=QSNCu9UAAAAJ). For research correspondence, [send an email](mailto:tdobermann@gmail.com).
+Drafts of unposted papers are available on request. For the current citation record see [Google Scholar](https://scholar.google.com/citations?user=QSNCu9UAAAAJ); for research correspondence, [send an email](mailto:t.dobermann@lse.ac.uk).
 :::

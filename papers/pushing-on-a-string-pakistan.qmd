@@ -6,10 +6,11 @@ author:
   - name: "Michael Greenstone"
   - name: "Faraz Hayat"
   - name: "Usman Naeem"
-categories: [energy, public finance, field experiments, Pakistan]
 description: "Two randomised experiments on price incentives, social norms, and electricity theft in Pakistan."
 toc: false
 ---
+
+<a class="back-link" href="../research.html">← All research</a>
 
 <p class="detail-status">Research project · Randomised experiments · Pakistan</p>
 
@@ -19,6 +20,8 @@ Weak payment enforcement can undermine electricity access by reducing utility re
 
 The first intervention uses trusted religious institutions to communicate messages about electricity payment and theft, testing whether local messengers can shift social norms where formal enforcement is limited. The second varies financial incentives to estimate demand for billed and unbilled electricity. Together, the experiments quantify the fiscal value and distributional consequences of price- and enforcement-based reforms.
 
-## Project
-
+::: {.detail-actions}
 [International Growth Centre project page](https://www.theigc.org/collections/pushing-string-price-and-enforcement-interventions-reduce-theft-pakistans-power-sector){.btn .btn-outline-primary .btn-sm}
+:::
+
+<p class="draft-note">Current draft available on request — <a href="mailto:t.dobermann@lse.ac.uk">t.dobermann@lse.ac.uk</a></p>
