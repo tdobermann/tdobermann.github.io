@@ -8,10 +8,11 @@ author:
   - name: "Jay Euijung Lee"
   - name: "Jeongkyung Won"
   - name: "Hyunjoo Yang"
-categories: [growth, industrial policy, South Korea]
 description: "Historical microdata on industrial policy, infrastructure, and South Korea's rapid structural transformation."
 toc: false
 ---
+
+<a class="back-link" href="../research.html">← All research</a>
 
 <p class="detail-status">Research project · Historical microdata · South Korea</p>
 
@@ -21,6 +22,8 @@ South Korea moved from poverty to industrial prosperity within two generations. 
 
 The project studies how place-based industrial policy, rural development, and public infrastructure changed the location and composition of economic activity. Its broader aim is to identify which micro-level mechanisms can produce—and sustain—rapid economy-wide structural transformation.
 
-## Project
-
+::: {.detail-actions}
 [International Growth Centre project page](https://www.theigc.org/collections/deciphering-miracle-han-how-south-korea-escaped-poverty-and-transformed-its-economy){.btn .btn-outline-primary .btn-sm}
+:::
+
+<p class="draft-note">Results are not yet available. For updates on this project, <a href="mailto:t.dobermann@lse.ac.uk">get in touch</a>.</p>

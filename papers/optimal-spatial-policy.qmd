@@ -2,13 +2,16 @@
 title: "Optimal Spatial Policy with Local Demand Effects"
 author:
   - name: "Tim Dobermann"
-categories: [growth, spatial economics]
 description: "How local demand linkages change the design and incidence of place-based policy."
 toc: false
 ---
+
+<a class="back-link" href="../research.html">← All research</a>
 
 <p class="detail-status">Work in progress · Spatial economics</p>
 
 ## Project
 
 Place-based policies change not only local production but also local demand. This project studies how those demand linkages alter optimal spatial targeting, the incidence of subsidies across firms and workers, and the trade-off between aggregate efficiency and regional inequality.
+
+<p class="draft-note">Results are not yet available. For updates on this project, <a href="mailto:t.dobermann@lse.ac.uk">get in touch</a>.</p>

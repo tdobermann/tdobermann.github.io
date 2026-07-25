@@ -1,9 +1,0 @@
----
-title: "Transition-critical Minerals"
-date: "2025-01-01"
-description: "IGC Policy Note, with S. Wani and J. Leape."
----
-
-*With S. Wani, J. Leape.* IGC Policy Note, 2025.
-
-[Read the policy note →](https://www.theigc.org/publications/transition-critical-minerals){.btn .btn-outline-primary .btn-sm}

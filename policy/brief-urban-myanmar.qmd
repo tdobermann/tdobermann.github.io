@@ -4,6 +4,10 @@ date: "2016-01-01"
 description: "IGC Policy Brief."
 ---
 
+<a class="back-link" href="../policy.html">← All policy work</a>
+
 IGC Policy Brief, 2016.
 
+::: {.detail-actions}
 [Read on the IGC website →](https://www.theigc.org/publication/urban-myanmar/){.btn .btn-outline-primary .btn-sm}
+:::

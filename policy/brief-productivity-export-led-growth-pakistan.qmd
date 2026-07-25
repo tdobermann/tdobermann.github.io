@@ -1,9 +1,0 @@
----
-title: "Productivity and Export-led Growth in Pakistan"
-date: "2025-01-01"
-description: "IGC Growth Framework."
----
-
-IGC Growth Framework, 2025.
-
-[Read the growth framework →](https://www.theigc.org/publications/framework-productivity-and-export-led-growth-pakistan){.btn .btn-outline-primary .btn-sm}

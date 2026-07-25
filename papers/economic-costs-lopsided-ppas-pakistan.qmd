@@ -4,10 +4,11 @@ author:
   - name: "Tim Dobermann"
   - name: "Faraz Hayat"
   - name: "Sugandha Srivastav"
-categories: [energy markets, political economy, Pakistan]
 description: "How the design and negotiation of power purchase agreements affect electricity costs and productive efficiency."
 toc: false
 ---
+
+<a class="back-link" href="../research.html">← All research</a>
 
 <p class="detail-status">Working paper · Pakistan · Energy markets</p>
 
@@ -20,3 +21,5 @@ We assemble a new database covering Pakistan's power purchase agreements since p
 ## Research themes
 
 Contract design · Electricity markets · State capacity · Industrial competitiveness
+
+<p class="draft-note">Current draft available on request — <a href="mailto:t.dobermann@lse.ac.uk">t.dobermann@lse.ac.uk</a></p>

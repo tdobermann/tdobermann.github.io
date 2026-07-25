@@ -5,6 +5,11 @@ project:
     - "*.qmd"
     - "papers/*.qmd"
     - "policy/*.qmd"
+  resources:
+    - CNAME
+    - robots.txt
+    # referenced only from a <source srcset>, which Quarto does not scan
+    - images/profile.webp
 
 lang: en-GB
 canonical-url: true
@@ -16,7 +21,9 @@ website:
   favicon: images/favicon.svg
   image: images/profile.jpg
   image-alt: "Tim Dobermann"
-  search: false
+  search:
+    location: navbar
+    type: overlay
   back-to-top-navigation: true
 
   open-graph:
@@ -34,26 +41,25 @@ website:
         file: research.qmd
       - text: "Policy"
         file: policy.qmd
-      - text: "Media"
+      - text: "Writing"
         file: media.qmd
-      - text: "Profile"
+      - text: "About"
         file: about.qmd
       - text: "CV"
         file: cv.qmd
-      - text: "Scholar"
-        icon: mortarboard-fill
-        href: https://scholar.google.com/citations?user=QSNCu9UAAAAJ
-        aria-label: "Google Scholar"
 
   page-footer:
     left: "© 2026 Tim Dobermann"
-    right:
+    center:
       - text: "Email"
-        href: mailto:tdobermann@gmail.com
+        href: mailto:t.dobermann@lse.ac.uk
       - text: "Google Scholar"
         href: https://scholar.google.com/citations?user=QSNCu9UAAAAJ
       - text: "LinkedIn"
         href: https://www.linkedin.com/in/timdobermann/
+      - text: "GitHub"
+        href: https://github.com/tdobermann
+    right: "Built with [Quarto](https://quarto.org)"
     border: true
 
 format:
@@ -64,8 +70,16 @@ format:
     toc: false
     anchor-sections: false
     smooth-scroll: true
-    mainfont: "'Source Serif 4', Charter, 'Bitstream Charter', Georgia, serif"
     fontsize: "1.05rem"
     linestretch: 1.65
     link-external-icon: false
     link-external-newwindow: false
+    page-layout: full
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link rel="stylesheet" media="print" onload="this.media='all'"
+                href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap">
+          <noscript><link rel="stylesheet"
+                href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap"></noscript>

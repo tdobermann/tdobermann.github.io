@@ -1,9 +1,0 @@
----
-title: "Making Cities Work for Business"
-date: "2026-01-01"
-description: "IGC Policy Toolkit, with V. Delbridge, M. Jain, J. Oliveira-Cunha."
----
-
-*With V. Delbridge, M. Jain, J. Oliveira-Cunha.* IGC Policy Toolkit, 2026.
-
-[Read the policy toolkit →](https://www.theigc.org/publications/making-cities-work-business){.btn .btn-outline-primary .btn-sm}

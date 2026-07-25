@@ -1,6 +1,6 @@
 ---
-title: "Media & Commentary"
-subtitle: "Public writing, interviews, and talks"
+title: "Writing"
+subtitle: "Public commentary, interviews, and talks"
 description: "Selected public commentary and media appearances by economist Tim Dobermann."
 toc: false
 ---
@@ -9,79 +9,71 @@ toc: false
 
 ## Selected commentary
 
-::: {.commentary-list}
-::: {.commentary-item}
-<p class="commentary-date">2026 · VoxDev</p>
+<div class="commentary-list">
+<div class="commentary-item">
+<span class="commentary-date">2026 · VoxDev</span>
+<div>
+<h3><a href="https://voxdev.org/topic/macroeconomics-growth/how-can-countries-develop-their-economies-changed-world">How can countries develop their economies in a changed world?</a></h3>
+<p>With Francesco Caselli, revisiting how protectionism, automation, climate change, and state capacity alter the development strategies available to lower-income economies.</p>
+</div>
+</div>
 
-### [How can countries develop their economies in a changed world?](https://voxdev.org/topic/macroeconomics-growth/how-can-countries-develop-their-economies-changed-world)
+<div class="commentary-item">
+<span class="commentary-date">2024 · International Growth Centre</span>
+<div>
+<h3><a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/indias-opportunity-sustainable-growth">India's Opportunity for Sustainable Growth</a></h3>
+<p>With Nikita Sharma, on how clean-energy and conservation innovations can loosen the historical trade-off between growth and environmental protection.</p>
+</div>
+</div>
 
-With Francesco Caselli, revisiting how protectionism, automation, climate change, and state capacity alter the development strategies available to lower-income economies.
-:::
+<div class="commentary-item">
+<span class="commentary-date">2023 · IGC / LSE Business Review</span>
+<div>
+<h3><a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/how-investing-human-capital-can-help-adapt-climate">How Investing in Human Capital Can Help Adapt to Climate Change</a></h3>
+<p>Why education can make workers more mobile across sectors and locations, and therefore more resilient to climate damage.</p>
+</div>
+</div>
 
-::: {.commentary-item}
-<p class="commentary-date">2024 · International Growth Centre</p>
+<div class="commentary-item">
+<span class="commentary-date">2023 · International Growth Centre</span>
+<div>
+<h3><a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/eight-questions-sustainable-growth">Eight Questions for Sustainable Growth</a></h3>
+<p>With Allegra Saggese, Robin Burgess, and Stefano Caria, on energy, firms, cities, social protection, climate finance, and the next research agenda.</p>
+</div>
+</div>
 
-### [India's Opportunity for Sustainable Growth](https://www.theigc.org/blogs/climate-priorities-developing-countries/indias-opportunity-sustainable-growth)
-
-With Nikita Sharma, on how clean-energy and conservation innovations can loosen the historical trade-off between growth and environmental protection.
-:::
-
-::: {.commentary-item}
-<p class="commentary-date">2023 · International Growth Centre / LSE Business Review</p>
-
-### [How Investing in Human Capital Can Help Adapt to Climate Change](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-investing-human-capital-can-help-adapt-climate)
-
-Why education can make workers more mobile across sectors and locations—and therefore more resilient to climate damage.
-:::
-
-::: {.commentary-item}
-<p class="commentary-date">2023 · International Growth Centre</p>
-
-### [Eight Questions for Sustainable Growth](https://www.theigc.org/blogs/climate-priorities-developing-countries/eight-questions-sustainable-growth)
-
-With Allegra Saggese, Robin Burgess, and Stefano Caria, on energy, firms, cities, social protection, climate finance, and the next research agenda.
-:::
-
-::: {.commentary-item}
-<p class="commentary-date">2016 · International Growth Centre</p>
-
-### [Transforming Myanmar's Energy Sector](https://eprints.lse.ac.uk/81709/1/Transforming%20Myanmar%E2%80%99s%20energy%20sector%20-%20IGC.pdf)
-
-On electricity access, generation choices, and the pricing reforms needed to finance a reliable power system.
-:::
-:::
+<div class="commentary-item">
+<span class="commentary-date">2016 · International Growth Centre</span>
+<div>
+<h3><a href="https://eprints.lse.ac.uk/81709/1/Transforming%20Myanmar%E2%80%99s%20energy%20sector%20-%20IGC.pdf">Transforming Myanmar's Energy Sector</a></h3>
+<p>On electricity access, generation choices, and the pricing reforms needed to finance a reliable power system.</p>
+</div>
+</div>
+</div>
 
 ## Interviews and conversations
 
-::: {.media-feature-grid}
-::: {.media-feature}
+<div class="media-feature-grid">
+<div class="media-feature">
 <span class="media-icon"><i class="bi bi-play-circle" aria-hidden="true"></i></span>
-
-### [Interview: Tim Dobermann, IGC](https://www.youtube.com/watch?v=3J-CGiaAeIw)
-
-A conversation recorded around an IGC–World Bank workshop on research priorities for climate change.
-
+<h3><a href="https://www.youtube.com/watch?v=3J-CGiaAeIw">Interview: Tim Dobermann, IGC</a></h3>
+<p>A conversation recorded around an IGC–World Bank workshop on research priorities for climate change.</p>
 <span class="media-source">Video · YouTube</span>
-:::
+</div>
 
-::: {.media-feature}
+<div class="media-feature">
 <span class="media-icon"><i class="bi bi-journal-text" aria-hidden="true"></i></span>
-
-### [Tim Dobermann on VoxDev](https://voxdev.org/tim-dobermann)
-
-Contributor profile and public-facing commentary on growth and development policy.
-
+<h3><a href="https://voxdev.org/tim-dobermann">Tim Dobermann on VoxDev</a></h3>
+<p>Contributor profile and public-facing commentary on growth and development policy.</p>
 <span class="media-source">Contributor profile · VoxDev</span>
-:::
-:::
+</div>
+</div>
 
-::: {.media-contact}
-::: {}
+<div class="media-contact">
+<div>
 <p class="section-kicker">Media enquiries</p>
-
-## Interviews, panels, and speaking invitations
-
-For enquiries related to current research, development policy, energy, or climate economics, please contact me by email.
-:::
-[Get in touch](mailto:tdobermann@gmail.com){.button .button-primary}
-:::
+<h2>Interviews, panels, and speaking invitations</h2>
+<p>For enquiries related to current research, development policy, energy, or climate economics, please get in touch by email.</p>
+</div>
+<p><a href="mailto:t.dobermann@lse.ac.uk" class="button button-primary">Get in touch</a></p>
+</div>

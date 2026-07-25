@@ -2,10 +2,11 @@
 title: "AI and the Ladder of Development"
 author:
   - name: "Tim Dobermann"
-categories: [artificial intelligence, structural transformation, growth]
 description: "A model of artificial intelligence, capability accumulation, and structural transformation in developing economies."
 toc: false
 ---
+
+<a class="back-link" href="../research.html">← All research</a>
 
 <p class="detail-status">Working paper · Theory · AI and development</p>
 
@@ -18,3 +19,5 @@ Frontier AI raises domestic productivity in tradable sectors but also intensifie
 ## Research themes
 
 Artificial intelligence · Structural transformation · Learning spillovers · Open-economy growth
+
+<p class="draft-note">Current draft available on request — <a href="mailto:t.dobermann@lse.ac.uk">t.dobermann@lse.ac.uk</a></p>

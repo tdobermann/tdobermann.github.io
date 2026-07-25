@@ -4,4 +4,6 @@ date: "2026-01-01"
 description: "IGC Policy Note."
 ---
 
+<a class="back-link" href="../policy.html">← All policy work</a>
+
 IGC Policy Note, 2026.

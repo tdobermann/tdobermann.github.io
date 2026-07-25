@@ -2,10 +2,11 @@
 title: "Human Capital, Mobility, and the Unequal Effects of Climate Change"
 author:
   - name: "Tim Dobermann"
-categories: [climate adaptation, human capital, structural transformation]
 description: "How education enables mobility across sectors and locations as a channel for climate adaptation."
 toc: false
 ---
+
+<a class="back-link" href="../research.html">← All research</a>
 
 <p class="detail-status">Working paper · India · Climate adaptation</p>
 
@@ -15,8 +16,10 @@ Climate change erodes agricultural productivity most severely in places where ho
 
 I use a large schooling expansion in India to estimate how education changes occupational and migration responses to worsening crop-growing conditions. I then develop a spatial model with climate change, occupational choice, migration, and human-capital investment to study these mechanisms in general equilibrium. The results highlight a persistent inequality: remote rural areas face larger climate damages while also investing less in the skills that make adaptation possible.
 
-## Related output
-
+::: {.detail-actions}
 [IGC research project](https://www.theigc.org/collections/structural-transformation-race-against-climate-change){.btn .btn-outline-primary .btn-sm}
 [Policy brief](https://www.theigc.org/publications/human-capital-mobility-and-climate-change-adaptation){.btn .btn-outline-primary .btn-sm}
 [Public commentary](https://www.theigc.org/blogs/climate-priorities-developing-countries/how-investing-human-capital-can-help-adapt-climate){.btn .btn-outline-primary .btn-sm}
+:::
+
+<p class="draft-note">Current draft available on request — <a href="mailto:t.dobermann@lse.ac.uk">t.dobermann@lse.ac.uk</a></p>

@@ -2,13 +2,16 @@
 title: "Randomising Anti-Theft Technologies: Experimental Evidence on Aerial Bundled Cables"
 author:
   - name: "Tim Dobermann"
-categories: [energy, state capacity]
 description: "Experimental evidence on physical network upgrades designed to reduce electricity theft."
 toc: false
 ---
+
+<a class="back-link" href="../research.html">← All research</a>
 
 <p class="detail-status">Work in progress · Energy and state capacity</p>
 
 ## Project
 
 This project studies aerial bundled cables as a physical enforcement technology in electricity distribution networks. It examines whether making illegal connections more difficult reduces theft, improves payment, and strengthens utility finances—and whether those gains persist once households and local intermediaries adapt.
+
+<p class="draft-note">Results are not yet available. For updates on this project, <a href="mailto:t.dobermann@lse.ac.uk">get in touch</a>.</p>

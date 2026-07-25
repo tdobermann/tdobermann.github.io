@@ -4,10 +4,11 @@ author:
   - name: "Michael Best"
   - name: "Tim Dobermann"
   - name: "Faraz Hayat"
-categories: [public finance, state capacity, Pakistan]
 description: "Evaluating faceless assessment and risk-management reforms in Pakistan's customs administration."
 toc: false
 ---
+
+<a class="back-link" href="../research.html">← All research</a>
 
 <p class="detail-status">Active research project · Pakistan · State capacity</p>
 
@@ -17,4 +18,8 @@ Under-invoicing at customs reduces revenue and can distort competition between f
 
 The analysis studies processing efficiency, revenue recovery, and the detection of evasion, while measuring whether institutional redesign changes the discretion and performance of customs assessment.
 
+::: {.detail-actions}
 [International Growth Centre project page](https://www.theigc.org/collections/introducing-anonymity-and-third-party-information-combat-customs-tax-evasion-pakistan){.btn .btn-outline-primary .btn-sm}
+:::
+
+<p class="draft-note">Results are not yet available. For updates on this project, <a href="mailto:t.dobermann@lse.ac.uk">get in touch</a>.</p>
