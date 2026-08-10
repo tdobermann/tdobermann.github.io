@@ -2,10 +2,14 @@
 title: "Reinventing Pakistan's Welfare State: Replacing Energy Subsidies with Targeted Transfers"
 author:
   - name: "Robin Burgess"
+    url: "https://www.robinburgess.com/"
   - name: "Tim Dobermann"
   - name: "Michael Greenstone"
+    url: "https://michaelgreenstone.com/"
   - name: "Faraz Hayat"
+    url: "https://farazhayat.com/"
   - name: "Usman Naeem"
+    url: "https://usman-naeem.com/"
 description: "Using linked administrative data to redesign electricity subsidies around household need."
 toc: false
 ---

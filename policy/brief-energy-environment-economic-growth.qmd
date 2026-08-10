@@ -6,7 +6,7 @@ description: "IGC Evidence Paper, with R. Burgess, M. Greenstone, M. Reguant & N
 
 <a class="back-link" href="../policy.html">← All policy work</a>
 
-*With R. Burgess, M. Greenstone, M. Reguant, N. Ryan.* IGC Evidence Paper, 2021.
+*With [R. Burgess](https://www.robinburgess.com/), [M. Greenstone](https://michaelgreenstone.com/), M. Reguant, N. Ryan.* IGC Evidence Paper, 2021.
 
 ::: {.detail-actions}
 [Read the evidence paper →](https://www.theigc.org/wp-content/uploads/2019/12/IGC-Energy-and-Environment-evidence-paper-3003.pdf){.btn .btn-outline-primary .btn-sm}

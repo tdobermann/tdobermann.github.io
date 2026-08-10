@@ -10,16 +10,21 @@ toc: false
 <div class="policy-principles">
 <div>
 <span class="agenda-number">01</span>
+<h3>Technology and AI</h3>
+<p>How artificial intelligence and new technologies reshape productivity, labour markets, and the path of structural transformation.</p>
+</div>
+<div>
+<span class="agenda-number">02</span>
 <h3>Energy systems</h3>
 <p>Pricing, contracts, subsidies, metering, utility performance, and the transition to reliable low-carbon power.</p>
 </div>
 <div>
-<span class="agenda-number">02</span>
+<span class="agenda-number">03</span>
 <h3>Growth strategy</h3>
 <p>Productivity, exports, cities, structural transformation, and the institutional foundations of investment.</p>
 </div>
 <div>
-<span class="agenda-number">03</span>
+<span class="agenda-number">04</span>
 <h3>Climate and public finance</h3>
 <p>Adaptation, critical minerals, fiscal reform, and the distributional consequences of economic transition.</p>
 </div>
@@ -41,7 +46,7 @@ toc: false
 <span class="policy-year">2026</span>
 <div class="policy-item-body">
 <h3><a href="https://www.theigc.org/publications/smart-meters-firms-ethiopia-evidence-randomised-experiment">Smart Meters for Firms in Ethiopia: Evidence from a Randomised Experiment</a></h3>
-<span class="policy-item-credit">IGC policy brief · with Eyoual Tamrat Demeke, Aregawi Gebremariam, Niclas Moneke, Sugandha Srivastav, Ephrem Andargie Tadesse, and Tewodros Assefa Tesemma</span>
+<span class="policy-item-credit">IGC policy brief · with Eyoual Tamrat Demeke, Aregawi Gebremariam, <a href="https://niclasmoneke.com/">Niclas Moneke</a>, <a href="https://www.sugandhasrivastav.com/">Sugandha Srivastav</a>, Ephrem Andargie Tadesse, and Tewodros Assefa Tesemma</span>
 <p>Baseline evidence and policy lessons from an ongoing trial with 1,583 firms and the Ethiopian Electricity Utility.</p>
 </div>
 </div>
@@ -58,7 +63,7 @@ toc: false
 <span class="policy-year">2025</span>
 <div class="policy-item-body">
 <h3><a href="https://doi.org/10.31389/lsepress.tlc.n">Climate and Environment: What We Know and What We Need to Know</a></h3>
-<span class="policy-item-credit">Chapter in <em>The London Consensus</em>, LSE Press · with Robin Burgess</span>
+<span class="policy-item-credit">Chapter in <em>The London Consensus</em>, LSE Press · with <a href="https://www.robinburgess.com/">Robin Burgess</a></span>
 <p>An evidence-led agenda for sustainable growth, climate resilience, innovation, and the research still needed by policymakers.</p>
 </div>
 </div>
@@ -67,7 +72,7 @@ toc: false
 <span class="policy-year">2025</span>
 <div class="policy-item-body">
 <h3><a href="https://www.theigc.org/sites/default/files/2025-06/Dobermann%20et%20al%20Growth%20brief%20May%202025.pdf">Sustainable Pakistan: Addressing Climate-Driven Demands and Fiscal Challenges for Electricity</a></h3>
-<span class="policy-item-credit">IGC growth brief · with Sajid Faiz Malik, Faraz Hayat, and Zuhair Khan</span>
+<span class="policy-item-credit">IGC growth brief · with Sajid Faiz Malik, <a href="https://farazhayat.com/">Faraz Hayat</a>, and Zuhair Khan</span>
 <p>Why affordability, fiscal sustainability, and renewable energy must be addressed together in Pakistan's power sector.</p>
 </div>
 </div>
@@ -94,7 +99,7 @@ toc: false
 <span class="policy-year">2023</span>
 <div class="policy-item-body">
 <h3><a href="https://www.theigc.org/news/innovation-growth-and-environment">Innovation, Growth, and the Environment</a></h3>
-<span class="policy-item-credit">IGC white paper · with Robin Burgess, Stefano Caria, and Allegra Saggese</span>
+<span class="policy-item-credit">IGC white paper · with <a href="https://www.robinburgess.com/">Robin Burgess</a>, Stefano Caria, and Allegra Saggese</span>
 <p>A research and policy framework for raising living standards while protecting the natural environment.</p>
 </div>
 </div>
@@ -105,14 +110,32 @@ toc: false
 <div class="engagement-grid">
 <div class="engagement-card">
 <p class="paper-meta">Pakistan</p>
-<h3>Energy and fiscal reform</h3>
+<h3>Energy, fiscal reform, and industrial policy</h3>
 <p>Advice to senior federal decision-makers on electricity tariffs, power-purchase agreements, industrial competitiveness, tax proposals, and macroeconomic reform.</p>
 </div>
 
 <div class="engagement-card">
 <p class="paper-meta">Ethiopia</p>
 <h3>National energy policy</h3>
-<p>Technical review and advice on national energy strategy, electricity reliability, firm performance, and the evidence base for smart-meter deployment.</p>
+<p>National energy policy, diffusion of solar, and utility reforms, including the evidence base for smart-meter deployment.</p>
+</div>
+
+<div class="engagement-card">
+<p class="paper-meta">Ghana</p>
+<h3>Electricity and industrial activity</h3>
+<p>Electricity sector losses, outages, and industrial activity, and their effects on firm productivity and agglomeration.</p>
+</div>
+
+<div class="engagement-card">
+<p class="paper-meta">Jordan</p>
+<h3>Utility tariff reform</h3>
+<p>Water and electricity tariff reforms.</p>
+</div>
+
+<div class="engagement-card">
+<p class="paper-meta">India</p>
+<h3>Climate and structural transformation</h3>
+<p>Policies for climate adaptation and structural transformation.</p>
 </div>
 
 <div class="engagement-card">

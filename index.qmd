@@ -1,20 +1,20 @@
 ---
 pagetitle: "Tim Dobermann | Economist"
-description: "Research on energy, climate, structural transformation, and growth in developing economies."
+description: "Research on AI, energy, climate, structural transformation, and growth in developing economies."
 ---
 
 ::: {.home-hero}
 ::: {.home-hero-inner}
 ::: {.hero-copy}
-<p class="eyebrow">Development · Energy &amp; environment · Political economy</p>
+<p class="eyebrow">Development · Energy &amp; environment · AI</p>
 
 # Tim Dobermann
 
 <p class="hero-role">Economist</p>
 
-<p class="hero-affiliation">Director of Research &amp; Chief Economist, International Growth Centre · Research Fellow, London School of Economics</p>
+<p class="hero-affiliation">Director of Research &amp; Chief Economist, International Growth Centre<br>Research Fellow, London School of Economics</p>
 
-<p class="hero-lede">I study how energy systems, climate change, and new technologies reshape growth in developing economies, using field experiments, administrative data, and quantitative spatial models.</p>
+<p class="hero-lede">I study how energy systems, climate change, and new technologies like AI reshape growth in developing economies, using field experiments, administrative data, and quantitative models.</p>
 
 <div class="button-row">
 [Read the research](research.qmd){.button .button-primary}
@@ -42,8 +42,8 @@ description: "Research on energy, climate, structural transformation, and growth
 <div class="affiliation-strip-inner">
 <div class="affiliation-item">
 <span class="affiliation-label">Fields</span>
-<strong>Development, energy, and environmental economics</strong>
-<span class="affiliation-detail">With political economy and spatial economics</span>
+<strong>Development, energy, environmental economics, and AI</strong>
+<span class="affiliation-detail">With political economy and the economics of new technologies</span>
 </div>
 <div class="affiliation-item">
 <span class="affiliation-label">Methods</span>
@@ -52,8 +52,8 @@ description: "Research on energy, climate, structural transformation, and growth
 </div>
 <div class="affiliation-item">
 <span class="affiliation-label">Fieldwork</span>
-<strong>South Asia and sub-Saharan Africa</strong>
-<span class="affiliation-detail">Pakistan, Ethiopia, Ghana, India, Myanmar</span>
+<strong>South Asia, sub-Saharan Africa, and MENA</strong>
+<span class="affiliation-detail">Pakistan, Ethiopia, Ghana, Jordan, India, Myanmar</span>
 </div>
 </div>
 :::
@@ -68,8 +68,8 @@ description: "Research on energy, climate, structural transformation, and growth
 <div class="agenda-grid">
 <div class="agenda-item">
 <span class="agenda-number">01</span>
-<h3>Climate adaptation and human capital</h3>
-<p>How education and mobility determine who can adapt to a changing climate, and why climate damages fall so unequally across places.</p>
+<h3>Structural transformation and technology</h3>
+<p>How industrial policy, artificial intelligence, and changing sectoral capabilities alter the path from poverty to prosperity.</p>
 </div>
 <div class="agenda-item">
 <span class="agenda-number">02</span>
@@ -78,8 +78,8 @@ description: "Research on energy, climate, structural transformation, and growth
 </div>
 <div class="agenda-item">
 <span class="agenda-number">03</span>
-<h3>Structural transformation and technology</h3>
-<p>How industrial policy, artificial intelligence, and changing sectoral capabilities alter the path from poverty to prosperity.</p>
+<h3>Climate adaptation and human capital</h3>
+<p>How education and mobility determine who can adapt to a changing climate, and why climate damages fall so unequally across places.</p>
 </div>
 </div>
 :::
@@ -95,6 +95,12 @@ description: "Research on energy, climate, structural transformation, and growth
 
 <div class="featured-paper-grid">
 <div class="featured-paper">
+<p class="paper-meta">Working paper · AI &amp; development</p>
+<h3><a href="papers/ai-ladder-of-development.html">AI and the Ladder of Development</a></h3>
+<p class="paper-authors">Tim Dobermann</p>
+<p>Frontier AI can raise measured productivity while pulling labour toward weak-learning sectors — raising income now, capability growth later.</p>
+</div>
+<div class="featured-paper">
 <p class="paper-meta">Working paper · Climate adaptation</p>
 <h3><a href="papers/human-capital-climate-mobility.html">Human Capital, Mobility, and the Unequal Effects of Climate Change</a></h3>
 <p class="paper-authors">Tim Dobermann</p>
@@ -103,19 +109,13 @@ description: "Research on energy, climate, structural transformation, and growth
 <div class="featured-paper">
 <p class="paper-meta">Working paper · Energy markets</p>
 <h3><a href="papers/economic-costs-lopsided-ppas-pakistan.html">The Economic Costs of Lopsided Contracts</a></h3>
-<p class="paper-authors">With Faraz Hayat and Sugandha Srivastav</p>
+<p class="paper-authors">With <a href="https://farazhayat.com/">Faraz Hayat</a> and <a href="https://www.sugandhasrivastav.com/">Sugandha Srivastav</a></p>
 <p>A new database on Pakistan's power purchase agreements, and what asymmetric information and regulatory capture cost the wider economy.</p>
-</div>
-<div class="featured-paper">
-<p class="paper-meta">Working paper · AI &amp; development</p>
-<h3><a href="papers/ai-ladder-of-development.html">AI and the Ladder of Development</a></h3>
-<p class="paper-authors">Tim Dobermann</p>
-<p>Frontier AI can raise measured productivity while pulling labour toward weak-learning sectors — raising income now, capability growth later.</p>
 </div>
 <div class="featured-paper">
 <p class="paper-meta">Field experiments · Pakistan</p>
 <h3><a href="papers/pushing-on-a-string-pakistan.html">Pushing on a String?</a></h3>
-<p class="paper-authors">With Robin Burgess, Michael Greenstone, Faraz Hayat, and Usman Naeem</p>
+<p class="paper-authors">With <a href="https://www.robinburgess.com/">Robin Burgess</a>, <a href="https://michaelgreenstone.com/">Michael Greenstone</a>, <a href="https://farazhayat.com/">Faraz Hayat</a>, and <a href="https://usman-naeem.com/">Usman Naeem</a></p>
 <p>Two randomised experiments run with government on how prices and norm-based enforcement change electricity payment and theft.</p>
 </div>
 </div>
@@ -126,20 +126,32 @@ description: "Research on energy, climate, structural transformation, and growth
 <div class="policy-band-copy">
 <p class="section-kicker">From evidence to policy</p>
 
-## Research that reaches the room where decisions are made
+## Government advising
 
-<p>The same questions arrive twice: once as an identification problem, once as a live policy choice. I work directly with finance and energy ministries on tariff design, subsidy reform, and growth strategy — which is also where the data, the institutional constraints, and the next research question come from.</p>
+<p>I advise governments across Africa, MENA, and Asia on policies for sustainable economic growth, and work regularly with finance and energy ministries on public finance issues. This work is also where the data, the institutional constraints, and my research agenda come from.</p>
 
 <p><a href="policy.html" class="text-link-arrow">Explore policy work →</a></p>
 </div>
 <dl class="engagement-rail">
 <div class="engagement-rail-item">
 <dt>Pakistan</dt>
-<dd>Electricity tariffs, power purchase agreements, and tax reform, with the Ministries of Energy and Finance.</dd>
+<dd>Electricity tariffs, power purchase agreements, tax reform, and industrial policy, with the Ministries of Energy and Finance.</dd>
 </div>
 <div class="engagement-rail-item">
 <dt>Ethiopia</dt>
-<dd>National energy policy and evidence on metering, reliability, and firm performance.</dd>
+<dd>National energy policy, diffusion of solar, and utility reforms.</dd>
+</div>
+<div class="engagement-rail-item">
+<dt>Ghana</dt>
+<dd>Electricity sector losses, outages, and industrial activity.</dd>
+</div>
+<div class="engagement-rail-item">
+<dt>Jordan</dt>
+<dd>Water and electricity tariff reforms.</dd>
+</div>
+<div class="engagement-rail-item">
+<dt>India</dt>
+<dd>Policies for climate adaptation and structural transformation.</dd>
 </div>
 <div class="engagement-rail-item">
 <dt>Myanmar</dt>
@@ -149,38 +161,7 @@ description: "Research on energy, climate, structural transformation, and growth
 </div>
 :::
 
-::: {.home-section}
-<div class="section-heading-row">
-<div>
-<p class="section-kicker">Recent writing</p>
-<h2>In public</h2>
-</div>
-<p class="section-link"><a href="media.html">All writing →</a></p>
-</div>
-
-<div class="writing-teaser">
-<div class="writing-teaser-item">
-<span class="commentary-date">2026 · VoxDev</span>
-<h3><a href="https://voxdev.org/topic/macroeconomics-growth/how-can-countries-develop-their-economies-changed-world">How can countries develop their economies in a changed world?</a></h3>
-</div>
-<div class="writing-teaser-item">
-<span class="commentary-date">2025 · LSE Press</span>
-<h3><a href="https://doi.org/10.31389/lsepress.tlc.n">Climate and Environment: What We Know and What We Need to Know</a></h3>
-</div>
-<div class="writing-teaser-item">
-<span class="commentary-date">2024 · IGC</span>
-<h3><a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/indias-opportunity-sustainable-growth">India's Opportunity for Sustainable Growth</a></h3>
-</div>
-</div>
-:::
-
 ::: {.home-section .contact-section}
-<p class="section-kicker">Contact</p>
-
-## Seminars, referee requests, and policy conversations
-
-For academic correspondence, seminar invitations, or policy discussions, email is best.
-
 <div class="button-row">
 [t.dobermann@lse.ac.uk](mailto:t.dobermann@lse.ac.uk){.button .button-primary}
 </div>

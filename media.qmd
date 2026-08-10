@@ -5,7 +5,7 @@ description: "Selected public commentary and media appearances by economist Tim 
 toc: false
 ---
 
-<p class="page-intro">Selected writing and conversations on economic development, energy, climate, and the changing global economy.</p>
+<p class="page-intro">Selected writing and conversations on economic development, energy, technology, and the changing global economy.</p>
 
 ## Selected commentary
 
@@ -15,6 +15,46 @@ toc: false
 <div>
 <h3><a href="https://voxdev.org/topic/macroeconomics-growth/how-can-countries-develop-their-economies-changed-world">How can countries develop their economies in a changed world?</a></h3>
 <p>With Francesco Caselli, revisiting how protectionism, automation, climate change, and state capacity alter the development strategies available to lower-income economies.</p>
+</div>
+</div>
+
+<div class="commentary-item">
+<span class="commentary-date">2026 · International Growth Centre</span>
+<div>
+<h3><a href="https://www.theigc.org/blogs/shocks-settle-long-shadow-commodity-crisis">Shocks that Settle: The Long Shadow of a Commodity Crisis</a></h3>
+<p>On why energy and fertiliser shocks in emerging economies don't pass through smoothly but accumulate, and why restoring the flow of critical inputs can matter more than trimming prices.</p>
+</div>
+</div>
+
+<div class="commentary-item">
+<span class="commentary-date">2025 · International Growth Centre</span>
+<div>
+<h3><a href="https://www.theigc.org/blogs/blue-economics-why-ocean-matters-development">Blue Economics: Why the Ocean Matters for Development</a></h3>
+<p>On the ocean as the planet's largest property-rights failure, and how enforceable treaties, blue carbon pricing, and community-based resource rights could prevent the next ocean crisis.</p>
+</div>
+</div>
+
+<div class="commentary-item">
+<span class="commentary-date">2025 · LSE Business Review</span>
+<div>
+<h3><a href="https://blogs.lse.ac.uk/businessreview/2025/06/12/how-to-navigate-the-data-jungle-in-emerging-economies/">How to Navigate the Data Jungle in Emerging Economies</a></h3>
+<p>With Shahrukh Wani, on why governments in developing countries often don't lack data but struggle to use it, and what separates data reforms that take hold from those that don't.</p>
+</div>
+</div>
+
+<div class="commentary-item">
+<span class="commentary-date">2025 · Footnotes for Growth</span>
+<div>
+<h3><a href="https://www.linkedin.com/pulse/when-more-competition-answer-economic-growth-z7b0e">When Is More Competition the Answer for Economic Growth? (Part I)</a></h3>
+<p>On creative destruction and catch-up growth, and why selectively protecting firms from competition can make sense early in development but risks entrenching elites if held onto for too long.</p>
+</div>
+</div>
+
+<div class="commentary-item">
+<span class="commentary-date">2025 · Footnotes for Growth</span>
+<div>
+<h3><a href="https://www.linkedin.com/pulse/technology-diffusion-international-investment-o77qe">Technology Diffusion and International Investment in a Tense World</a></h3>
+<p>On why trade and investment carry embodied ideas and technologies, not just goods, and what fraying trade relations could mean for the diffusion of innovation to emerging economies.</p>
 </div>
 </div>
 
@@ -38,7 +78,7 @@ toc: false
 <span class="commentary-date">2023 · International Growth Centre</span>
 <div>
 <h3><a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/eight-questions-sustainable-growth">Eight Questions for Sustainable Growth</a></h3>
-<p>With Allegra Saggese, Robin Burgess, and Stefano Caria, on energy, firms, cities, social protection, climate finance, and the next research agenda.</p>
+<p>With Allegra Saggese, <a href="https://www.robinburgess.com/">Robin Burgess</a>, and Stefano Caria, on energy, firms, cities, social protection, climate finance, and the next research agenda.</p>
 </div>
 </div>
 

@@ -1,19 +1,19 @@
 ---
 title: "About"
-subtitle: "Economist, research leader, and policy adviser"
-description: "Professional profile of Tim Dobermann, Director of Research and Chief Economist at the International Growth Centre."
+subtitle: "Economist and policy adviser"
+description: "Professional profile of Tim Dobermann, an economist working on AI, development, and energy, and Director of Research and Chief Economist at the International Growth Centre."
 toc: false
 ---
 
 ::: {.profile-layout}
 ::: {.profile-main}
-I am an economist working on development, environmental, and political economy. I hold a PhD in Economics from the [London School of Economics](https://www.lse.ac.uk/), where I am a Research Fellow in the Department of Economics, and I am Director of Research and Chief Economist at the [International Growth Centre](https://www.theigc.org/).
+I am an economist working on AI, development, and environmental economics. I hold a PhD in Economics from the [London School of Economics](https://www.lse.ac.uk/), where I am a Research Fellow in the Department of Economics, and I am Director of Research and Chief Economist at the [International Growth Centre](https://www.theigc.org/).
 
-My research asks how energy systems, climate change, and new technologies shape structural transformation, and how institutions can manage those transitions. I work with field experiments, administrative data, and quantitative spatial models, mostly on projects in South Asia and sub-Saharan Africa. Much of the data comes from partnerships with the utilities, revenue authorities, and ministries that run the systems I study.
+My research asks how energy systems, climate change, and new technologies like AI shape structural transformation, and how institutions can manage those transitions. I work with field experiments, administrative data, and quantitative models, mostly on projects in South Asia and sub-Saharan Africa. Much of the data comes from partnerships with the utilities, revenue authorities, and ministries that run the systems I study.
 
-The questions that motivate the work are analytically difficult and immediately consequential: how to design a power market that firms and households can rely on; how economies build new productive capabilities; and how people with the fewest resources can adapt to a changing climate.
+The questions that motivate the work are analytically difficult and immediately consequential: how to design a power market that firms and households can rely on; how economies build new productive capabilities in an era of AI; and how people with the fewest resources can adapt to a changing climate.
 
-Alongside the research, I lead the IGC's global research portfolio and a team of more than twenty economists, and have advised governments across Asia and Africa on energy and public finance, including senior decision-makers in Pakistan, Ethiopia, and Myanmar.
+Alongside the research, I lead the IGC's global research portfolio and a team of more than twenty economists, and advise governments across Africa, MENA, and Asia on policies for sustainable economic growth, including senior decision-makers in Pakistan, Ethiopia, Ghana, Jordan, India, and Myanmar.
 :::
 
 ::: {.profile-sidebar}
@@ -27,9 +27,9 @@ Department of Economics, LSE
 
 <p class="sidebar-label">Fields</p>
 
+AI and technology<br>
 Development economics<br>
-Environmental and energy economics<br>
-Political economy
+Environmental and energy economics
 
 <p class="sidebar-label">Profiles</p>
 
@@ -48,7 +48,7 @@ Political economy
 
 At the IGC I help set research priorities and connect academic work to the questions facing policymakers in low- and middle-income countries. The portfolio spans sustainable growth, firms, cities, and state effectiveness across eleven country programmes in Africa, Asia, and the Middle East.
 
-My own policy engagement has concentrated on electricity pricing and market design, fiscal reform, and the political economy of implementation. This complements the academic research rather than substituting for it: each supplies the questions, the data, and the institutional constraints of the other.
+My own policy engagement has concentrated on electricity pricing and market design and fiscal reform, with a growing focus on the role of AI and new technologies in economic transformation. This complements the academic research rather than substituting for it: each supplies the questions, the data, and the institutional constraints of the other.
 
 <div class="profile-cta">
 <div>
