@@ -8,7 +8,7 @@ toc: false
 <!-- The downloadable PDF is generated from cv-pdf.qmd. Keep the two in step. -->
 
 ::: {.cv-intro}
-Economist working across development, environmental, and political economy, combining academic research with research leadership and direct government engagement.
+Economist working across development, environmental, and AI economics, combining academic research with research leadership and direct government engagement.
 
 <div class="button-row">
 [Download CV (PDF)](tim-dobermann-cv.pdf){.button .button-primary}

@@ -5,18 +5,30 @@ description: "Research by Tim Dobermann on climate adaptation, energy markets, s
 toc: false
 ---
 
-<p class="page-intro">My research covers development, environmental, and political economy, with a focus on energy systems, climate adaptation, and structural transformation in low- and middle-income countries.</p>
+<p class="page-intro">My research covers development, environmental, and AI economics, with a focus on energy systems, climate adaptation, structural transformation, and new technologies in low- and middle-income countries.</p>
 
 ::: {.research-filter-note}
 <span>Fields</span>
 <strong>Development economics</strong>
 <strong>Environmental &amp; energy economics</strong>
-<strong>Political economy</strong>
+<strong>AI &amp; technology</strong>
 :::
 
 ## Working papers
 
 <div class="paper-list">
+<div class="paper-row">
+<div class="paper-row-main">
+<p class="paper-meta">Theory · AI and development</p>
+<h3><a href="papers/ai-ladder-of-development.html">AI and the Ladder of Development</a></h3>
+<p class="paper-authors">Tim Dobermann</p>
+<p>Develops a small open-economy model in which frontier AI can raise current productivity yet slow capability accumulation by reallocating labour toward weak-learning local services.</p>
+</div>
+<div class="paper-row-side">
+<span class="paper-status">Working paper</span>
+</div>
+</div>
+
 <div class="paper-row">
 <div class="paper-row-main">
 <p class="paper-meta">Climate adaptation · India</p>
@@ -37,18 +49,6 @@ toc: false
 <h3><a href="papers/economic-costs-lopsided-ppas-pakistan.html">The Economic Costs of Lopsided Contracts: Evidence from Power Purchase Agreements in Pakistan</a></h3>
 <p class="paper-authors">With Faraz Hayat and Sugandha Srivastav</p>
 <p>Builds a new database on power purchase agreements to study how asymmetric information and regulatory capture shape electricity prices and productive misallocation.</p>
-</div>
-<div class="paper-row-side">
-<span class="paper-status">Working paper</span>
-</div>
-</div>
-
-<div class="paper-row">
-<div class="paper-row-main">
-<p class="paper-meta">Theory · AI and development</p>
-<h3><a href="papers/ai-ladder-of-development.html">AI and the Ladder of Development</a></h3>
-<p class="paper-authors">Tim Dobermann</p>
-<p>Develops a small open-economy model in which frontier AI can raise current productivity yet slow capability accumulation by reallocating labour toward weak-learning local services.</p>
 </div>
 <div class="paper-row-side">
 <span class="paper-status">Working paper</span>

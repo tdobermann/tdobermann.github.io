@@ -43,7 +43,7 @@ description: "Research on energy, climate, structural transformation, and growth
 <div class="affiliation-item">
 <span class="affiliation-label">Fields</span>
 <strong>Development, energy, environmental economics, and AI</strong>
-<span class="affiliation-detail">With political economy and spatial economics</span>
+<span class="affiliation-detail">With political economy and the economics of new technologies</span>
 </div>
 <div class="affiliation-item">
 <span class="affiliation-label">Methods</span>
@@ -95,6 +95,12 @@ description: "Research on energy, climate, structural transformation, and growth
 
 <div class="featured-paper-grid">
 <div class="featured-paper">
+<p class="paper-meta">Working paper · AI &amp; development</p>
+<h3><a href="papers/ai-ladder-of-development.html">AI and the Ladder of Development</a></h3>
+<p class="paper-authors">Tim Dobermann</p>
+<p>Frontier AI can raise measured productivity while pulling labour toward weak-learning sectors — raising income now, capability growth later.</p>
+</div>
+<div class="featured-paper">
 <p class="paper-meta">Working paper · Climate adaptation</p>
 <h3><a href="papers/human-capital-climate-mobility.html">Human Capital, Mobility, and the Unequal Effects of Climate Change</a></h3>
 <p class="paper-authors">Tim Dobermann</p>
@@ -105,12 +111,6 @@ description: "Research on energy, climate, structural transformation, and growth
 <h3><a href="papers/economic-costs-lopsided-ppas-pakistan.html">The Economic Costs of Lopsided Contracts</a></h3>
 <p class="paper-authors">With Faraz Hayat and Sugandha Srivastav</p>
 <p>A new database on Pakistan's power purchase agreements, and what asymmetric information and regulatory capture cost the wider economy.</p>
-</div>
-<div class="featured-paper">
-<p class="paper-meta">Working paper · AI &amp; development</p>
-<h3><a href="papers/ai-ladder-of-development.html">AI and the Ladder of Development</a></h3>
-<p class="paper-authors">Tim Dobermann</p>
-<p>Frontier AI can raise measured productivity while pulling labour toward weak-learning sectors — raising income now, capability growth later.</p>
 </div>
 <div class="featured-paper">
 <p class="paper-meta">Field experiments · Pakistan</p>

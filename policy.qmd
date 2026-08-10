@@ -10,16 +10,21 @@ toc: false
 <div class="policy-principles">
 <div>
 <span class="agenda-number">01</span>
+<h3>Technology and AI</h3>
+<p>How artificial intelligence and new technologies reshape productivity, labour markets, and the path of structural transformation.</p>
+</div>
+<div>
+<span class="agenda-number">02</span>
 <h3>Energy systems</h3>
 <p>Pricing, contracts, subsidies, metering, utility performance, and the transition to reliable low-carbon power.</p>
 </div>
 <div>
-<span class="agenda-number">02</span>
+<span class="agenda-number">03</span>
 <h3>Growth strategy</h3>
 <p>Productivity, exports, cities, structural transformation, and the institutional foundations of investment.</p>
 </div>
 <div>
-<span class="agenda-number">03</span>
+<span class="agenda-number">04</span>
 <h3>Climate and public finance</h3>
 <p>Adaptation, critical minerals, fiscal reform, and the distributional consequences of economic transition.</p>
 </div>
@@ -105,14 +110,32 @@ toc: false
 <div class="engagement-grid">
 <div class="engagement-card">
 <p class="paper-meta">Pakistan</p>
-<h3>Energy and fiscal reform</h3>
+<h3>Energy, fiscal reform, and industrial policy</h3>
 <p>Advice to senior federal decision-makers on electricity tariffs, power-purchase agreements, industrial competitiveness, tax proposals, and macroeconomic reform.</p>
 </div>
 
 <div class="engagement-card">
 <p class="paper-meta">Ethiopia</p>
 <h3>National energy policy</h3>
-<p>Technical review and advice on national energy strategy, electricity reliability, firm performance, and the evidence base for smart-meter deployment.</p>
+<p>National energy policy, diffusion of solar, and utility reforms, including the evidence base for smart-meter deployment.</p>
+</div>
+
+<div class="engagement-card">
+<p class="paper-meta">Ghana</p>
+<h3>Electricity and industrial activity</h3>
+<p>Electricity sector losses, outages, and industrial activity, and their effects on firm productivity and agglomeration.</p>
+</div>
+
+<div class="engagement-card">
+<p class="paper-meta">Jordan</p>
+<h3>Utility tariff reform</h3>
+<p>Water and electricity tariff reforms.</p>
+</div>
+
+<div class="engagement-card">
+<p class="paper-meta">India</p>
+<h3>Climate and structural transformation</h3>
+<p>Policies for climate adaptation and structural transformation.</p>
 </div>
 
 <div class="engagement-card">
