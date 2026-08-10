@@ -45,6 +45,14 @@ toc: false
 <div class="commentary-item">
 <span class="commentary-date">2025 · Footnotes for Growth</span>
 <div>
+<h3><a href="https://www.linkedin.com/pulse/when-more-competition-answer-economic-growth-z7b0e">When Is More Competition the Answer for Economic Growth? (Part I)</a></h3>
+<p>On creative destruction and catch-up growth, and why selectively protecting firms from competition can make sense early in development but risks entrenching elites if held onto for too long.</p>
+</div>
+</div>
+
+<div class="commentary-item">
+<span class="commentary-date">2025 · Footnotes for Growth</span>
+<div>
 <h3><a href="https://www.linkedin.com/pulse/technology-diffusion-international-investment-o77qe">Technology Diffusion and International Investment in a Tense World</a></h3>
 <p>On why trade and investment carry embodied ideas and technologies, not just goods, and what fraying trade relations could mean for the diffusion of innovation to emerging economies.</p>
 </div>
