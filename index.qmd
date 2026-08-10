@@ -128,18 +128,30 @@ description: "Research on energy, climate, structural transformation, and growth
 
 ## Research that reaches the room where decisions are made
 
-<p>The same questions arrive twice: once as an identification problem, once as a live policy choice. I work directly with finance and energy ministries on tariff design, subsidy reform, and growth strategy — which is also where the data, the institutional constraints, and the next research question come from.</p>
+<p>I advise governments across Africa, MENA, and Asia on policies for sustainable economic growth, and work regularly with finance and energy ministries on public finance issues. This work is also where the data, the institutional constraints, and the next research question come from.</p>
 
 <p><a href="policy.html" class="text-link-arrow">Explore policy work →</a></p>
 </div>
 <dl class="engagement-rail">
 <div class="engagement-rail-item">
 <dt>Pakistan</dt>
-<dd>Electricity tariffs, power purchase agreements, and tax reform, with the Ministries of Energy and Finance.</dd>
+<dd>Electricity tariffs, power purchase agreements, tax reform, and industrial policy, with the Ministries of Energy and Finance.</dd>
 </div>
 <div class="engagement-rail-item">
 <dt>Ethiopia</dt>
-<dd>National energy policy and evidence on metering, reliability, and firm performance.</dd>
+<dd>National energy policy, diffusion of solar, and utility reforms.</dd>
+</div>
+<div class="engagement-rail-item">
+<dt>Ghana</dt>
+<dd>Electricity sector losses, outages, and industrial activity.</dd>
+</div>
+<div class="engagement-rail-item">
+<dt>Jordan</dt>
+<dd>Water and electricity tariff reforms.</dd>
+</div>
+<div class="engagement-rail-item">
+<dt>India</dt>
+<dd>Policies for climate adaptation and structural transformation.</dd>
 </div>
 <div class="engagement-rail-item">
 <dt>Myanmar</dt>
