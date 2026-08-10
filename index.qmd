@@ -68,8 +68,8 @@ description: "Research on energy, climate, structural transformation, and growth
 <div class="agenda-grid">
 <div class="agenda-item">
 <span class="agenda-number">01</span>
-<h3>Climate adaptation and human capital</h3>
-<p>How education and mobility determine who can adapt to a changing climate, and why climate damages fall so unequally across places.</p>
+<h3>Structural transformation and technology</h3>
+<p>How industrial policy, artificial intelligence, and changing sectoral capabilities alter the path from poverty to prosperity.</p>
 </div>
 <div class="agenda-item">
 <span class="agenda-number">02</span>
@@ -78,8 +78,8 @@ description: "Research on energy, climate, structural transformation, and growth
 </div>
 <div class="agenda-item">
 <span class="agenda-number">03</span>
-<h3>Structural transformation and technology</h3>
-<p>How industrial policy, artificial intelligence, and changing sectoral capabilities alter the path from poverty to prosperity.</p>
+<h3>Climate adaptation and human capital</h3>
+<p>How education and mobility determine who can adapt to a changing climate, and why climate damages fall so unequally across places.</p>
 </div>
 </div>
 :::
