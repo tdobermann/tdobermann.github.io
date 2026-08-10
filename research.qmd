@@ -47,7 +47,7 @@ toc: false
 <div class="paper-row-main">
 <p class="paper-meta">Energy markets · Pakistan</p>
 <h3><a href="papers/economic-costs-lopsided-ppas-pakistan.html">The Economic Costs of Lopsided Contracts: Evidence from Power Purchase Agreements in Pakistan</a></h3>
-<p class="paper-authors">With <a href="https://farazhayat.com/">Faraz Hayat</a> and Sugandha Srivastav</p>
+<p class="paper-authors">With <a href="https://farazhayat.com/">Faraz Hayat</a> and <a href="https://www.sugandhasrivastav.com/">Sugandha Srivastav</a></p>
 <p>Builds a new database on power purchase agreements to study how asymmetric information and regulatory capture shape electricity prices and productive misallocation.</p>
 </div>
 <div class="paper-row-side">

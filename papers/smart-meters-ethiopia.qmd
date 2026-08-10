@@ -7,6 +7,7 @@ author:
   - name: "Niclas Moneke"
     url: "https://niclasmoneke.com/"
   - name: "Sugandha Srivastav"
+    url: "https://www.sugandhasrivastav.com/"
   - name: "Ephrem Andargie Tadesse"
   - name: "Tewodros Assefa Tesemma"
 description: "A randomised evaluation of smart meters, electricity reliability, utility revenue, and SME performance in Ethiopia."

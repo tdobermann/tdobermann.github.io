@@ -3,6 +3,7 @@ title: "The Diffusion of Solar in Rural Economies: Markets and Frictions in Ethi
 author:
   - name: "Tim Dobermann"
   - name: "Sugandha Srivastav"
+    url: "https://www.sugandhasrivastav.com/"
   - name: "Tewodros Assefa Tesemma"
 description: "How market structure, intermediaries, and spatial frictions shape off-grid solar adoption in rural Ethiopia."
 toc: false

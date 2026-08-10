@@ -46,7 +46,7 @@ toc: false
 <span class="policy-year">2026</span>
 <div class="policy-item-body">
 <h3><a href="https://www.theigc.org/publications/smart-meters-firms-ethiopia-evidence-randomised-experiment">Smart Meters for Firms in Ethiopia: Evidence from a Randomised Experiment</a></h3>
-<span class="policy-item-credit">IGC policy brief · with Eyoual Tamrat Demeke, Aregawi Gebremariam, <a href="https://niclasmoneke.com/">Niclas Moneke</a>, Sugandha Srivastav, Ephrem Andargie Tadesse, and Tewodros Assefa Tesemma</span>
+<span class="policy-item-credit">IGC policy brief · with Eyoual Tamrat Demeke, Aregawi Gebremariam, <a href="https://niclasmoneke.com/">Niclas Moneke</a>, <a href="https://www.sugandhasrivastav.com/">Sugandha Srivastav</a>, Ephrem Andargie Tadesse, and Tewodros Assefa Tesemma</span>
 <p>Baseline evidence and policy lessons from an ongoing trial with 1,583 firms and the Ethiopian Electricity Utility.</p>
 </div>
 </div>
