@@ -161,38 +161,7 @@ description: "Research on energy, climate, structural transformation, and growth
 </div>
 :::
 
-::: {.home-section}
-<div class="section-heading-row">
-<div>
-<p class="section-kicker">Recent writing</p>
-<h2>In public</h2>
-</div>
-<p class="section-link"><a href="media.html">All writing →</a></p>
-</div>
-
-<div class="writing-teaser">
-<div class="writing-teaser-item">
-<span class="commentary-date">2026 · VoxDev</span>
-<h3><a href="https://voxdev.org/topic/macroeconomics-growth/how-can-countries-develop-their-economies-changed-world">How can countries develop their economies in a changed world?</a></h3>
-</div>
-<div class="writing-teaser-item">
-<span class="commentary-date">2025 · LSE Press</span>
-<h3><a href="https://doi.org/10.31389/lsepress.tlc.n">Climate and Environment: What We Know and What We Need to Know</a></h3>
-</div>
-<div class="writing-teaser-item">
-<span class="commentary-date">2024 · IGC</span>
-<h3><a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/indias-opportunity-sustainable-growth">India's Opportunity for Sustainable Growth</a></h3>
-</div>
-</div>
-:::
-
 ::: {.home-section .contact-section}
-<p class="section-kicker">Contact</p>
-
-## Seminars, referee requests, and policy conversations
-
-For academic correspondence, seminar invitations, or policy discussions, email is best.
-
 <div class="button-row">
 [t.dobermann@lse.ac.uk](mailto:t.dobermann@lse.ac.uk){.button .button-primary}
 </div>
