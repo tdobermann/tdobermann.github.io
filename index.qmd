@@ -128,7 +128,7 @@ description: "Research on energy, climate, structural transformation, and growth
 
 ## Research that reaches the room where decisions are made
 
-<p>I advise governments across Africa, MENA, and Asia on policies for sustainable economic growth, and work regularly with finance and energy ministries on public finance issues. This work is also where the data, the institutional constraints, and the next research question come from.</p>
+<p>I advise governments across Africa, MENA, and Asia on policies for sustainable economic growth, and work regularly with finance and energy ministries on public finance issues. This work is also where the data, the institutional constraints, and my research agenda come from.</p>
 
 <p><a href="policy.html" class="text-link-arrow">Explore policy work →</a></p>
 </div>
