@@ -43,6 +43,14 @@ toc: false
 </div>
 
 <div class="commentary-item">
+<span class="commentary-date">2025 · Footnotes for Growth</span>
+<div>
+<h3><a href="https://www.linkedin.com/pulse/technology-diffusion-international-investment-o77qe">Technology Diffusion and International Investment in a Tense World</a></h3>
+<p>On why trade and investment carry embodied ideas and technologies, not just goods, and what fraying trade relations could mean for the diffusion of innovation to emerging economies.</p>
+</div>
+</div>
+
+<div class="commentary-item">
 <span class="commentary-date">2024 · International Growth Centre</span>
 <div>
 <h3><a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/indias-opportunity-sustainable-growth">India's Opportunity for Sustainable Growth</a></h3>
