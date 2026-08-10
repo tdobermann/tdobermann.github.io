@@ -42,7 +42,7 @@ description: "Research on energy, climate, structural transformation, and growth
 <div class="affiliation-strip-inner">
 <div class="affiliation-item">
 <span class="affiliation-label">Fields</span>
-<strong>Development, energy, and environmental economics</strong>
+<strong>Development, energy, environmental economics, and AI</strong>
 <span class="affiliation-detail">With political economy and spatial economics</span>
 </div>
 <div class="affiliation-item">
