@@ -6,15 +6,15 @@ description: "Research on energy, climate, structural transformation, and growth
 ::: {.home-hero}
 ::: {.home-hero-inner}
 ::: {.hero-copy}
-<p class="eyebrow">Development · Energy &amp; environment · Political economy</p>
+<p class="eyebrow">Development · Energy &amp; environment · AI</p>
 
 # Tim Dobermann
 
 <p class="hero-role">Economist</p>
 
-<p class="hero-affiliation">Director of Research &amp; Chief Economist, International Growth Centre · Research Fellow, London School of Economics</p>
+<p class="hero-affiliation">Director of Research &amp; Chief Economist, International Growth Centre<br>Research Fellow, London School of Economics</p>
 
-<p class="hero-lede">I study how energy systems, climate change, and new technologies reshape growth in developing economies, using field experiments, administrative data, and quantitative spatial models.</p>
+<p class="hero-lede">I study how energy systems, climate change, and new technologies like AI reshape growth in developing economies, using field experiments, administrative data, and quantitative models.</p>
 
 <div class="button-row">
 [Read the research](research.qmd){.button .button-primary}

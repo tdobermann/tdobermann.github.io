@@ -341,9 +341,7 @@ body:has(.home-hero) #title-block-header {
   margin: -2.5rem calc(50% - 50cqw) 0;
   padding: clamp(3.75rem, 7vw, 6.5rem) var(--gutter);
   border-bottom: 1px solid var(--line);
-  background:
-    linear-gradient(90deg, rgba(23, 63, 103, 0.035) 1px, transparent 1px) 0 0 / 7rem 7rem,
-    var(--paper);
+  background: var(--paper);
 }
 
 .home-hero-inner {
