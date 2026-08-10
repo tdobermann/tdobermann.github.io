@@ -133,9 +133,4 @@ toc: false
 - [Randomising Anti-Theft Technologies: Experimental Evidence on Aerial Bundled Cables](papers/anti-theft-abcs.qmd) — energy and state capacity
 - [Price Relief under Nonlinear Electricity Tariffs: Experimental Evidence from Pakistan](papers/nonlinear-tariffs-pakistan.qmd) — public finance and energy
 - [Optimal Spatial Policy with Local Demand Effects](papers/optimal-spatial-policy.qmd) — spatial economics
-- [Migration and the Climate Adaptation Gender Gap](papers/migration-climate-adaptation-gender-gap.qmd) — climate adaptation
-:::
-
-::: {.page-end-cta}
-Drafts of unposted papers are available on request. For the current citation record see [Google Scholar](https://scholar.google.com/citations?user=QSNCu9UAAAAJ); for research correspondence, [send an email](mailto:t.dobermann@lse.ac.uk).
 :::
