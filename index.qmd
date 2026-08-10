@@ -109,13 +109,13 @@ description: "Research on energy, climate, structural transformation, and growth
 <div class="featured-paper">
 <p class="paper-meta">Working paper · Energy markets</p>
 <h3><a href="papers/economic-costs-lopsided-ppas-pakistan.html">The Economic Costs of Lopsided Contracts</a></h3>
-<p class="paper-authors">With Faraz Hayat and Sugandha Srivastav</p>
+<p class="paper-authors">With <a href="https://farazhayat.com/">Faraz Hayat</a> and Sugandha Srivastav</p>
 <p>A new database on Pakistan's power purchase agreements, and what asymmetric information and regulatory capture cost the wider economy.</p>
 </div>
 <div class="featured-paper">
 <p class="paper-meta">Field experiments · Pakistan</p>
 <h3><a href="papers/pushing-on-a-string-pakistan.html">Pushing on a String?</a></h3>
-<p class="paper-authors">With Robin Burgess, Michael Greenstone, Faraz Hayat, and Usman Naeem</p>
+<p class="paper-authors">With <a href="https://www.robinburgess.com/">Robin Burgess</a>, <a href="https://michaelgreenstone.com/">Michael Greenstone</a>, <a href="https://farazhayat.com/">Faraz Hayat</a>, and <a href="https://usman-naeem.com/">Usman Naeem</a></p>
 <p>Two randomised experiments run with government on how prices and norm-based enforcement change electricity payment and theft.</p>
 </div>
 </div>

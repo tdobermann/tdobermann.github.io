@@ -6,4 +6,4 @@ description: "Government of Pakistan report, with F. Hayat, U. Naeem, M.K. Qaddu
 
 <a class="back-link" href="../policy.html">← All policy work</a>
 
-*With Faraz Hayat, Usman Naeem, M.K. Qaddus, M. Raza.* Government of Pakistan report, 2020.
+*With [Faraz Hayat](https://farazhayat.com/), [Usman Naeem](https://usman-naeem.com/), M.K. Qaddus, M. Raza.* Government of Pakistan report, 2020.

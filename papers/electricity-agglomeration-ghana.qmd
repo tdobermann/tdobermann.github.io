@@ -2,8 +2,10 @@
 title: "Electricity, Agglomeration, and Industrialisation in Ghana"
 author:
   - name: "Ignacio Bañares Sanchez"
+    url: "https://ignaciobanares.com/"
   - name: "Tim Dobermann"
   - name: "Niclas Moneke"
+    url: "https://niclasmoneke.com/"
 description: "How the spatial allocation of electricity outages affects firm performance and industrial agglomeration in Ghana."
 toc: false
 ---

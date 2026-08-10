@@ -3,6 +3,7 @@ title: "The Economic Costs of Lopsided Contracts: Evidence from Power Purchase A
 author:
   - name: "Tim Dobermann"
   - name: "Faraz Hayat"
+    url: "https://farazhayat.com/"
   - name: "Sugandha Srivastav"
 description: "How the design and negotiation of power purchase agreements affect electricity costs and productive efficiency."
 toc: false

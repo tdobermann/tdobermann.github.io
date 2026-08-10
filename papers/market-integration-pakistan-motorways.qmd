@@ -3,7 +3,9 @@ title: "The Heterogeneous Impacts of Market Integration: Evidence from Pakistan'
 author:
   - name: "Tim Dobermann"
   - name: "Faraz Hayat"
+    url: "https://farazhayat.com/"
   - name: "Usman Naeem"
+    url: "https://usman-naeem.com/"
 description: "How motorway access changes local economic activity across places with different initial conditions."
 toc: false
 ---

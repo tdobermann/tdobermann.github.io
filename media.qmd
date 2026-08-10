@@ -38,7 +38,7 @@ toc: false
 <span class="commentary-date">2023 · International Growth Centre</span>
 <div>
 <h3><a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/eight-questions-sustainable-growth">Eight Questions for Sustainable Growth</a></h3>
-<p>With Allegra Saggese, Robin Burgess, and Stefano Caria, on energy, firms, cities, social protection, climate finance, and the next research agenda.</p>
+<p>With Allegra Saggese, <a href="https://www.robinburgess.com/">Robin Burgess</a>, and Stefano Caria, on energy, firms, cities, social protection, climate finance, and the next research agenda.</p>
 </div>
 </div>
 

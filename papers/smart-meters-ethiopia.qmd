@@ -5,6 +5,7 @@ author:
   - name: "Tim Dobermann"
   - name: "Aregawi Gebremariam"
   - name: "Niclas Moneke"
+    url: "https://niclasmoneke.com/"
   - name: "Sugandha Srivastav"
   - name: "Ephrem Andargie Tadesse"
   - name: "Tewodros Assefa Tesemma"

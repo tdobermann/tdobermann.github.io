@@ -3,9 +3,13 @@ title: "Pushing on a String? Price and Enforcement Interventions in Pakistan's P
 author:
   - name: "Tim Dobermann"
   - name: "Robin Burgess"
+    url: "https://www.robinburgess.com/"
   - name: "Michael Greenstone"
+    url: "https://michaelgreenstone.com/"
   - name: "Faraz Hayat"
+    url: "https://farazhayat.com/"
   - name: "Usman Naeem"
+    url: "https://usman-naeem.com/"
 description: "Two randomised experiments on price incentives, social norms, and electricity theft in Pakistan."
 toc: false
 ---
