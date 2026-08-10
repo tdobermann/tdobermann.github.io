@@ -1,6 +1,6 @@
 ---
 pagetitle: "Tim Dobermann | Economist"
-description: "Research on energy, climate, structural transformation, and growth in developing economies."
+description: "Research on AI, energy, climate, structural transformation, and growth in developing economies."
 ---
 
 ::: {.home-hero}
@@ -52,8 +52,8 @@ description: "Research on energy, climate, structural transformation, and growth
 </div>
 <div class="affiliation-item">
 <span class="affiliation-label">Fieldwork</span>
-<strong>South Asia and sub-Saharan Africa</strong>
-<span class="affiliation-detail">Pakistan, Ethiopia, Ghana, India, Myanmar</span>
+<strong>South Asia, sub-Saharan Africa, and MENA</strong>
+<span class="affiliation-detail">Pakistan, Ethiopia, Ghana, Jordan, India, Myanmar</span>
 </div>
 </div>
 :::
@@ -126,7 +126,7 @@ description: "Research on energy, climate, structural transformation, and growth
 <div class="policy-band-copy">
 <p class="section-kicker">From evidence to policy</p>
 
-## Research that reaches the room where decisions are made
+## Government advising
 
 <p>I advise governments across Africa, MENA, and Asia on policies for sustainable economic growth, and work regularly with finance and energy ministries on public finance issues. This work is also where the data, the institutional constraints, and my research agenda come from.</p>
 

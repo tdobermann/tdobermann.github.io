@@ -1,7 +1,7 @@
 ---
 title: "Research"
 subtitle: "Working papers and active projects"
-description: "Research by Tim Dobermann on climate adaptation, energy markets, structural transformation, and public finance."
+description: "Research by Tim Dobermann on AI, climate adaptation, energy markets, structural transformation, and public finance."
 toc: false
 ---
 
