@@ -19,6 +19,14 @@ toc: false
 </div>
 
 <div class="commentary-item">
+<span class="commentary-date">2025 · LSE Business Review</span>
+<div>
+<h3><a href="https://blogs.lse.ac.uk/businessreview/2025/06/12/how-to-navigate-the-data-jungle-in-emerging-economies/">How to Navigate the Data Jungle in Emerging Economies</a></h3>
+<p>With Shahrukh Wani, on why governments in developing countries often don't lack data but struggle to use it, and what separates data reforms that take hold from those that don't.</p>
+</div>
+</div>
+
+<div class="commentary-item">
 <span class="commentary-date">2024 · International Growth Centre</span>
 <div>
 <h3><a href="https://www.theigc.org/blogs/climate-priorities-developing-countries/indias-opportunity-sustainable-growth">India's Opportunity for Sustainable Growth</a></h3>
