@@ -33,6 +33,7 @@ website:
     card-style: summary
 
   navbar:
+    title: false
     background: light
     pinned: true
     collapse-below: lg
