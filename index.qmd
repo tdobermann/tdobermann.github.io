@@ -22,7 +22,6 @@ description: "Research on AI, energy, climate, structural transformation, and gr
 </div>
 
 <div class="profile-links" aria-label="Academic and professional profiles">
-<a href="https://scholar.google.com/citations?user=QSNCu9UAAAAJ"><i class="bi bi-mortarboard-fill" aria-hidden="true"></i> Google Scholar</a>
 <a href="https://www.theigc.org/people/tim-dobermann"><i class="bi bi-building" aria-hidden="true"></i> IGC profile</a>
 <a href="https://www.linkedin.com/in/timdobermann/"><i class="bi bi-linkedin" aria-hidden="true"></i> LinkedIn</a>
 <a href="mailto:t.dobermann@lse.ac.uk"><i class="bi bi-envelope" aria-hidden="true"></i> Email</a>
