@@ -1,11 +1,10 @@
 ---
 title: "Policy"
-subtitle: "Evidence, advising, and institutional reform"
 description: "Selected policy research and government engagement by Tim Dobermann."
 toc: false
 ---
 
-<p class="page-intro">My policy work translates economic research into choices about energy systems, public finance, and long-run growth. It is grounded in sustained collaboration with governments and researchers rather than one-off commentary.</p>
+<p class="page-intro">I translate economic research into policies for long-run growth. My policy work is grounded in sustained collaboration with governments and researchers rather than one-off commentary.</p>
 
 <div class="policy-principles">
 <div>

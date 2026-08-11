@@ -5,8 +5,6 @@ description: "Selected public commentary and media appearances by economist Tim 
 toc: false
 ---
 
-<p class="page-intro">Selected writing and conversations on economic development, energy, technology, and the changing global economy.</p>
-
 ## Selected commentary
 
 <div class="commentary-list">
@@ -94,6 +92,20 @@ toc: false
 ## Interviews and conversations
 
 <div class="media-feature-grid">
+<div class="media-feature">
+<span class="media-icon"><i class="bi bi-mic-fill" aria-hidden="true"></i></span>
+<h3><a href="https://voxdev.org/topic/macroeconomics-growth/how-can-countries-develop-their-economies-changed-world">How can countries develop their economies in a changed world?</a></h3>
+<p>The global environment for development has changed, so development policies should change too. This podcast looks back at predictions from 2018, and discusses what the current geopolitical situation means for future growth policy.</p>
+<span class="media-source">Podcast · VoxDevTalk</span>
+</div>
+
+<div class="media-feature">
+<span class="media-icon"><i class="bi bi-play-circle" aria-hidden="true"></i></span>
+<h3><a href="https://www.youtube.com/watch?v=dU5kS3rJ9MY&amp;list=PLK4elntcUEy3OyJxh0f8DdgdYLP-SgU7e&amp;index=19">Data for development | LSE Festival</a></h3>
+<p>Data plays a crucial role in designing effective development policies, yet its availability and use in low- and middle-income countries remain inconsistent. This panel explores the transformative role of data and AI in shaping global development initiatives.</p>
+<span class="media-source">Video · LSE</span>
+</div>
+
 <div class="media-feature">
 <span class="media-icon"><i class="bi bi-play-circle" aria-hidden="true"></i></span>
 <h3><a href="https://www.youtube.com/watch?v=3J-CGiaAeIw">Interview: Tim Dobermann, IGC</a></h3>

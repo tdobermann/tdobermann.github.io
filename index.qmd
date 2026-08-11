@@ -6,7 +6,7 @@ description: "Research on AI, energy, climate, structural transformation, and gr
 ::: {.home-hero}
 ::: {.home-hero-inner}
 ::: {.hero-copy}
-<p class="eyebrow">Development · Energy &amp; environment · AI</p>
+<p class="eyebrow">Growth &amp; development · Energy · AI</p>
 
 # Tim Dobermann
 
@@ -14,7 +14,7 @@ description: "Research on AI, energy, climate, structural transformation, and gr
 
 <p class="hero-affiliation">Director of Research &amp; Chief Economist, International Growth Centre<br>Research Fellow, London School of Economics</p>
 
-<p class="hero-lede">I study how energy systems, climate change, and new technologies like AI reshape growth in developing economies, using field experiments, administrative data, and quantitative models.</p>
+<p class="hero-lede">I research growth in developing economies, using field experiments, administrative data, and quantitative models.</p>
 
 <div class="button-row">
 [Read the research](research.qmd){.button .button-primary}
@@ -22,7 +22,6 @@ description: "Research on AI, energy, climate, structural transformation, and gr
 </div>
 
 <div class="profile-links" aria-label="Academic and professional profiles">
-<a href="https://scholar.google.com/citations?user=QSNCu9UAAAAJ"><i class="bi bi-mortarboard-fill" aria-hidden="true"></i> Google Scholar</a>
 <a href="https://www.theigc.org/people/tim-dobermann"><i class="bi bi-building" aria-hidden="true"></i> IGC profile</a>
 <a href="https://www.linkedin.com/in/timdobermann/"><i class="bi bi-linkedin" aria-hidden="true"></i> LinkedIn</a>
 <a href="mailto:t.dobermann@lse.ac.uk"><i class="bi bi-envelope" aria-hidden="true"></i> Email</a>
@@ -61,9 +60,7 @@ description: "Research on AI, energy, climate, structural transformation, and gr
 ::: {.home-section .research-agenda}
 <p class="section-kicker">Research agenda</p>
 
-## Three questions
-
-<p class="section-intro">My work asks how economies build productive capabilities, how the systems that supply energy actually function, and who is able to adapt when the climate changes.</p>
+## Three themes
 
 <div class="agenda-grid">
 <div class="agenda-item">
@@ -98,7 +95,7 @@ description: "Research on AI, energy, climate, structural transformation, and gr
 <p class="paper-meta">Working paper · AI &amp; development</p>
 <h3><a href="papers/ai-ladder-of-development.html">AI and the Ladder of Development</a></h3>
 <p class="paper-authors">Tim Dobermann</p>
-<p>Frontier AI can raise measured productivity while pulling labour toward weak-learning sectors — raising income now, capability growth later.</p>
+<p>Frontier AI could increase average productivity and incomes while pulling labour toward weak-learning sectors, eroding long-run capability growth.</p>
 </div>
 <div class="featured-paper">
 <p class="paper-meta">Working paper · Climate adaptation</p>
@@ -126,7 +123,7 @@ description: "Research on AI, energy, climate, structural transformation, and gr
 <div class="policy-band-copy">
 <p class="section-kicker">From evidence to policy</p>
 
-## Government advising
+## Advising governments on growth
 
 <p>I advise governments across Africa, MENA, and Asia on policies for sustainable economic growth, and work regularly with finance and energy ministries on public finance issues. This work is also where the data, the institutional constraints, and my research agenda come from.</p>
 
