@@ -101,6 +101,13 @@ toc: false
 
 <div class="media-feature">
 <span class="media-icon"><i class="bi bi-play-circle" aria-hidden="true"></i></span>
+<h3><a href="https://www.youtube.com/watch?v=dU5kS3rJ9MY&amp;list=PLK4elntcUEy3OyJxh0f8DdgdYLP-SgU7e&amp;index=19">Data for development | LSE Festival</a></h3>
+<p>Data plays a crucial role in designing effective development policies, yet its availability and use in low- and middle-income countries remain inconsistent. This panel explores the transformative role of data and AI in shaping global development initiatives.</p>
+<span class="media-source">Video · LSE</span>
+</div>
+
+<div class="media-feature">
+<span class="media-icon"><i class="bi bi-play-circle" aria-hidden="true"></i></span>
 <h3><a href="https://www.youtube.com/watch?v=3J-CGiaAeIw">Interview: Tim Dobermann, IGC</a></h3>
 <p>A conversation recorded around an IGC–World Bank workshop on research priorities for climate change.</p>
 <span class="media-source">Video · YouTube</span>
