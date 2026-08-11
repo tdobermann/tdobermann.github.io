@@ -95,7 +95,7 @@ description: "Research on AI, energy, climate, structural transformation, and gr
 <p class="paper-meta">Working paper · AI &amp; development</p>
 <h3><a href="papers/ai-ladder-of-development.html">AI and the Ladder of Development</a></h3>
 <p class="paper-authors">Tim Dobermann</p>
-<p>Frontier AI can raise measured productivity while pulling labour toward weak-learning sectors — raising income now, capability growth later.</p>
+<p>Frontier AI could increase average productivity and incomes while pulling labour toward weak-learning sectors, eroding long-run capability growth.</p>
 </div>
 <div class="featured-paper">
 <p class="paper-meta">Working paper · Climate adaptation</p>
