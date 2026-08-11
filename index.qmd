@@ -14,7 +14,7 @@ description: "Research on AI, energy, climate, structural transformation, and gr
 
 <p class="hero-affiliation">Director of Research &amp; Chief Economist, International Growth Centre<br>Research Fellow, London School of Economics</p>
 
-<p class="hero-lede">I study how energy systems, climate change, and new technologies like AI reshape growth in developing economies, using field experiments, administrative data, and quantitative models.</p>
+<p class="hero-lede">I research growth in developing economies, using field experiments, administrative data, and quantitative models.</p>
 
 <div class="button-row">
 [Read the research](research.qmd){.button .button-primary}
