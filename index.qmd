@@ -60,9 +60,7 @@ description: "Research on AI, energy, climate, structural transformation, and gr
 ::: {.home-section .research-agenda}
 <p class="section-kicker">Research agenda</p>
 
-## Three questions
-
-<p class="section-intro">My work asks how economies build productive capabilities, how the systems that supply energy actually function, and who is able to adapt when the climate changes.</p>
+## Three themes
 
 <div class="agenda-grid">
 <div class="agenda-item">
