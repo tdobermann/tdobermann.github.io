@@ -6,7 +6,7 @@ description: "Research on AI, energy, climate, structural transformation, and gr
 ::: {.home-hero}
 ::: {.home-hero-inner}
 ::: {.hero-copy}
-<p class="eyebrow">Development · Energy &amp; environment · AI</p>
+<p class="eyebrow">Growth &amp; development · Energy · AI</p>
 
 # Tim Dobermann
 
