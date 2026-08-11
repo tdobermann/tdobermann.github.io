@@ -1,13 +1,12 @@
 ---
 title: "About"
-subtitle: "Economist and policy adviser"
 description: "Professional profile of Tim Dobermann, an economist working on AI, development, and energy, and Director of Research and Chief Economist at the International Growth Centre."
 toc: false
 ---
 
 ::: {.profile-layout}
 ::: {.profile-main}
-I am an economist working on AI, development, and environmental economics. I hold a PhD in Economics from the [London School of Economics](https://www.lse.ac.uk/), where I am a Research Fellow in the Department of Economics, and I am Director of Research and Chief Economist at the [International Growth Centre](https://www.theigc.org/).
+I am an economist working on AI, development, and environmental economics. I am Director of Research and Chief Economist at the [International Growth Centre](https://www.theigc.org/) at the [London School of Economics](https://www.lse.ac.uk/) (LSE). I am also a Research Fellow in the Department of Economics, LSE. I hold a PhD in Economics from LSE.
 
 My research asks how energy systems, climate change, and new technologies like AI shape structural transformation, and how institutions can manage those transitions. I work with field experiments, administrative data, and quantitative models, mostly on projects in South Asia and sub-Saharan Africa. Much of the data comes from partnerships with the utilities, revenue authorities, and ministries that run the systems I study.
 
