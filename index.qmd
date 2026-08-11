@@ -123,7 +123,7 @@ description: "Research on AI, energy, climate, structural transformation, and gr
 <div class="policy-band-copy">
 <p class="section-kicker">From evidence to policy</p>
 
-## Government advising
+## Advising governments on growth
 
 <p>I advise governments across Africa, MENA, and Asia on policies for sustainable economic growth, and work regularly with finance and energy ministries on public finance issues. This work is also where the data, the institutional constraints, and my research agenda come from.</p>
 
