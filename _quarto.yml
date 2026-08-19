@@ -11,6 +11,7 @@ project:
     # referenced only from a <source srcset>, which Quarto does not scan
     - images/profile.webp
     - tim-dobermann-cv.pdf
+    - papers/ai-ladder-of-development.pdf
 
 lang: en-GB
 canonical-url: true
