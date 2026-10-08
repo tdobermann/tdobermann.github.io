@@ -4,159 +4,83 @@ description: "Selected policy research and government engagement by Tim Doberman
 toc: false
 ---
 
-<p class="page-intro">I translate economic research into policies for long-run growth. My policy work is grounded in sustained collaboration with governments and researchers rather than one-off commentary.</p>
-
-<div class="policy-principles">
-<div>
-<span class="agenda-number">01</span>
-<h3>Technology and AI</h3>
-<p>How artificial intelligence and new technologies reshape productivity, labour markets, and the path of structural transformation.</p>
-</div>
-<div>
-<span class="agenda-number">02</span>
-<h3>Energy systems</h3>
-<p>Pricing, contracts, subsidies, metering, utility performance, and the transition to reliable low-carbon power.</p>
-</div>
-<div>
-<span class="agenda-number">03</span>
-<h3>Growth strategy</h3>
-<p>Productivity, exports, cities, structural transformation, and the institutional foundations of investment.</p>
-</div>
-<div>
-<span class="agenda-number">04</span>
-<h3>Climate and public finance</h3>
-<p>Adaptation, critical minerals, fiscal reform, and the distributional consequences of economic transition.</p>
-</div>
-</div>
+I translate economic research into policies for long-run growth. My policy work is grounded in sustained collaboration with governments and researchers rather than one-off commentary.
 
 ## Selected policy work
 
-<div class="policy-list">
-<div class="policy-item">
-<span class="policy-year">2026</span>
-<div class="policy-item-body">
-<h3><a href="https://www.theigc.org/publications/making-cities-work-business">Making Cities Work for Business</a></h3>
-<span class="policy-item-credit">IGC policy toolkit · with Victoria Delbridge, Muskan Jain, and Juliana Oliveira-Cunha</span>
-<p>How infrastructure, services, regulation, and labour-market access allow cities to become platforms for firm growth.</p>
-</div>
-</div>
+::: {.pubs}
+- [Making Cities Work for Business](https://www.theigc.org/publications/making-cities-work-business){.pub-title}
+  [IGC policy toolkit, 2026 · with Victoria Delbridge, Muskan Jain, and Juliana Oliveira-Cunha]{.pub-meta}
 
-<div class="policy-item">
-<span class="policy-year">2026</span>
-<div class="policy-item-body">
-<h3><a href="https://www.theigc.org/publications/smart-meters-firms-ethiopia-evidence-randomised-experiment">Smart Meters for Firms in Ethiopia: Evidence from a Randomised Experiment</a></h3>
-<span class="policy-item-credit">IGC policy brief · with Eyoual Tamrat Demeke, Aregawi Gebremariam, <a href="https://niclasmoneke.com/">Niclas Moneke</a>, <a href="https://www.sugandhasrivastav.com/">Sugandha Srivastav</a>, Ephrem Andargie Tadesse, and Tewodros Assefa Tesemma</span>
-<p>Baseline evidence and policy lessons from an ongoing trial with 1,583 firms and the Ethiopian Electricity Utility.</p>
-</div>
-</div>
+  How infrastructure, services, regulation, and labour-market access allow cities to become platforms for firm growth.
 
-<div class="policy-item">
-<span class="policy-year">2026</span>
-<div class="policy-item-body">
-<h3><a href="policy/brief-power-structures-ssa.html">Power Structures and Energy Reforms in Sub-Saharan Africa</a></h3>
-<span class="policy-item-credit">IGC policy note</span>
-</div>
-</div>
+- [Smart Meters for Firms in Ethiopia: Evidence from a Randomised Experiment](https://www.theigc.org/publications/smart-meters-firms-ethiopia-evidence-randomised-experiment){.pub-title}
+  [IGC policy brief, 2026 · with Eyoual Tamrat Demeke, Aregawi Gebremariam, [Niclas Moneke](https://niclasmoneke.com/), [Sugandha Srivastav](https://www.sugandhasrivastav.com/), Ephrem Andargie Tadesse, and Tewodros Assefa Tesemma]{.pub-meta}
 
-<div class="policy-item">
-<span class="policy-year">2025</span>
-<div class="policy-item-body">
-<h3><a href="https://doi.org/10.31389/lsepress.tlc.n">Climate and Environment: What We Know and What We Need to Know</a></h3>
-<span class="policy-item-credit">Chapter in <em>The London Consensus</em>, LSE Press · with <a href="https://www.robinburgess.com/">Robin Burgess</a></span>
-<p>An evidence-led agenda for sustainable growth, climate resilience, innovation, and the research still needed by policymakers.</p>
-</div>
-</div>
+  Baseline evidence and policy lessons from an ongoing trial with 1,583 firms and the Ethiopian Electricity Utility.
 
-<div class="policy-item">
-<span class="policy-year">2025</span>
-<div class="policy-item-body">
-<h3><a href="https://www.theigc.org/sites/default/files/2025-06/Dobermann%20et%20al%20Growth%20brief%20May%202025.pdf">Sustainable Pakistan: Addressing Climate-Driven Demands and Fiscal Challenges for Electricity</a></h3>
-<span class="policy-item-credit">IGC growth brief · with Sajid Faiz Malik, <a href="https://farazhayat.com/">Faraz Hayat</a>, and Zuhair Khan</span>
-<p>Why affordability, fiscal sustainability, and renewable energy must be addressed together in Pakistan's power sector.</p>
-</div>
-</div>
+- [Power Structures and Energy Reforms in Sub-Saharan Africa](policy/brief-power-structures-ssa.qmd){.pub-title}
+  [IGC policy note, 2026]{.pub-meta}
 
-<div class="policy-item">
-<span class="policy-year">2025</span>
-<div class="policy-item-body">
-<h3><a href="https://www.theigc.org/publications/framework-productivity-and-export-led-growth-pakistan">A Framework for Productivity and Export-Led Growth in Pakistan</a></h3>
-<span class="policy-item-credit">Growth framework prepared at the request of Pakistan's Planning Commission · contributing author</span>
-<p>A cross-sector strategy centred on productive jobs, competitiveness, tax and state-owned-enterprise reform, trade, cities, and skills.</p>
-</div>
-</div>
+- [Climate and Environment: What We Know and What We Need to Know](https://doi.org/10.31389/lsepress.tlc.n){.pub-title}
+  [Chapter in *The London Consensus*, LSE Press, 2025 · with [Robin Burgess](https://www.robinburgess.com/)]{.pub-meta}
 
-<div class="policy-item">
-<span class="policy-year">2025</span>
-<div class="policy-item-body">
-<h3><a href="https://www.theigc.org/publications/transition-critical-minerals">Transition-Critical Minerals</a></h3>
-<span class="policy-item-credit">IGC policy note · with Shahrukh Wani and Jonathan Leape</span>
-<p>How mineral-rich countries can build domestic value, diversify supply chains, and manage the environmental costs of extraction.</p>
-</div>
-</div>
+  An evidence-led agenda for sustainable growth, climate resilience, innovation, and the research still needed by policymakers.
 
-<div class="policy-item">
-<span class="policy-year">2023</span>
-<div class="policy-item-body">
-<h3><a href="https://www.theigc.org/news/innovation-growth-and-environment">Innovation, Growth, and the Environment</a></h3>
-<span class="policy-item-credit">IGC white paper · with <a href="https://www.robinburgess.com/">Robin Burgess</a>, Stefano Caria, and Allegra Saggese</span>
-<p>A research and policy framework for raising living standards while protecting the natural environment.</p>
-</div>
-</div>
-</div>
+- [Sustainable Pakistan: Addressing Climate-Driven Demands and Fiscal Challenges for Electricity](https://www.theigc.org/sites/default/files/2025-06/Dobermann%20et%20al%20Growth%20brief%20May%202025.pdf){.pub-title}
+  [IGC growth brief, 2025 · with Sajid Faiz Malik, [Faraz Hayat](https://farazhayat.com/), and Zuhair Khan]{.pub-meta}
 
-## Government engagement
+  Why affordability, fiscal sustainability, and renewable energy must be addressed together in Pakistan's power sector.
 
-<div class="engagement-grid">
-<div class="engagement-card">
-<p class="paper-meta">Pakistan</p>
-<h3>Energy, fiscal reform, and industrial policy</h3>
-<p>Advice to senior federal decision-makers on electricity tariffs, power-purchase agreements, industrial competitiveness, tax proposals, and macroeconomic reform.</p>
-</div>
+- [A Framework for Productivity and Export-Led Growth in Pakistan](https://www.theigc.org/publications/framework-productivity-and-export-led-growth-pakistan){.pub-title}
+  [Prepared at the request of Pakistan's Planning Commission, 2025 · contributing author]{.pub-meta}
 
-<div class="engagement-card">
-<p class="paper-meta">Ethiopia</p>
-<h3>National energy policy</h3>
-<p>National energy policy, diffusion of solar, and utility reforms, including the evidence base for smart-meter deployment.</p>
-</div>
+  A cross-sector strategy centred on productive jobs, competitiveness, tax and state-owned-enterprise reform, trade, cities, and skills.
 
-<div class="engagement-card">
-<p class="paper-meta">Ghana</p>
-<h3>Electricity and industrial activity</h3>
-<p>Electricity sector losses, outages, and industrial activity, and their effects on firm productivity and agglomeration.</p>
-</div>
+- [Transition-Critical Minerals](https://www.theigc.org/publications/transition-critical-minerals){.pub-title}
+  [IGC policy note, 2025 · with Shahrukh Wani and Jonathan Leape]{.pub-meta}
 
-<div class="engagement-card">
-<p class="paper-meta">Jordan</p>
-<h3>Utility tariff reform</h3>
-<p>Water and electricity tariff reforms.</p>
-</div>
+  How mineral-rich countries can build domestic value, diversify supply chains, and manage the environmental costs of extraction.
 
-<div class="engagement-card">
-<p class="paper-meta">India</p>
-<h3>Climate and structural transformation</h3>
-<p>Policies for climate adaptation and structural transformation.</p>
-</div>
+- [Innovation, Growth, and the Environment](https://www.theigc.org/news/innovation-growth-and-environment){.pub-title}
+  [IGC white paper, 2023 · with [Robin Burgess](https://www.robinburgess.com/), Stefano Caria, and Allegra Saggese]{.pub-meta}
 
-<div class="engagement-card">
-<p class="paper-meta">Myanmar</p>
-<h3>Electrification and urban growth</h3>
-<p>Research and policy support on the National Electrification Plan, energy pricing, infrastructure constraints, and the development of Yangon.</p>
-</div>
-</div>
+  A research and policy framework for raising living standards while protecting the natural environment.
+:::
 
 ## Earlier briefs and reports
 
-::: {.earlier-work-list}
-- [Sustainable Growth for a Changing Climate](policy/brief-sustainable-growth-changing-climate.qmd) — IGC growth brief, 2022
-- [Energy and Environment for Economic Growth](policy/brief-energy-environment-economic-growth.qmd) — IGC evidence paper, 2021
-- [Building a Healthy Power Sector in Pakistan](policy/brief-healthy-power-sector-pakistan.qmd) — Government of Pakistan report, 2020
-- [Little Book of Growth Ideas](policy/brief-little-book-of-growth-ideas.qmd) — IGC publication, contributing author, 2020
-- [Estimating a Social Discount Rate for Myanmar](policy/brief-social-discount-rate-myanmar.qmd) — IGC brief, 2018
-- [Developing Yangon's Periphery](policy/brief-developing-yangons-periphery.qmd) — IGC policy brief, 2017
-- [Energy in Myanmar](policy/brief-energy-in-myanmar.qmd) — IGC policy brief, 2016
-- [Urban Myanmar](policy/brief-urban-myanmar.qmd) — IGC policy brief, 2016
+::: {.pubs .pubs-compact}
+- [Sustainable Growth for a Changing Climate](policy/brief-sustainable-growth-changing-climate.qmd){.pub-title}
+  [IGC growth brief, 2022]{.pub-meta}
+- [Energy and Environment for Economic Growth](policy/brief-energy-environment-economic-growth.qmd){.pub-title}
+  [IGC evidence paper, 2021]{.pub-meta}
+- [Building a Healthy Power Sector in Pakistan](policy/brief-healthy-power-sector-pakistan.qmd){.pub-title}
+  [Government of Pakistan report, 2020]{.pub-meta}
+- [Little Book of Growth Ideas](policy/brief-little-book-of-growth-ideas.qmd){.pub-title}
+  [IGC publication, 2020 · contributing author]{.pub-meta}
+- [Estimating a Social Discount Rate for Myanmar](policy/brief-social-discount-rate-myanmar.qmd){.pub-title}
+  [IGC brief, 2018]{.pub-meta}
+- [Developing Yangon's Periphery](policy/brief-developing-yangons-periphery.qmd){.pub-title}
+  [IGC policy brief, 2017]{.pub-meta}
+- [Energy in Myanmar](policy/brief-energy-in-myanmar.qmd){.pub-title}
+  [IGC policy brief, 2016]{.pub-meta}
+- [Urban Myanmar](policy/brief-urban-myanmar.qmd){.pub-title}
+  [IGC policy brief, 2016]{.pub-meta}
 :::
 
-::: {.page-end-cta}
-For a fuller record of appointments and policy engagement, see the [curriculum vitae](cv.qmd).
+## Government engagement
+
+::: {.engagements}
+**Pakistan.** Advice to senior federal decision-makers on electricity tariffs, power purchase agreements, industrial competitiveness, tax proposals, and macroeconomic reform.
+
+**Ethiopia.** National energy policy, diffusion of solar, and utility reforms, including the evidence base for smart-meter deployment.
+
+**Ghana.** Electricity sector losses, outages, and industrial activity, and their effects on firm productivity and agglomeration.
+
+**Jordan.** Water and electricity tariff reforms.
+
+**India.** Policies for climate adaptation and structural transformation.
+
+**Myanmar.** Research and policy support on the National Electrification Plan, energy pricing, infrastructure constraints, and the development of Yangon.
 :::

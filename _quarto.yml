@@ -35,10 +35,9 @@ website:
     card-style: summary
 
   navbar:
-    title: false
     background: light
     pinned: true
-    collapse-below: lg
+    collapse-below: md
     right:
       - text: "Research"
         file: research.qmd
@@ -46,14 +45,12 @@ website:
         file: policy.qmd
       - text: "Writing"
         file: media.qmd
-      - text: "About"
-        file: about.qmd
       - text: "CV"
-        file: cv.qmd
+        href: tim-dobermann-cv.pdf
 
   page-footer:
     left: "© 2026 Tim Dobermann"
-    center:
+    right:
       - text: "Email"
         href: mailto:t.dobermann@lse.ac.uk
       - text: "Google Scholar"
@@ -62,7 +59,6 @@ website:
         href: https://www.linkedin.com/in/timdobermann/
       - text: "GitHub"
         href: https://github.com/tdobermann
-    right: "Built with [Quarto](https://quarto.org)"
     border: true
 
 format:
@@ -73,8 +69,6 @@ format:
     toc: false
     anchor-sections: false
     smooth-scroll: true
-    fontsize: "1.05rem"
-    linestretch: 1.65
     link-external-icon: false
     link-external-newwindow: false
     page-layout: full
@@ -83,6 +77,6 @@ format:
           <link rel="preconnect" href="https://fonts.googleapis.com">
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
           <link rel="stylesheet" media="print" onload="this.media='all'"
-                href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap">
+                href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
           <noscript><link rel="stylesheet"
-                href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap"></noscript>
+                href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap"></noscript>

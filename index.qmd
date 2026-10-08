@@ -1,165 +1,47 @@
 ---
+title: "Tim Dobermann"
 pagetitle: "Tim Dobermann | Economist"
 description: "Research on AI, energy, climate, structural transformation, and growth in developing economies."
+aliases:
+  - about.html
 ---
 
-::: {.home-hero}
-::: {.home-hero-inner}
-::: {.hero-copy}
-<p class="eyebrow">Growth &amp; development · Energy · AI</p>
-
-# Tim Dobermann
-
-<p class="hero-role">Economist</p>
-
-<p class="hero-affiliation">Director of Research &amp; Chief Economist, <a href="https://www.theigc.org/">International Growth Centre (IGC)</a><br>Research Fellow, <a href="https://www.lse.ac.uk/">London School of Economics (LSE)</a></p>
-
-<p class="hero-lede">I research growth in developing economies using field experiments, administrative data, and quantitative models.</p>
-
-<div class="button-row">
-[Read the research](research.qmd){.button .button-primary}
-[Curriculum vitae](cv.qmd){.button .button-secondary}
-</div>
-
-<div class="profile-links" aria-label="Academic and professional profiles">
-<a href="https://www.theigc.org/people/tim-dobermann"><i class="bi bi-building" aria-hidden="true"></i> IGC profile</a>
-<a href="https://www.linkedin.com/in/timdobermann/"><i class="bi bi-linkedin" aria-hidden="true"></i> LinkedIn</a>
-<a href="mailto:t.dobermann@lse.ac.uk"><i class="bi bi-envelope" aria-hidden="true"></i> Email</a>
-</div>
-:::
-
-::: {.hero-portrait}
-<picture>
+```{=html}
+<div class="home-intro">
+<picture class="home-photo">
 <source srcset="images/profile.webp" type="image/webp">
 <img src="images/profile.jpg" width="704" height="880" alt="Tim Dobermann" loading="eager" decoding="async" fetchpriority="high">
 </picture>
-:::
-:::
-:::
+<div class="home-id">
+<h1>Tim Dobermann</h1>
+<p class="home-positions">Director of Research &amp; Chief Economist, <a href="https://www.theigc.org/">International Growth Centre (IGC)</a><br>Research Fellow, Department of Economics, <a href="https://www.lse.ac.uk/">London School of Economics (LSE)</a></p>
+<p class="home-links"><a href="mailto:t.dobermann@lse.ac.uk">t.dobermann@lse.ac.uk</a> · <a href="tim-dobermann-cv.pdf">CV</a> · <a href="https://scholar.google.com/citations?user=QSNCu9UAAAAJ">Google Scholar</a> · <a href="https://www.theigc.org/people/tim-dobermann">IGC profile</a> · <a href="https://www.linkedin.com/in/timdobermann/">LinkedIn</a></p>
+</div>
+</div>
+```
 
-::: {.affiliation-strip}
-<div class="affiliation-strip-inner">
-<div class="affiliation-item">
-<span class="affiliation-label">Fields</span>
-<strong>Development, energy, environmental economics, and AI</strong>
-<span class="affiliation-detail">With political economy and the economics of new technologies</span>
-</div>
-<div class="affiliation-item">
-<span class="affiliation-label">Methods</span>
-<strong>Field experiments, administrative data, quantitative models</strong>
-<span class="affiliation-detail">Randomised trials run with governments and utilities</span>
-</div>
-<div class="affiliation-item">
-<span class="affiliation-label">Fieldwork</span>
-<strong>South Asia, sub-Saharan Africa, and MENA</strong>
-<span class="affiliation-detail">Pakistan, Ethiopia, Ghana, Jordan, India, Myanmar</span>
-</div>
-</div>
-:::
+I am an economist working on AI, development, and environmental economics. My research asks how energy systems, climate change, and new technologies like AI shape structural transformation, and how institutions can manage those transitions. I work with field experiments, administrative data, and quantitative models, mostly on projects in South Asia and sub-Saharan Africa, in partnership with the utilities, revenue authorities, and ministries that run the systems I study.
 
-::: {.home-section .research-agenda}
-<p class="section-kicker">Research agenda</p>
+At the IGC I lead the global research portfolio and a team of more than twenty economists, and I advise governments across Africa, MENA, and Asia on [policies for sustainable economic growth](policy.qmd). I hold a PhD in Economics from LSE.
 
-## Three themes
+## Working papers
 
-<div class="agenda-grid">
-<div class="agenda-item">
-<span class="agenda-number">01</span>
-<h3>Structural transformation and technology</h3>
-<p>How industrial policy, artificial intelligence, and changing sectoral capabilities alter the path from poverty to prosperity.</p>
-</div>
-<div class="agenda-item">
-<span class="agenda-number">02</span>
-<h3>Energy markets and state capacity</h3>
-<p>How contracts, prices, metering, and enforcement shape the reliability and affordability of electricity, and what that costs firms.</p>
-</div>
-<div class="agenda-item">
-<span class="agenda-number">03</span>
-<h3>Climate adaptation and human capital</h3>
-<p>How education and mobility determine who can adapt to a changing climate, and why climate damages fall so unequally across places.</p>
-</div>
-</div>
+::: {.pubs .pubs-compact}
+- [AI and the Ladder of Development](papers/ai-ladder-of-development.qmd){.pub-title}
+- [Human Capital, Mobility, and the Unequal Effects of Climate Change](papers/human-capital-climate-mobility.qmd){.pub-title}
+- [The Economic Costs of Lopsided Contracts: Evidence from Power Purchase Agreements in Pakistan](papers/economic-costs-lopsided-ppas-pakistan.qmd){.pub-title}
+  [with [Faraz Hayat](https://farazhayat.com/) and [Sugandha Srivastav](https://www.sugandhasrivastav.com/)]{.pub-authors}
+- [Pushing on a String? Price and Enforcement Interventions in Pakistan's Power Sector](papers/pushing-on-a-string-pakistan.qmd){.pub-title}
+  [with [Robin Burgess](https://www.robinburgess.com/), [Michael Greenstone](https://michaelgreenstone.com/), [Faraz Hayat](https://farazhayat.com/), and [Usman Naeem](https://usman-naeem.com/)]{.pub-authors}
 :::
 
-::: {.home-section .selected-research-section}
-<div class="section-heading-row">
-<div>
-<p class="section-kicker">Selected research</p>
-<h2>Current work</h2>
-</div>
-<p class="section-link"><a href="research.html">All research →</a></p>
-</div>
+## Work in progress
 
-<div class="featured-paper-grid">
-<div class="featured-paper">
-<p class="paper-meta">Working paper · AI &amp; development</p>
-<h3><a href="papers/ai-ladder-of-development.html">AI and the Ladder of Development</a></h3>
-<p class="paper-authors">Tim Dobermann</p>
-<p>Frontier AI could increase average productivity and incomes while pulling labour toward weak-learning sectors, eroding long-run capability growth.</p>
-</div>
-<div class="featured-paper">
-<p class="paper-meta">Working paper · Climate adaptation</p>
-<h3><a href="papers/human-capital-climate-mobility.html">Human Capital, Mobility, and the Unequal Effects of Climate Change</a></h3>
-<p class="paper-authors">Tim Dobermann</p>
-<p>Education lets people change sector and location when crop conditions worsen — but the places facing the largest damages invest least in it.</p>
-</div>
-<div class="featured-paper">
-<p class="paper-meta">Working paper · Energy markets</p>
-<h3><a href="papers/economic-costs-lopsided-ppas-pakistan.html">The Economic Costs of Lopsided Contracts</a></h3>
-<p class="paper-authors">With <a href="https://farazhayat.com/">Faraz Hayat</a> and <a href="https://www.sugandhasrivastav.com/">Sugandha Srivastav</a></p>
-<p>A new database on Pakistan's power purchase agreements, and what asymmetric information and regulatory capture cost the wider economy.</p>
-</div>
-<div class="featured-paper">
-<p class="paper-meta">Field experiments · Pakistan</p>
-<h3><a href="papers/pushing-on-a-string-pakistan.html">Pushing on a String?</a></h3>
-<p class="paper-authors">With <a href="https://www.robinburgess.com/">Robin Burgess</a>, <a href="https://michaelgreenstone.com/">Michael Greenstone</a>, <a href="https://farazhayat.com/">Faraz Hayat</a>, and <a href="https://usman-naeem.com/">Usman Naeem</a></p>
-<p>Two randomised experiments run with government on how prices and norm-based enforcement change electricity payment and theft.</p>
-</div>
-</div>
+::: {.pubs .pubs-compact}
+- [Deciphering the Miracle on the Han: How South Korea Escaped Poverty and Transformed its Economy](papers/miracle-on-the-han.qmd){.pub-title}
+  [with [Oriana Bandiera](https://orianabandiera.github.io/), [Ignacio Bañares Sanchez](https://ignaciobanares.com/), [Robin Burgess](https://www.robinburgess.com/), [Jay Euijung Lee](https://www.jayeuijunglee.com/), Jeongkyung Won, and Hyunjoo Yang]{.pub-authors}
+- [Electricity, Agglomeration, and Industrialisation in Ghana](papers/electricity-agglomeration-ghana.qmd){.pub-title}
+  [with [Ignacio Bañares Sanchez](https://ignaciobanares.com/) and [Niclas Moneke](https://niclasmoneke.com/)]{.pub-authors}
 :::
 
-::: {.policy-band}
-<div class="policy-band-inner">
-<div class="policy-band-copy">
-<p class="section-kicker">From evidence to policy</p>
-
-## Advising governments on growth
-
-<p>I advise governments across Africa, MENA, and Asia on policies for sustainable economic growth, and work regularly with finance and energy ministries on public finance issues. This work is also where the data, the institutional constraints, and my research agenda come from.</p>
-
-<p><a href="policy.html" class="text-link-arrow">Explore policy work →</a></p>
-</div>
-<dl class="engagement-rail">
-<div class="engagement-rail-item">
-<dt>Pakistan</dt>
-<dd>Electricity tariffs, power purchase agreements, tax reform, and industrial policy, with the Ministries of Energy and Finance.</dd>
-</div>
-<div class="engagement-rail-item">
-<dt>Ethiopia</dt>
-<dd>National energy policy, diffusion of solar, and utility reforms.</dd>
-</div>
-<div class="engagement-rail-item">
-<dt>Ghana</dt>
-<dd>Electricity sector losses, outages, and industrial activity.</dd>
-</div>
-<div class="engagement-rail-item">
-<dt>Jordan</dt>
-<dd>Water and electricity tariff reforms.</dd>
-</div>
-<div class="engagement-rail-item">
-<dt>India</dt>
-<dd>Policies for climate adaptation and structural transformation.</dd>
-</div>
-<div class="engagement-rail-item">
-<dt>Myanmar</dt>
-<dd>The technical update of the National Electrification Plan and Yangon's urban growth.</dd>
-</div>
-</dl>
-</div>
-:::
-
-::: {.home-section .contact-section}
-<div class="button-row">
-[t.dobermann@lse.ac.uk](mailto:t.dobermann@lse.ac.uk){.button .button-primary}
-</div>
-:::
+[Abstracts and ongoing field projects →](research.qmd){.more-link}
