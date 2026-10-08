@@ -1,15 +1,7 @@
 ---
 title: "Curriculum Vitae"
-subtitle: "Research, leadership, and policy experience"
-description: "Curriculum vitae of Tim Dobermann, economist and Director of Research and Chief Economist at the International Growth Centre."
+description: "Curriculum vitae of Tim Dobermann, Chief Economist at the International Growth Centre."
 toc: false
 ---
 
-::: {.cv-intro}
-Economist working across development, environmental, and AI economics, combining academic research with research leadership and direct government engagement.
-
-<div class="button-row">
-[Download CV (PDF)](tim-dobermann-cv.pdf){.button .button-primary}
-[t.dobermann@lse.ac.uk](mailto:t.dobermann@lse.ac.uk){.button .button-secondary}
-</div>
-:::
+[Download CV (PDF)](tim-dobermann-cv.pdf)
