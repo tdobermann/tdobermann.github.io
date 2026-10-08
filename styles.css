@@ -59,6 +59,7 @@ h3,
 
 h1,
 .title {
+  color: var(--navy-dark);
   font-size: 2.3rem;
   line-height: 1.15;
 }
@@ -66,6 +67,7 @@ h1,
 /* Quarto's Bootstrap gives every h2 its own rule and spacing; this replaces it. */
 h2 {
   margin: 2.5rem 0 1.1rem;
+  color: var(--navy);
   padding-bottom: 0.35rem;
   border-bottom: 1px solid var(--line);
   /* short copper tick on the left of the rule */
@@ -151,12 +153,12 @@ body:has(.home-intro) .navbar-brand {
 
 .navbar .nav-link:hover,
 .navbar .nav-link.active {
-  color: var(--ink) !important;
+  color: var(--navy) !important;
 }
 
 .navbar .nav-link.active {
   text-decoration: underline;
-  text-decoration-color: var(--line);
+  text-decoration-color: var(--navy);
   text-decoration-thickness: 2px;
   text-underline-offset: 0.35em;
 }
