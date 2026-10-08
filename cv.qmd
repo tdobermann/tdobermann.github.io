@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-description: "Curriculum vitae of Tim Dobermann, economist and Director of Research and Chief Economist at the International Growth Centre."
+description: "Curriculum vitae of Tim Dobermann, Chief Economist at the International Growth Centre."
 toc: false
 ---
 

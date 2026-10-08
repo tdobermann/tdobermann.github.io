@@ -14,7 +14,7 @@ aliases:
 </picture>
 <div class="home-id">
 <h1>Tim Dobermann</h1>
-<p class="home-positions">Director of Research &amp; Chief Economist, <a href="https://www.theigc.org/">International Growth Centre (IGC)</a><br>Research Fellow, Department of Economics, <a href="https://www.lse.ac.uk/">London School of Economics (LSE)</a></p>
+<p class="home-positions">Chief Economist, <a href="https://www.theigc.org/">International Growth Centre (IGC)</a><br>Research Fellow, Department of Economics, <a href="https://www.lse.ac.uk/">London School of Economics (LSE)</a></p>
 <p class="home-links"><a href="mailto:t.dobermann@lse.ac.uk">t.dobermann@lse.ac.uk</a> · <a href="tim-dobermann-cv.pdf">CV</a> · <a href="https://scholar.google.com/citations?user=QSNCu9UAAAAJ">Google Scholar</a> · <a href="https://www.theigc.org/people/tim-dobermann">IGC profile</a> · <a href="https://www.linkedin.com/in/timdobermann/">LinkedIn</a></p>
 </div>
 </div>
