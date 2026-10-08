@@ -386,7 +386,7 @@ footer.footer .nav-footer {
   margin-top: 4rem;
   padding: 1.25rem var(--gutter) 1.75rem;
   padding-inline: max(var(--gutter), calc((100% - var(--page)) / 2 + var(--gutter)));
-  border-top: 1px solid var(--line) !important;
+  border-top: 3px solid var(--navy) !important;
   background: var(--paper);
   color: var(--ink-faint);
   font-family: var(--serif);
